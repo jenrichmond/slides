@@ -1,8 +1,27 @@
 
-## Jenny's github pages slides
+## Jenny's slides
+
+[byod R workshop slides](/byod/workshop.html)
+
+[writing workshop slides](/writing.html)
 
 
-Note the relative link starting with a slash before the html file.
+## How to gh_pages + xaringan slides
+
+- Create a repo with xaringan slide and the following files:
+    + xaringan_example.rmd, your xaringan slide
+    + index.md, for the homepage of github page, see the index.md for an example.
+- In rstudio, knit the xaringan slides.
+- Push everything to github
+- Setup github pages
+    + Settings - Github Pages- source: master branch 
+    + Optional: choose a jekyll theme)
+
+Done, the slides can be viewed online at https://{account}.github.io/{repo_name}/{xaringan_slide_filename}
+
+### create links on the home page
+
+The relative link starting with a slash before the html file.
 
 The index.md is used to customize the github page's home page, 
 The following link directs to the slide.
@@ -13,8 +32,6 @@ Result:
 
 [slide link](/xaringan_example.html)
 
-
-[writing workshop slides](/writing.html)
 
 ### Embed (fancy iframe code below)
 
