@@ -1,0 +1,98 @@
+---
+title: "how to"
+author: "Jen Richmond"
+date: "23/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## How to gh_pages + xaringan slides
+
+- Create a repo with xaringan slide and the following files:
+    + xaringan_example.rmd, your xaringan slide
+    + index.md, for the homepage of github page, see the index.md for an example.
+- In rstudio, knit the xaringan slides.
+- Push everything to github
+- Setup github pages
+    + Settings - Github Pages- source: master branch 
+    + Optional: choose a jekyll theme)
+
+Done, the slides can be viewed online at https://{account}.github.io/{repo_name}/{xaringan_slide_filename}
+
+### create links on the home page
+
+The relative link starting with a slash before the html file.
+
+The index.md is used to customize the github page's home page, 
+The following link directs to the slide.
+
+Code: `[slide link](/xaringan_example.html)`
+
+Result:
+
+[slide link](/xaringan_example.html)
+
+
+### Embed (fancy iframe code below)
+
+Or you could embed the xaringan slide into a webpage using iframe:
+
+Code:
+
+```
+## CSS styles
+<style>
+.resp-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+}
+
+.testiframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+</style>
+
+
+## html iframe to embed the slide.
+
+<div class="resp-container">
+    <iframe class="testiframe" src="https://tcgriffith.github.io/xaringan_theme_example/use_master.html">
+      Fallback text here for unsupporting browsers, of which there are scant few.
+    </iframe>
+</div>
+
+```
+
+Result:
+
+<style>
+.resp-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+}
+
+.testiframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+</style>
+
+<div class="resp-container">
+    <iframe class="testiframe" src="https://tcgriffith.github.io/xaringan_gh/xaringan_example.html">
+      Fallback text here for unsupporting browsers, of which there are scant few.
+    </iframe>
+</div>
