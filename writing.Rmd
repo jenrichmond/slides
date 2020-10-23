@@ -12,12 +12,12 @@ output:
     nature:
       highlightStyle: dracula
       highlightLanguage: ["r", "yaml", "markdown"]
-      slideNumberFormat: "" 
+      slideNumberFormat: "%current%" 
       highlightLines: true
-      countIncrementalSlides: false
+      countIncrementalSlides: true
       ratio: "16:9"
 params:
-  site_link: "insert slides url here"
+  site_link: "https://jenrichmond.github.io/slides/writing.html"
 ---
 
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
@@ -100,6 +100,17 @@ template: wall
 class: center, middle
 
 # why is it hard to start writing?
+
+
+---
+
+# Exercise 1a
+
+Jump into the google doc, pick a font colour, write continuously (without stopping) about why you find it hard to get started on writing projects. 
+
+```{r echo=FALSE}
+countdown(minutes = 3, seconds = 00, font_size = "2em")
+``` 
 
 
 ---
@@ -191,16 +202,6 @@ knitr::include_graphics("img/blockCH.jpg")
 
 
 ---
-
-# Exercise 1a
-
-Jump into the google doc, pick a font colour, write continuously (without stopping) about why you find it hard to get started on writing projects. 
-
-```{r echo=FALSE}
-countdown(minutes = 3, seconds = 00, font_size = "2em")
-``` 
-
----
 template: wall 
 class: center, middle
 
@@ -219,7 +220,7 @@ Write to learn.
 
 Lets do that again... this time about your next assignment. Start with....
 
-“I don’t know anything at all about [insert something related to your assignment]…… I need to understand more about it because…. I do know that... I think that I need to read more about...”
+“I don’t know anything at all about [insert something related to your assignment]... I need to understand more about it because... I do know that... I think that I need to read more about...”
 
 Write about what you DON’T know, what you DO know, what you need to learn, how you feel about it.  
 
@@ -238,8 +239,6 @@ Kick start your writing session by writing about ...
 - how you are feeling about writing 
 - what you are feeling stuck on
 - what you don't know and need to learn
-
-
 
 ] 
 
@@ -305,20 +304,20 @@ countdown(minutes = 2, seconds = 00, font_size = "2em")
 
 ---
 
-# Do these comments sound familiar?
+# Frequently used comments... 
 
 .pull-left[
 
-- unclear/vague
-- this doesn't flow
-- unpack this point
-- jargon
 
-<br>
-<br>
 
-[Flight of the Conchords](https://www.youtube.com/watch?v=FArZxLj6DLk)
+- *unclear/vague*
+- *this doesn't flow*
+- *unpack this point*
+- *jargon*
 
+You can prevent these comments by asking yourself 6 questions about your own writing. 
+
+] 
  
 
 .pull-right[
@@ -332,7 +331,7 @@ countdown(minutes = 2, seconds = 00, font_size = "2em")
 template: wall 
 class: center, middle
 
-# self critique: 
+ 
 # 6 questions to ask yourself 
 # about your writing
 
@@ -357,10 +356,10 @@ knitr::include_graphics("img/abstract.png")
 
 - write for your mum 
   + aka someone who is smart and interested but not at all familiar with the topic
-- make your vocabulary as concrete and simple as possible
-- use concrete examples
+- choose simple/concrete words
+- use examples
 - avoid jargon and acronyms
-- use the 1:5:25 rule
+
 
 
 ---
@@ -375,11 +374,12 @@ class: center, middle
 
 # what is the job of a topic sentence 
 
-The first sentence of every paragraph should give the reader the take home message of that paragraph. 
+The first sentence of every paragraph should give the reader the take home message.
+
 - Each of your topic sentences should be a general statement summarising a particular part of the literature. 
-- It should "synthesise" the literature. 
-- It should tell the reader what has been found across studies. 
-- It should not be about a specific study, and should do more than just tell the reader that some research has been done. 
+  + It should tell the reader what has been found across studies. 
+  + It should not be about a specific study
+  + It should do more than just tell the reader that some research has been done. 
 
 ---
 # example 1a - too specific
@@ -388,7 +388,7 @@ The first sentence of every paragraph should give the reader the take home messa
 
 ---
 
-# example 1b - too general
+# example 1b - better, but too general
 
 *Research has shown a link between aging and social cognition.* For example, Phillips and colleagues (2015) found that while participants aged 65-86 had no problem understanding sincere exchanges, they found it more difficult  to understand sarcastic exchanges than did young adults (Phillips et al, 2015). This result is consistent with a recent meta-analysis of theory of mind studies, which showed that older adults performed worse on TOM tasks compared to younger groups (Henry, Phillips, Ruffman, & Bailey, 2013). 
 
@@ -445,6 +445,8 @@ class: center, middle
   + explanation
   + examples
   + evidence 
+- use the 1:5:25 rule
+  + 1 idea, ~ 5 sentences, no more than 25 words/sentence
   
 ---
 
@@ -477,6 +479,7 @@ class: center, middle
 - set up expectations and deliver on them
   + strong topic sentences + predictable paragraph structure
   + make the links between ideas really explicit
+  + use signposting
   + avoid vagueness and potential for confusion 
     + [see the Thesis Whisperer](https://thesiswhisperer.com/2017/06/28/8346/)
 
@@ -485,6 +488,7 @@ class: center, middle
   
 
 template: wall
+
 class: center, middle
 
 # 5. Does your writing synthesise or simply describe?
@@ -494,7 +498,7 @@ class: center, middle
 
 # Some student writing reads like a list of study desciptions
 
-*So & So (2014) did a study that involved X and found that Y. In addition, Joe & Co (2016) have found that A relates to B. Also, Big Dude and colleagues() ran a study showing that manipulating X results in changes in B.* 
+*So & So (2014) did a study that involved X and found that Y. In addition, Joe & Co (2016) have found that A relates to B. Also, Big Dude and colleagues(2019) ran a study showing that manipulating X results in changes in B.* 
 
 Your job as the writer is to make it easy for your reader. You can do that by "synthesising" the literature, and doing the hard thinking for them.  
 
@@ -507,9 +511,8 @@ Your job as the writer is to make it easy for your reader. You can do that by "s
 - write with "authorial voice", use opinionated verbs 
   + [see Thesis Whisperer](https://thesiswhisperer.com/2017/09/27/academic-writing-is-a-painful-upper-middle-class-dinner-party/)
 
-## How to synthesise
-1. Keep track of what you read in a [matrix](https://docs.google.com/spreadsheets/d/1MgeD8zcJ-4LwEUkUxqTojAoA224RU8tB95V-y-dU040/edit?usp=sharing)
-2. Use the [summary/reaction](https://docs.google.com/document/d/1XLi1DrYP9QdGKYYJ3j0Mr905puc8ml_YycB2RXdtlD4/edit?usp=sharing) prompts to reflect on patterns, consistencies, links between theory/empirical works from your matrix.  
+## Strategies
+1. Use a [matrix](https://docs.google.com/spreadsheets/d/1MgeD8zcJ-4LwEUkUxqTojAoA224RU8tB95V-y-dU040/edit?usp=sharing) and write [reactions](https://docs.google.com/document/d/1XLi1DrYP9QdGKYYJ3j0Mr905puc8ml_YycB2RXdtlD4/edit?usp=sharing)  
 
 ---
 
@@ -521,6 +524,37 @@ class: center, middle
 
 
 ---
+
+[Helen Sword zombie nouns](https://www.youtube.com/watch?v=dNlkHtMgcPQ) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dNlkHtMgcPQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+# Passive voice and nominalisation
+
+Examples [from Steven Pinker talk](https://www.youtube.com/watch?v=sS-Txm3R3v8)
+
+Participants read *assertions* whose veracity was either affirmed or denied by the subsequent *presentation* of an *assessment* word
+
+- The people saw sentences, each followed by the word TRUE or FALSE
+
+---
+
+Subjects were tested under conditions of good to excellent acoustic isolation.
+
+- We tested the students tested in a quiet room. 
+
+---
+
+# What to do about zombie nouns and passive voice
+
+- watch out for words that end in -tion -ment
+- can you put "by zombies on the end of a phrase?
+- insert other tell tale signs...
+
+---
+
 
 
 # Exercise 3
@@ -541,8 +575,45 @@ template: wall
 
 ---
 
+# The pomodoro technique
+
+```{r echo=FALSE}
+knitr::include_graphics("https://64.media.tumblr.com/2063e3d81ee2c3867584115a3af8c562/tumblr_phz067HnDL1su40qeo1_640.jpg")
+```
+
+
+
+---
+
 template: wall 
 # make it social
+
+
+---
+
+# Shut up and write
+
+
+.pull-left[
+
+- get a group together
+- write together in pomodoros
+- keep each other accountable
+
+
+] 
+
+
+.pull-right[
+
+```{r echo=FALSE}
+knitr::include_graphics("https://pgrdocblog.files.wordpress.com/2014/11/shut-up-and-write.jpg")
+```
+
+
+]
+
+
 
 
 ---
@@ -550,11 +621,32 @@ template: wall
 template: wall 
 # write first, then revise
 
+---
+
+# Get used to the idea it won't sound good coming out of your head
+
+.pull-left[
+
+- write continuously without stopping to edit
+- go back and make it sound good
+- commit to extensive revision
+
+
+] 
+
+
+.pull-right[
+
+```{r echo=FALSE}
+knitr::include_graphics("https://donovanmneal.files.wordpress.com/2013/04/revision.jpg")
+```
+
+]
 
 ---
 
 
-# The End....
+# Questions....
 
 <iframe src="https://giphy.com/embed/xIJLgO6rizUJi" width="480" height="367" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/alice-in-wonderland-thank-you-xIJLgO6rizUJi">via GIPHY</a></p>
 
