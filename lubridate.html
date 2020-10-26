@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+  <head>
+    <title>Date Night</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="Jen Richmond" />
+    <meta name="date" content="2020-10-26" />
+    <link rel="stylesheet" href="xaringan-themer.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# Date Night
+## using lubridate to work with dates in R
+### Jen Richmond
+### 2020-10-26
+
+---
+
+
+
+
+
+
+If you would like to code along when we get there, use this RStudio Cloud project. You will need to sign up with an email address. 
+
+class: centre, middle
+
+### [https://rstudio.cloud/project/1817769](https://rstudio.cloud/project/1817769)
+
+
+---
+class: inverse, center, middle
+
+# The Plan
+
+--
+
+### an opinionated guide to learning new things in R
+
+--
+
+### 3 things I learned about lubridate
+
+--
+
+### how you can help others learn new things
+
+---
+
+class: inverse, center, middle
+
+# an opinionated guide to learning new things in R
+
+
+---
+
+# learning new things in R
+
+The best thing about open source software like R is that there are SO many learning resources. 
+
+
+---
+
+# learning new things in R
+
+The ~~best~~ worst thing about open source software like R is that there are SO many learning resources. 
+
+--
+
+## Where to start??
+
+--
+
+&lt;br&gt;
+&lt;br&gt;
+
+[PyCon talk Daniele Procida: What nobody tells you about documentation](https://www.youtube.com/watch?v=t4vKPhjcMZg&amp;t=478s)
+
+---
+
+class: middle, centre
+
+&lt;img src="img/quad.png" width="900px" /&gt;
+
+image credit: Daniela Procida
+
+???
+
+tutorial = learning oriented, lessons that take the reader by the hand through a series of steps to complete a project/exercise, show the beginner can achieve something meaningful
+
+how to guide = problem oriented, guides that take the reader through the steps required to solve a common problem, recipes/directions to do something specific
+
+reference = technical descriptions of the machinery and how to operate it
+
+discussion = explanations that clarify and illuminate a particular topic, background, context, explain why things are the way they are. 
+
+
+---
+
+class: middle, centre
+
+&lt;img src="img/prac_steps.png" width="900px" /&gt;
+
+image credit: Daniela Procida
+
+
+
+---
+
+class: middle, centre
+
+&lt;img src="img/theoretical.png" width="900px" /&gt;
+
+image credit: Daniela Procida
+
+
+
+---
+
+class: middle, centre
+
+&lt;img src="img/studying.png" width="900px" /&gt;
+
+image credit: Daniela Procida
+
+
+---
+
+class: middle, centre
+
+&lt;img src="img/coding.png" width="900px" /&gt;
+
+image credit: Daniela Procida
+
+
+
+
+
+---
+
+# in the context of R...
+
+.pull-left[
+
+### tutorials
+
+- books
+  + [R for Data Science](https://r4ds.had.co.nz/)
+  + [Learning Statistics w R](https://learningstatisticswithr.com/)
+- courses
+  + [RYouWithMe](www.rladiessydney.org/RYouWithMe)
+  + [Data Science in a Box](https://datasciencebox.org/)
+- primers 
+  + [RStudio Cloud](https://rstudio.cloud/learn/primers)
+
+] 
+
+
+.pull-right[
+
+### how to guides
+
+- blogs
+  + [Rebecca Barter across](http://www.rebeccabarter.com/blog/2020-07-09-across/)
+  + [Alison Hill blogdown](https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/)
+  + [Suzan Baert dpylr](https://suzan.rbind.io/categories/tutorial/)
+  + [Jen Richmond IDHTG](http://jenrichmond.rbind.io/post/idhtg-how-to-use-colour-palettes-with-ggplot/)
+  
+
+] 
+
+---
+
+# in the context of R...
+
+.pull-left[
+
+### discussion
+
+- other publications
+  + [Hadley Wickham: re tidyverse JOSS](https://joss.theoj.org/papers/10.21105/joss.01686)
+  + [Hadley Wickham: re tidy data JSS](https://www.jstatsoft.org/article/view/v059i10)
+  + [Jenny Byran:  re version control ](https://peerj.com/preprints/3159/)
+  + [Kara Woo: re spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
+
+
+] 
+
+.pull-right[
+
+### reference
+
+- package documentation
+  + CRAN docs
+  + package vignette 
+  + cheat sheets
+
+] 
+
+
+---
+---
+
+class: middle, centre
+
+# my opinion 
+
+beginners should skip tutorials and go straight to "how to" guides
+
+&lt;img src="img/table.png" width="900px" /&gt;
+
+image credit: https://documentation.divio.com/introduction/
+
+
+---
+
+class: inverse center, middle 
+
+# why?
+# tutorials lack an interesting context/problem
+
+
+---
+
+# without context/problem...
+
+
+&lt;iframe src="https://giphy.com/embed/3o752onMtrE2FJJAru" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href="https://giphy.com/gifs/cbc-funny-comedy-3o752onMtrE2FJJAru"&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+
+
+---
+
+
+.pull-right[
+
+&lt;iframe src="https://giphy.com/embed/3ohhwAUoWvd7BeEkqA" width="480" height="478" frameBorder="0" class="giphy-embed" allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href="https://giphy.com/gifs/cbc-funny-comedy-3ohhwAUoWvd7BeEkqA"&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+
+]
+---
+
+# how I learned lubridate 
+
+
+# first google...
+
+&lt;img src="img/google.png" width="900px" /&gt;
+
+
+---
+
+#.... I hit GOLD
+
+[Julia Silge blog](https://juliasilge.com/blog/lubridate-london-stage/)
+
+- great data set (London theatre from 1600) 
+- solves common date problems
+  + how to make characters into dates
+  + how to plot by year(), month(), wday()
+  + how to work with time spans
+  
+---
+
+# My learning plan
+
+Find a cool dataset and copy Julia. 
+
+SMH Sept 15, 2020: [Authorities remain concerned about low testing rates ahead of school holidays](https://www.smh.com.au/national/nsw/nsw-does-not-need-zero-cases-to-be-out-of-the-woods-20200915-p55vpx.html)
+
+
+dataset = [COVID testing rates NSW](https://data.nsw.gov.au/data/dataset/nsw-covid-19-tests-by-age-range/resource/28730d42-675b-4573-ad71-8156313c73a1)
+
+---
+
+
+
+class: inverse, center, middle
+
+# 3 things I learned about lubridate
+
+--
+
+### 1. plotting with date components
+
+--
+
+### 2. converting characters to dates
+
+--
+
+### 3. how to make R read your dates as dates
+
+
+---
+
+
+
+
+
+
+
+---
+
+# 1. Plotting with dates
+
+Use date components within ggplot to plot by...
+
+.pull-left[
+
+## year(), 
+
+## month(), 
+
+## day(), 
+
+## wday()
+
+] 
+
+
+.pull-right[
+
+#### tips 
+
+label = TRUE 
+
+week_start = getOption("lubridate.week.start", 1)
+
+Link to RStudio Cloud for demo
+
+] 
+
+
+
+---
+
+
+# 2. Converting characters to dates
+
+If your dates are in a consistent format, you can use... 
+
+.pull-left[
+
+### ymd()
+
+### mdy()
+
+### dmy()
+
+... to convert characters to dates
+
+] 
+
+
+.pull-right[
+
+Link to RStudio Cloud for demo
+
+
+] 
+
+
+
+---
+
+
+# 3. how to make R read your dates as dates
+
+
+Why did the test data parse as date format and the Taylor/Beyonce data not?
+
+
+---
+
+
+```r
+sales &lt;- read_csv(here::here("data", "sales.csv"))
+
+sales$released[[1]]
+```
+
+```
+## [1] "October 24, 2006"
+```
+
+
+```r
+tests &lt;- read_csv(here::here("data", "totaltests.csv"))
+
+tests$test_date[[1]]
+```
+
+```
+## [1] "2020-03-09"
+```
+
+# my hypothesis
+
+Data that is in year-month-day format will always parse as dates?
+
+---
+
+# collecting data to test my hypothesis 
+
+
+.pull-left[
+
+Enter your birthday 3 times
+
+- as you like
+- using a calendar widget
+- in year-month-day format (ISO 8601)
+
+
+
+] 
+
+.pull-right[
+
+&lt;img src="img/date_data.png" width="400px" /&gt;
+
+
+] 
+
+
+
+---
+
+
+# Which dates does R think are dates?
+
+### it depends....
+
+---
+
+#### using googlesheets4 package
+
+- free date = list
+- template date = date 😄
+- iso date = char
+
+.pull-left[
+
+#### from .xlsx
+
+- free date = char
+- template date = date 😄
+- iso date = char
+
+] 
+
+--
+
+.pull-right[
+
+#### from .csv
+
+- free date = char
+- template date = char
+- iso date = date 😄
+
+] 
+
+
+---
+
+
+# what to do with dates in a million formats?
+
+
+```r
+diff_dates &lt;- read_csv(here::here("data", "diffdatedata.csv")) %&gt;%
+  select(free_date)
+
+head(diff_dates)
+```
+
+```
+## # A tibble: 6 x 1
+##   free_date    
+##   &lt;chr&gt;        
+## 1 30 June 1978 
+## 2 17 Feb, 2011 
+## 3 March 25 2014
+## 4 1977/7/11    
+## 5 4 Sep 1981   
+## 6 11/7/1987
+```
+
+---
+
+# breathe... there are only 3 formats
+
+dmy()
+
+ymd()
+
+mdy()
+
+And parse_date_time() is your friend...
+
+---
+
+
+
+```r
+diff_dates &lt;- diff_dates %&gt;%
+  mutate(free_date_parsed = parse_date_time(free_date, c("ymd", "mdy", "dmy")))
+
+head(diff_dates, 8)
+```
+
+```
+## # A tibble: 8 x 2
+##   free_date     free_date_parsed   
+##   &lt;chr&gt;         &lt;dttm&gt;             
+## 1 30 June 1978  1978-06-30 00:00:00
+## 2 17 Feb, 2011  2011-02-17 00:00:00
+## 3 March 25 2014 2014-03-25 00:00:00
+## 4 1977/7/11     1977-07-11 00:00:00
+## 5 4 Sep 1981    1981-09-04 00:00:00
+## 6 11/7/1987     1987-07-11 00:00:00
+## 7 sep 11 77     1977-09-11 00:00:00
+## 8 6th july 67   2067-07-06 00:00:00
+```
+
+
+- parse_date_time() failed to parse when there was no year. 
+
+- it made an error when the year was only 2 digits. 
+
+
+
+---
+
+# Take home message
+
+Lubridate is full of functions that make working with dates in R easier
+
+- Use date components in ggplot with...
+  + day(), wday(), month(), year()
+- Convert characters to dates with...
+  + dmy(), mdy(), ymd()
+- Whether R will recognise your dates depends on
+  + what format they are in
+  + AND where you are reading them from
+
+BUT parse_date_time() does a pretty good job 😄 
+
+---
+
+
+class: inverse, center, middle
+
+
+# how you can help others learn new things
+
+### Blog while you are learning
+
+### You are in the best place to communicate to another beginner how to do something
+
+
+---
+
+# Read about my learning process
+
+My blog = [www.jenrichmond.rbind.io](http://www.jenrichmond.rbind.io/)
+
+1. [first google](http://jenrichmond.rbind.io/post/lubridate-month-wday/)
+
+2. [wday() month()](http://jenrichmond.rbind.io/post/lubridate-month-wday/)
+
+3. [converting characters](http://jenrichmond.rbind.io/post/converting-characters-to-dates/)
+
+4. [parsing dates automatically](http://jenrichmond.rbind.io/post/parsing-dates-automatically/)
+
+---
+
+# Questions....
+
+&lt;iframe src="https://giphy.com/embed/xIJLgO6rizUJi" width="480" height="367" frameBorder="0" class="giphy-embed" allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href="https://giphy.com/gifs/alice-in-wonderland-thank-you-xIJLgO6rizUJi"&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+
+---
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
