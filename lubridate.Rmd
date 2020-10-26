@@ -32,11 +32,15 @@ style_duo_accent(
 )
 ```
 
-If you would like to code along when we get there, use this RStudio Cloud project. You will need to sign up with an email address. 
+# Useful links
 
-
+Code along with me... 
 
 ### [https://rstudio.cloud/project/1817769](https://rstudio.cloud/project/1817769)
+
+Slides available here...
+
+[https://jenrichmond.github.io/slides/lubridate#1](https://jenrichmond.github.io/slides/lubridate#1)
 
 
 ---
@@ -78,14 +82,10 @@ The ~~best~~ worst thing about open source software like R is that there are SO 
 
 --
 
-## Where to start??
+## too many choices...
 
---
+<iframe src="https://giphy.com/embed/ouE6OPO1MADM4" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ouE6OPO1MADM4">via GIPHY</a></p>
 
-<br>
-<br>
-
-[PyCon talk Daniele Procida: What nobody tells you about documentation](https://www.youtube.com/watch?v=t4vKPhjcMZg&t=478s)
 
 ---
 
@@ -95,7 +95,7 @@ class: middle, centre
 knitr::include_graphics("img/quad.png")
 ```
 
-image credit: Daniela Procida
+image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZg&t=478s)
 
 ???
 
@@ -116,7 +116,7 @@ class: middle, centre
 knitr::include_graphics("img/prac_steps.png")
 ```
 
-image credit: Daniela Procida
+image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZg&t=478s)
 
 
 
@@ -128,7 +128,7 @@ class: middle, centre
 knitr::include_graphics("img/theoretical.png")
 ```
 
-image credit: Daniela Procida
+image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZg&t=478s)
 
 
 
@@ -140,7 +140,7 @@ class: middle, centre
 knitr::include_graphics("img/studying.png")
 ```
 
-image credit: Daniela Procida
+image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZg&t=478s)
 
 
 ---
@@ -151,7 +151,7 @@ class: middle, centre
 knitr::include_graphics("img/coding.png")
 ```
 
-image credit: Daniela Procida
+image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZg&t=478s)
 
 
 
@@ -167,7 +167,7 @@ image credit: Daniela Procida
 
 - books
   + [R for Data Science](https://r4ds.had.co.nz/)
-  + [Learning Statistics w R](https://learningstatisticswithr.com/)
+  + [Learning Stats w R](https://learningstatisticswithr.com/)
 - courses
   + [RYouWithMe](www.rladiessydney.org/RYouWithMe)
   + [Data Science in a Box](https://datasciencebox.org/)
@@ -315,12 +315,6 @@ class: inverse, center, middle
 ### 3. how to make R read your dates as dates
 
 
----
-
-
-
-
-
 
 
 ---
@@ -331,11 +325,11 @@ Use date components within ggplot to plot by...
 
 .pull-left[
 
-## year(), 
+## year() 
 
-## month(), 
+## month() 
 
-## day(), 
+## day() 
 
 ## wday()
 
@@ -350,7 +344,7 @@ label = TRUE
 
 week_start = getOption("lubridate.week.start", 1)
 
-Link to RStudio Cloud for demo
+https://rstudio.cloud/project/1817769
 
 ] 
 
@@ -378,7 +372,7 @@ If your dates are in a consistent format, you can use...
 
 .pull-right[
 
-Link to RStudio Cloud for demo
+https://rstudio.cloud/project/1817769
 
 
 ] 
