@@ -5,6 +5,8 @@
 
 [writing workshop slides](/writing.html)
 
+[lubridate slides](/lubridate.html)
+
 
 ## [How to gh_pages + xaringan slides](/how_to.html)
 
