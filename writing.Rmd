@@ -1,8 +1,8 @@
 ---
-title: "PsychSoc workshop"
+title: "PsychSoc"
 subtitle: "how to write like a psychologist"
-author: Jenny Richmond
-institution: UNSW
+author: Jenny Richmond PhD
+institution: UNSW Psychology
 date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
@@ -25,7 +25,7 @@ library(xaringanthemer)
 style_duo_accent(
   primary_color = "#035AA6", secondary_color = "#03A696",
   inverse_header_color = "#FFFFFF", 
-  text_font_size = "36px"
+  text_font_size = "30px"
 )
 
 
@@ -55,11 +55,15 @@ class: title-slide, center, middle
 
 # `r rmarkdown::metadata$title`
 
-## `r rmarkdown::metadata$subtitle`
+### `r rmarkdown::metadata$subtitle`
 
-### `r rmarkdown::metadata$author` &#183; `r rmarkdown::metadata$institution`
+### `r rmarkdown::metadata$author` 
 
-### `r params$site_link`
+### `r rmarkdown::metadata$institution`
+
+
+
+
 
 ---
 
@@ -67,11 +71,18 @@ name: wall
 class: center, middle
 background-image: url(img/greywall.jpeg)
 background-size: cover
+
 ---
 
 template: wall 
 
 class: centre, middle
+
+These slides available at 
+
+https://jenrichmond.github.io/slides/writing
+
+--
 
 # 3 things
 
@@ -208,11 +219,11 @@ class: center, middle
 
 # Writing is diagnostic 
 
-Write about what you know.
+### Write about what you know.
 
-Write about what you don’t know.
+### Write about what you don’t know.
 
-Write to learn. 
+### Write to learn. 
 
 
 ---
@@ -473,7 +484,7 @@ class: center, middle
 
 # Your job as the writer is to make it easy for your reader. 
 
-- make the "moves" that your reader expects
+- make the research proposal "moves" that your reader expects
     + what is the problem/question, why is it important
     + what do we know about the problem/question
     + what do we NOT know about the problem/question
@@ -491,7 +502,7 @@ class: center, middle
   + use signposting
   + avoid vagueness and potential for confusion 
     + the undefined "this"
-    + [see the Thesis Whisperer](https://thesiswhisperer.com/2017/06/28/8346/)
+    + [see the Thesis Whisperer re vagueness](https://thesiswhisperer.com/2017/06/28/8346/)
 
   
 ---
@@ -507,7 +518,10 @@ class: center, middle
 
 *So & So (2014) did a study that involved X and found that Y. In addition, Joe & Co (2016) have found that A relates to B. Also, Big Dude and colleagues (2019) ran a study showing that manipulating X results in changes in B.* 
 
-Your reader doesn't want to have to think hard. You can help them by doing the hard thinking for them.  
+Your reader doesn't want to have to think hard. 
+You can help them by doing the hard thinking for them.  
+
+= synthesis
 
 ---
 
@@ -515,8 +529,8 @@ Your reader doesn't want to have to think hard. You can help them by doing the h
 - extracting the patterns in the literature
 - highlighting similarities/differences across studies
 - unpacking HOW a study supports an argument, rather than just stating it does
-- write as if you are the expert, use opinionated verbs 
-  + [see Thesis Whisperer](https://thesiswhisperer.com/2017/09/27/academic-writing-is-a-painful-upper-middle-class-dinner-party/)
+- write as if you are the expert with an opinion
+  + [see Thesis Whisperer re opinionated verbs](https://thesiswhisperer.com/2017/09/27/academic-writing-is-a-painful-upper-middle-class-dinner-party/)
 
 ## Strategies
 1. Use a [matrix](https://docs.google.com/spreadsheets/d/1MgeD8zcJ-4LwEUkUxqTojAoA224RU8tB95V-y-dU040/edit?usp=sharing) and write [reactions](https://docs.google.com/document/d/1XLi1DrYP9QdGKYYJ3j0Mr905puc8ml_YycB2RXdtlD4/edit?usp=sharing)  
@@ -592,7 +606,7 @@ credit [Billings (2011) "Writing social psychology: Fictional things and unpopul
 
 # Dealing w zombie nouns and passive voice
 
-- watch out for "by" "of" and words that end in "-tion" "-ment" "-ism" -"ity"
+- watch out for "by" "of", words ending in "-tion" "-ment" "-ism" -"ity"
   + Participants completed the *assessment* by undergoing... (passive)
 - use the zombie test 
   + The theory was tested ... *by zombies* (passive)
@@ -627,7 +641,7 @@ You can improve your own writing by being critically reflective about it.
 In the [google doc](https://docs.google.com/document/d/1XpEK7eZc1D3hEM6sQJWCOW7ZshtVF9Xyr_oI8V2iivU/edit?usp=sharing), you will find some bad paragraphs. In groups, use questions 1-6 to diagnose what could be improved about these paragraphs.
 
 ```{r echo=FALSE}
-countdown(minutes = 3, seconds = 00, font_size = "2em", top = 0)
+countdown(minutes = 15, seconds = 00, font_size = "2em", top = 0)
 ``` 
 
 ---
@@ -640,7 +654,7 @@ class: inverse, center, middle
 ---
 
 template: wall 
-# make yourself focus
+# Tip 4: make yourself focus
 
 ---
 
@@ -657,7 +671,7 @@ knitr::include_graphics("https://64.media.tumblr.com/2063e3d81ee2c3867584115a3af
 
 template: wall 
 
-# make it social
+# Tip 5: make it social
 
 
 ---
@@ -690,7 +704,7 @@ knitr::include_graphics("img/SUAW.jpeg")
 ---
 
 template: wall 
-# write first, then revise
+# Tip 6: write first, then revise
 
 ---
 
@@ -721,7 +735,7 @@ knitr::include_graphics("https://donovanmneal.files.wordpress.com/2013/04/revisi
 
 template: wall
 
-# read about writing... it counts
+# Tip 7: read about writing... it counts
 
 
 ---
