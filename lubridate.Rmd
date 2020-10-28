@@ -34,13 +34,23 @@ style_duo_accent(
 
 # Useful links
 
-Code along with me... 
+Code along...[https://rstudio.cloud/project/1817769](https://rstudio.cloud/project/1817769)
 
-### [https://rstudio.cloud/project/1817769](https://rstudio.cloud/project/1817769)
+Slides...[https://jenrichmond.github.io/slides/lubridate#1](https://jenrichmond.github.io/slides/lubridate#1)
 
-Slides available here...
 
-[https://jenrichmond.github.io/slides/lubridate#1](https://jenrichmond.github.io/slides/lubridate#1)
+```{r echo=FALSE, out.width= "400px"}
+knitr::include_graphics("https://github.com/allisonhorst/stats-illustrations/raw/master/rstats-artwork/lubridate.png")
+
+```
+
+.pull-right[
+
+Art credit Allison Horst 
+
+`r emo::ji("bird")` @allisonhorst
+
+] 
 
 
 ---
@@ -201,7 +211,7 @@ image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZ
 - other publications
   + [Hadley Wickham: re tidyverse JOSS](https://joss.theoj.org/papers/10.21105/joss.01686)
   + [Hadley Wickham: re tidy data JSS](https://www.jstatsoft.org/article/view/v059i10)
-  + [Jenny Byran:  re version control ](https://peerj.com/preprints/3159/)
+  + [Jenny Bryan:  re version control ](https://peerj.com/preprints/3159/)
   + [Kara Woo: re spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
 
 
@@ -220,13 +230,12 @@ image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZ
 
 
 ---
----
 
 class: middle, centre
 
 # my opinion 
 
-beginners should skip tutorials and go straight to "how to" guides
+skip tutorials and go straight to "how to" guides
 
 ```{r echo=FALSE, out.width= "900px"}
 knitr::include_graphics("img/table.png")
@@ -237,7 +246,7 @@ image credit: https://documentation.divio.com/introduction/
 
 ---
 
-class: inverse center, middle 
+class: center, middle 
 
 # why?
 # tutorials lack an interesting context/problem
@@ -259,6 +268,7 @@ class: inverse center, middle
 <iframe src="https://giphy.com/embed/3ohhwAUoWvd7BeEkqA" width="480" height="478" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cbc-funny-comedy-3ohhwAUoWvd7BeEkqA">via GIPHY</a></p>
 
 ]
+
 ---
 
 # how I learned lubridate 
@@ -275,24 +285,56 @@ knitr::include_graphics("img/google.png")
 
 #.... I hit GOLD
 
+
+.pull-left[
+
 [Julia Silge blog](https://juliasilge.com/blog/lubridate-london-stage/)
 
 - great data set (London theatre from 1600) 
 - solves common date problems
-  + how to make characters into dates
-  + how to plot by year(), month(), wday()
-  + how to work with time spans
+  + make characters into dates
+  + plot by year(), month(), wday()
+  + work with time spans
+  
+  
+] 
+
+.pull-right[
+
+```{r echo=FALSE, out.width= "400px"}
+knitr::include_graphics("https://avatars0.githubusercontent.com/u/12505835?s=460&u=44b4e9026210eae8096439b1637898226050fdb1&v=4")
+```
+
+`r emo::ji("bird")` @juliasilge
+
+]
   
 ---
 
 # My learning plan
 
-Find a cool dataset and copy Julia. 
 
-SMH Sept 15, 2020: [Authorities remain concerned about low testing rates ahead of school holidays](https://www.smh.com.au/national/nsw/nsw-does-not-need-zero-cases-to-be-out-of-the-woods-20200915-p55vpx.html)
+.pull-left[
+
+Find a cool dataset and copy Julia. 
 
 
 dataset = [COVID testing rates NSW](https://data.nsw.gov.au/data/dataset/nsw-covid-19-tests-by-age-range/resource/28730d42-675b-4573-ad71-8156313c73a1)
+
+
+] 
+
+.pull-right[
+
+SMH: Sept 15 2020
+
+```{r echo=FALSE, out.width= "400px"}
+knitr::include_graphics("img/smh.png")
+```
+
+
+] 
+
 
 ---
 
@@ -319,41 +361,53 @@ class: inverse, center, middle
 
 ---
 
-# 1. Plotting with dates
-
-Use date components within ggplot to plot by...
-
-.pull-left[
-
-## year() 
-
-## month() 
-
-## day() 
-
-## wday()
-
-] 
+class: inverse, center, middle
 
 
-.pull-right[
 
-#### tips 
+### 1. plotting with date components
 
-label = TRUE 
 
-week_start = getOption("lubridate.week.start", 1)
+---
+
+# date plots
+
+Use date components within group_by() + summarise() or within ggplot() using...
+
+### year() 
+
+### month() 
+
+### day() 
+
+### wday()
+
+.small[Tips: label = TRUE, week_start = getOption("lubridate.week.start", 1)]
+
+
+---
+
+class: center, middle
+
+Let's code... jump into [RStudio Cloud](https://rstudio.cloud/project/1817769)
 
 https://rstudio.cloud/project/1817769
 
-] 
+---
+
+class: inverse, center, middle
+
+
+
+### 2. converting characters to dates
 
 
 
 ---
 
 
-# 2. Converting characters to dates
+
+# So R thinks your dates are characters... 
 
 If your dates are in a consistent format, you can use... 
 
@@ -370,23 +424,30 @@ If your dates are in a consistent format, you can use...
 ] 
 
 
-.pull-right[
+
+---
+
+class: center, middle
+
+Let's code... jump into [RStudio Cloud](https://rstudio.cloud/project/1817769)
 
 https://rstudio.cloud/project/1817769
 
+---
 
-] 
+class: inverse, center, middle
 
+
+### 3. how to make R read your dates as dates
 
 
 ---
 
 
-# 3. how to make R read your dates as dates
+# if it was only consistent... 
 
 
 Why did the test data parse as date format and the Taylor/Beyonce data not?
-
 
 ---
 
@@ -404,7 +465,7 @@ tests$test_date[[1]]
 
 # my hypothesis
 
-Data that is in year-month-day format will always parse as dates?
+Data that is in year-month-day format (ISO 8601) will always parse as dates
 
 ---
 
@@ -413,7 +474,8 @@ Data that is in year-month-day format will always parse as dates?
 
 .pull-left[
 
-Enter your birthday 3 times
+google form:
+enter your birthday 3 times
 
 - as you like
 - using a calendar widget
@@ -487,7 +549,11 @@ head(diff_dates)
 
 ---
 
-# breathe... there are only 3 formats
+# breathe... 
+
+--
+
+## there are really only 3 formats
 
 dmy()
 
@@ -495,7 +561,7 @@ ymd()
 
 mdy()
 
-And parse_date_time() is your friend...
+And `parse_date_time()` is your friend...
 
 ---
 
@@ -507,12 +573,11 @@ diff_dates <- diff_dates %>%
 head(diff_dates, 8)
 ```
 
+--
 
 - parse_date_time() failed to parse when there was no year. 
 
 - it made an error when the year was only 2 digits. 
-
-
 
 ---
 
@@ -522,11 +587,19 @@ Lubridate is full of functions that make working with dates in R easier
 
 - Use date components in ggplot with...
   + day(), wday(), month(), year()
+
+--
+
 - Convert characters to dates with...
   + dmy(), mdy(), ymd()
+
+--
+
 - Whether R will recognise your dates depends on
   + what format they are in
   + AND where you are reading them from
+
+--
 
 BUT parse_date_time() does a pretty good job `r emo::ji("smile")` 
 
@@ -538,9 +611,13 @@ class: inverse, center, middle
 
 # how you can help others learn new things
 
-### Blog while you are learning
+--
 
-### You are in the best place to communicate to another beginner how to do something
+### offer to teach an R-Ladies Sydney workshop
+
+--
+
+### blog while you are learning
 
 
 ---
@@ -559,7 +636,7 @@ My blog = [www.jenrichmond.rbind.io](http://www.jenrichmond.rbind.io/)
 
 ---
 
-# Questions....
+# thank you and questions....
 
 <iframe src="https://giphy.com/embed/xIJLgO6rizUJi" width="480" height="367" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/alice-in-wonderland-thank-you-xIJLgO6rizUJi">via GIPHY</a></p>
 
