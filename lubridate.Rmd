@@ -39,19 +39,12 @@ Code along...[https://rstudio.cloud/project/1817769](https://rstudio.cloud/proje
 Slides...[https://jenrichmond.github.io/slides/lubridate#1](https://jenrichmond.github.io/slides/lubridate#1)
 
 
-```{r echo=FALSE, out.width= "400px"}
+```{r echo=FALSE, out.width= "300px"}
 knitr::include_graphics("https://github.com/allisonhorst/stats-illustrations/raw/master/rstats-artwork/lubridate.png")
 
 ```
 
-.pull-right[
-
-Art credit Allison Horst 
-
 `r emo::ji("bird")` @allisonhorst
-
-] 
-
 
 ---
 class: inverse, center, middle
@@ -192,7 +185,7 @@ image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZ
 ### how to guides
 
 - blogs
-  + [Rebecca Barter across](http://www.rebeccabarter.com/blog/2020-07-09-across/)
+  + [Rebecca Barter purrr](http://www.rebeccabarter.com/blog/2019-08-19_purrr/)
   + [Alison Hill blogdown](https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/)
   + [Suzan Baert dpylr](https://suzan.rbind.io/categories/tutorial/)
   + [Jen Richmond IDHTG](http://jenrichmond.rbind.io/post/idhtg-how-to-use-colour-palettes-with-ggplot/)
@@ -208,11 +201,11 @@ image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZ
 
 ### discussion
 
-- other publications
-  + [Hadley Wickham: re tidyverse JOSS](https://joss.theoj.org/papers/10.21105/joss.01686)
-  + [Hadley Wickham: re tidy data JSS](https://www.jstatsoft.org/article/view/v059i10)
-  + [Jenny Bryan:  re version control ](https://peerj.com/preprints/3159/)
-  + [Kara Woo: re spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
+- journal papers
+  + [Hadley Wickham re tidyverse ](https://joss.theoj.org/papers/10.21105/joss.01686)
+  + [Hadley Wickham re tidy data ](https://www.jstatsoft.org/article/view/v059i10)
+  + [Jenny Bryan re version control ](https://peerj.com/preprints/3159/)
+  + [Kara Woo re spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
 
 
 ] 
@@ -293,7 +286,7 @@ knitr::include_graphics("img/google.png")
 - great data set (London theatre from 1600) 
 - solves common date problems
   + make characters into dates
-  + plot by year(), month(), wday()
+  + plot by `year()`, `month()`, `wday()`
   + work with time spans
   
   
@@ -372,17 +365,27 @@ class: inverse, center, middle
 
 # date plots
 
-Use date components within group_by() + summarise() or within ggplot() using...
+Use date components within `group_by()` + `summarise()` or within `ggplot()` using...
 
-### year() 
+.pull-left[
 
-### month() 
+### `year()` 
+### `month()` 
+### `day()` 
+### `wday()`
 
-### day() 
 
-### wday()
+] 
 
-.small[Tips: label = TRUE, week_start = getOption("lubridate.week.start", 1)]
+.pull-right[
+
+```{r echo=FALSE, out.width= "500px"}
+knitr::include_graphics("img/plot.png")
+```
+ 
+
+] 
+
 
 
 ---
@@ -413,11 +416,11 @@ If your dates are in a consistent format, you can use...
 
 .pull-left[
 
-### ymd()
+### `ymd()`
 
-### mdy()
+### `mdy()`
 
-### dmy()
+### `dmy()`
 
 ... to convert characters to dates
 
@@ -444,10 +447,36 @@ class: inverse, center, middle
 ---
 
 
-# if it was only consistent... 
+# if only it were consistent... 
 
 
-Why did the test data parse as date format and the Taylor/Beyonce data not?
+
+
+.pull-left[
+
+Why did the covid testing data parse as dates...
+
+```{r echo=FALSE, out.width= "400px"}
+knitr::include_graphics("https://www.fairfieldcity.nsw.gov.au/files/assets/public/images/news/covid_drive_through_17.jpg?w=1200")
+```
+
+
+]
+
+--
+
+.pull-right[
+
+... but the Taylor/Beyonce data did not?
+
+```{r echo=FALSE, out.width= "400px"}
+knitr::include_graphics("https://akns-images.eonline.com/eol_images/Entire_Site/2019722/rs_600x600-190822114626-600.beyonce-taylor-swift-2009-mtv-vmas.ct.082219.jpg?fit=around|1200:1200&output-quality=90&crop=1200:1200;center,top")
+```
+
+
+] 
+
+
 
 ---
 
@@ -465,7 +494,7 @@ tests$test_date[[1]]
 
 # my hypothesis
 
-Data that is in year-month-day format (ISO 8601) will always parse as dates
+Dates that are in year-month-day format (ISO 8601) will always parse as dates
 
 ---
 
@@ -529,7 +558,7 @@ knitr::include_graphics("img/date_data.png")
 
 - free date = char
 - template date = char
-- iso date = date `r emo::ji("smile")`
+- iso date = date `r emo::ji("angry")`
 
 ] 
 
@@ -555,11 +584,11 @@ head(diff_dates)
 
 ## there are really only 3 formats
 
-dmy()
+`dmy()`
 
-ymd()
+`ymd()`
 
-mdy()
+`mdy()`
 
 And `parse_date_time()` is your friend...
 
@@ -575,7 +604,7 @@ head(diff_dates, 8)
 
 --
 
-- parse_date_time() failed to parse when there was no year. 
+- `parse_date_time()` failed to parse when there was no year. 
 
 - it made an error when the year was only 2 digits. 
 
@@ -586,12 +615,12 @@ head(diff_dates, 8)
 Lubridate is full of functions that make working with dates in R easier
 
 - Use date components in ggplot with...
-  + day(), wday(), month(), year()
+  + `day()`, `wday()`, `month()`, `year()`
 
 --
 
 - Convert characters to dates with...
-  + dmy(), mdy(), ymd()
+  + `dmy()`, `mdy()`, `ymd()`
 
 --
 
@@ -601,10 +630,9 @@ Lubridate is full of functions that make working with dates in R easier
 
 --
 
-BUT parse_date_time() does a pretty good job `r emo::ji("smile")` 
+BUT `parse_date_time()` does a pretty good job `r emo::ji("smile")` 
 
 ---
-
 
 class: inverse, center, middle
 
@@ -613,11 +641,15 @@ class: inverse, center, middle
 
 --
 
+### come to our Show and Tell events (next Nov 17)
+
+--
+
 ### offer to teach an R-Ladies Sydney workshop
 
 --
 
-### blog while you are learning
+### and blog while you are learning
 
 
 ---
@@ -628,7 +660,7 @@ My blog = [www.jenrichmond.rbind.io](http://www.jenrichmond.rbind.io/)
 
 1. [first google](http://jenrichmond.rbind.io/post/lubridate-month-wday/)
 
-2. [wday() month()](http://jenrichmond.rbind.io/post/lubridate-month-wday/)
+2. [`wday()` `month()`](http://jenrichmond.rbind.io/post/lubridate-month-wday/)
 
 3. [converting characters](http://jenrichmond.rbind.io/post/converting-characters-to-dates/)
 
@@ -636,7 +668,7 @@ My blog = [www.jenrichmond.rbind.io](http://www.jenrichmond.rbind.io/)
 
 ---
 
-# thank you and questions....
+# thank you !
 
 <iframe src="https://giphy.com/embed/xIJLgO6rizUJi" width="480" height="367" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/alice-in-wonderland-thank-you-xIJLgO6rizUJi">via GIPHY</a></p>
 
