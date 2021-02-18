@@ -1,14 +1,16 @@
 
 ## Jenny's slides
 
-[byod R workshop slides](/byod/workshop.html)
+[byod R workshop slides](/byod/index.html)
 
-[writing workshop slides](https://jenrichmond.github.io/slides/writing#1)
+[writing workshop slides](/writing/index.html)
 
-[lubridate slides](https://jenrichmond.github.io/slides/lubridate#1)
+[lubridate slides](/lubridate/index.html)
+
+[interns_week1](w1interns/index.html)
 
 
-## Forget how to get slides to show on gh pages?
+## Did you forget how to get slides to show on gh pages?
 
 [How to gh_pages + xaringan slides](/how_to.html)
 
