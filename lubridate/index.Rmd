@@ -95,7 +95,7 @@ The ~~best~~ worst thing about open source software like R is that there are SO 
 class: middle, centre
 
 ```{r echo=FALSE, out.width= "900px"}
-knitr::include_graphics("img/quad.png")
+knitr::include_graphics(here::here("img", "quad.png"))
 ```
 
 image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZg&t=478s)
@@ -116,7 +116,7 @@ discussion = explanations that clarify and illuminate a particular topic, backgr
 class: middle, centre
 
 ```{r echo=FALSE, out.width= "900px"}
-knitr::include_graphics("img/prac_steps.png")
+knitr::include_graphics(here::here("img", "prac_steps.png"))
 ```
 
 image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZg&t=478s)
@@ -128,7 +128,7 @@ image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZ
 class: middle, centre
 
 ```{r echo=FALSE, out.width= "900px"}
-knitr::include_graphics("img/theoretical.png")
+knitr::include_graphics(here::here("img", "theoretical.png"))
 ```
 
 image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZg&t=478s)
@@ -140,7 +140,7 @@ image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZ
 class: middle, centre
 
 ```{r echo=FALSE, out.width= "900px"}
-knitr::include_graphics("img/studying.png")
+knitr::include_graphics(here::here("img", "studying.png"))
 ```
 
 image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZg&t=478s)
@@ -151,7 +151,7 @@ image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZ
 class: middle, centre
 
 ```{r echo=FALSE, out.width= "900px"}
-knitr::include_graphics("img/coding.png")
+knitr::include_graphics(here::here("img", "coding.png"))
 ```
 
 image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZg&t=478s)
@@ -231,7 +231,7 @@ class: middle, centre
 skip tutorials and go straight to "how to" guides
 
 ```{r echo=FALSE, out.width= "900px"}
-knitr::include_graphics("img/table.png")
+knitr::include_graphics(here::here("img", "table.png"))
 ```
 
 image credit: https://documentation.divio.com/introduction/
@@ -270,7 +270,7 @@ class: center, middle
 # first google...
 
 ```{r echo=FALSE, out.width= "900px"}
-knitr::include_graphics("img/google.png")
+knitr::include_graphics(here::here("img", "google.png"))
 ```
 
 
@@ -322,7 +322,7 @@ dataset = [COVID testing rates NSW](https://data.nsw.gov.au/data/dataset/nsw-cov
 SMH: Sept 15 2020
 
 ```{r echo=FALSE, out.width= "400px"}
-knitr::include_graphics("img/smh.png")
+knitr::include_graphics(here::here("img", "smh.png"))
 ```
 
 
@@ -380,7 +380,7 @@ Use date components within `group_by()` + `summarise()` or within `ggplot()` usi
 .pull-right[
 
 ```{r echo=FALSE, out.width= "500px"}
-knitr::include_graphics("img/plot.png")
+knitr::include_graphics(here::here("img", "plot.png"))
 ```
  
 
@@ -517,7 +517,7 @@ enter your birthday 3 times
 .pull-right[
 
 ```{r echo=FALSE, out.width= "400px"}
-knitr::include_graphics("img/date_data.png")
+knitr::include_graphics(here::here("img", "date_data.png"))
 ```
 
 
