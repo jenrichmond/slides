@@ -390,7 +390,7 @@ Goal 1: get up to speed with R and R Markdown
 
 # The Plan
 
-Goal 2: APPLY your new R skills and produce a verification report 
+Goal 2: APPLY your new R skills and produce a verification report (see [Jenny's roaches example](https://rpubs.com/jenrichmond/roaches))
 
 1. Choose a paper [see Week 3 workshop](https://internship3361.netlify.app/week3.html)
 
