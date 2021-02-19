@@ -23,7 +23,7 @@ library(xaringanthemer)
 style_duo_accent(
   primary_color = "#1381B0",
   secondary_color = "#069dc9",
-  inverse_header_color = "#3c474a"
+  inverse_header_color = "#0b0475"
 )
 
 library(countdown)
@@ -254,6 +254,8 @@ class: center, middle, inverse
 
 ---
 
+class: center, middle, inverse
+
 <iframe src="https://giphy.com/embed/xUPOqptQG2hIrX3koE" width="480" height="358" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gilmoregirls-netflix-gilmore-girls-xUPOqptQG2hIrX3koE">via GIPHY</a></p>
 
 
@@ -281,7 +283,7 @@ This paper attracted enormous attention and more than 1200 citations
 
 # Why is this a problem generally? 
 
-[APS observer link](https://www.psychologicalscience.org/observer/do-we-want-to-be-credible-or-incredible)
+[LINK](https://www.psychologicalscience.org/observer/do-we-want-to-be-credible-or-incredible)
 
 .pull-right[
 ![](img/credible.png)
@@ -290,13 +292,13 @@ This paper attracted enormous attention and more than 1200 citations
 
 ---
 
-[Quality uncertainty erodes trust in science link](https://online.ucpress.edu/collabra/article/3/1/1/112375/Quality-Uncertainty-Erodes-Trust-in-Science)
+[LINK](https://online.ucpress.edu/collabra/article/3/1/1/112375/Quality-Uncertainty-Erodes-Trust-in-Science)
 
 ![](img/trust.png)
 
 ---
 
-[What we know and what isn't so link](https://psyarxiv.com/cfmzk)
+[LINK](https://psyarxiv.com/cfmzk)
 
 ![](img/science_comm.png)
 ---
@@ -310,7 +312,7 @@ class: center, middle
 
 ---
 
-# The scientific
+# The scientific process
 
 ![](img/science_practice.png)
 > adapted from [Bergmann (2018)](https://docs.google.com/presentation/d/1bdICPzPOFs7V5aOZA2OdQgSAvgoB6WQweI21kVpk9Gg/edit#slide=id.p)
@@ -326,16 +328,20 @@ class: center, middle
 
 > adapted from [Bergmann (2018)](https://docs.google.com/presentation/d/1bdICPzPOFs7V5aOZA2OdQgSAvgoB6WQweI21kVpk9Gg/edit#slide=id.p)
 
---
+---
 
-### open science is about being transperant about what you are doing and why at ever step of the process
+class: center, middle, inverse
+
+### open science is about being transparent about what you are doing and why at every step of the process
 
 ---
 
-# do have to do all of that? seems like a lot...
+### do I have to do all of that? 
+
+no...you can think of open science as a ["buffet" of research practices (Bergmann, 2018)](https://docs.google.com/presentation/d/1bdICPzPOFs7V5aOZA2OdQgSAvgoB6WQweI21kVpk9Gg/edit#slide=id.p)
 
 ![](img/openscience_practice buffet.png)
-no...being an "open scientist" involves sampling from a ["buffet" of research practices](https://docs.google.com/presentation/d/1bdICPzPOFs7V5aOZA2OdQgSAvgoB6WQweI21kVpk9Gg/edit#slide=id.p)
+
 
 ---
 
@@ -347,6 +353,103 @@ class: center, middle, inverse
 ---
 
 
+# By the end of this course, you will...
 
+1. be able to explain why it is important that scientists are transparent about their research practices
+<br>
+<br>
+2. be able to use your understanding of structural, ethical and practical barriers to explain describe why some researchers share their data and others don’t
+<br>
+<br>
+3. be able to describe the factors make research analyses more or less difficult to reproduce
+<br>
+<br>
+4. be able to apply workflow practices to your own projects in a way that will make transparency and data sharing easy
+<br>
+<br>
+5. know enough R to produce descriptive statistics and visualisations in your honours project (and/or job beyond uni)
+
+
+---
+
+# The Plan
+
+Goal 1: get up to speed with R and R Markdown
+
+1. Coding modules
+  + R-Markdown
+  + Data visualisation
+  + Data wrangling
+  
+2. Coding Q&A (Jenny via Zoom)
+  + Tuesday 2pm
+  + Thursday 10am
+
+
+---
+
+# The Plan
+
+Goal 2: APPLY your new R skills and produce a verification report 
+
+1. Choose a paper [see Week 3 workshop](https://internship3361.netlify.app/week3.html)
+
+2. Get into groups who are interested in working on the same paper
+
+3. As a team, have a go at reproducing
+  + plots
+  + demographic descriptives
+  + summary statistics (means/SDs)
+  
+4. As a team, learn about why even when data are open, reproducibility is difficult. 
+  
+---
+
+# The Plan
+
+Goal 3: practice presenting, giving feedback, and using feedback 
+
+After this week, you will run Friday workshops. 
+
+- before you come, there will be something to read
+- once you get here, you will discuss with others who read the same thing
+- as a group, you will share what you learned with the class 
+
+In workshops in Week 3 & 5, you will share drafts of pieces of your verification report with peers and give each other feedback.  
+
+In Week 8, each group will present about what they have learned along the way. 
+
+---
+
+# Workshop plans 
+
+- Week 2 how hard can it be?
+- Week 5 why doesn't everyone do this?
+- Week 8 group presentations
+- Week 9 best practice: reproducibility
+- Week 10 best practice: workflow
+
+> topics are negotiable... we can change our mind as we go along
+
+---
+
+# Next steps
+
+1. work through Dani's modules
+
+2. attend coding Q&A tuesday/thursday
+
+3. decide [which paper](https://internship3361.netlify.app/week2.html) you want to read for next week. Sign up using this [spreadsheet](https://docs.google.com/spreadsheets/d/15bQvQGFmaHqUlmGXzpkIc-wvhkqZu5pjhXTLKRsG43s/edit?usp=sharing)
+
+4. come to workshop Friday with a summary/reaction in hand
+
+5. check out [lab meeting attendance options](https://docs.google.com/spreadsheets/d/1levdhIVenVApcR3GAGRHe-biaC2W8a0C0udNmOyBzV0/edit?usp=sharing) 
+
+---
+
+class: center, middle, inverse
+
+# Questions? 
+---
 
 
