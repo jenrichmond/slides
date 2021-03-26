@@ -1,17 +1,22 @@
-
-## Jenny's slides
-
-[byod R workshop slides](/byod/index.html)
-
-[writing workshop slides](/writing/index.html)
-
-[lubridate slides](/lubridate/index.html)
-
-[interns_week1](w1interns/index.html)
+---
+title: Slides
+author: Jenny Richmond
+output:
+  rmarkdown::html_document:
+    theme: lumen
+---
 
 
-## Did you forget how to get slides to show on gh pages?
+### R-Ladies Sydney talks
 
-[How to gh_pages + xaringan slides](/how_to.html)
+[byod: R for beginners workshop](/byod/index.html)
 
-[xaringan example](/xaringan_example.html)
+[Date Night: how to use lubridate to work with dates in R](/lubridate/index.html)
+
+### UNSW teaching 
+
+[PSYC3361 internship Week1](w1interns/index.html)
+
+[PsychSoc writing workshop slides](/writing/index.html)
+
+
