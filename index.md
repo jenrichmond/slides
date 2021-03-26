@@ -1,10 +1,3 @@
----
-title: Slides
-author: Jenny Richmond
-output:
-  rmarkdown::html_document:
-    theme: lumen
----
 
 
 ### R-Ladies Sydney talks
