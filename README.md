@@ -1,4 +1,6 @@
+# Jenny's slides
 
+This repo hosts slides made with the xaringan package. Mostly Jenny forgets how this works every time so... 
 
 ## How to gh_pages + xaringan slides
 
