@@ -119,10 +119,6 @@ class: center, middle
 
 Jump into the [google doc](https://docs.google.com/document/d/1XpEK7eZc1D3hEM6sQJWCOW7ZshtVF9Xyr_oI8V2iivU/edit?usp=sharing), pick a font colour, write continuously about why you find it hard to get started on writing projects. Don't stop to edit, just get ideas down. 
 
-```{r echo=FALSE}
-countdown(minutes = 3, seconds = 00, font_size = "2em", top = TRUE)
-
-``` 
 
 
 ---
@@ -142,7 +138,7 @@ class: left, middle
 .pull-right[
 
 ```{r echo=FALSE, out.width= "450px"}
-knitr::include_graphics(here::here("img", "inspirationCH.jpg"))
+knitr::include_graphics(here::here("writing", "img", "inspirationCH.jpg"))
 ```
 
 ]
@@ -157,7 +153,7 @@ knitr::include_graphics(here::here("img", "inspirationCH.jpg"))
 
 
 ```{r echo=FALSE, out.width= "380px"}
-knitr::include_graphics(here::here("img", "procrastination2.gif"))
+knitr::include_graphics(here::here("writing", "img", "procrastination2.gif"))
 ```
 
 ]
@@ -193,7 +189,7 @@ knitr::include_graphics(here::here("img", "procrastination2.gif"))
 <br>
 
 ```{r echo=FALSE, out.width= "900px"}
-knitr::include_graphics(here::here("img", "thegap.png"))
+knitr::include_graphics(here::here("writing", "img", "thegap.png"))
 ```
 
 ]
@@ -209,7 +205,7 @@ watch ira glass talk about [the gap](https://vimeo.com/85040589)
 
 
 ```{r echo=FALSE, out.width= "1200px"}
-knitr::include_graphics(here::here("img", "blockCH.jpg"))
+knitr::include_graphics(here::here("writing", "img", "blockCH.jpg"))
 ```
 
 
@@ -236,9 +232,7 @@ Lets do that again... this time about your next assignment. Start with....
 
 Write about what you DON’T know, what you DO know, what you need to learn, how you feel about it.  
 
-```{r echo=FALSE}
-countdown(minutes = 3, seconds = 00, font_size = "2em", top = 0)
-``` 
+
 
 ---
 
@@ -257,7 +251,7 @@ Kick start your writing session by writing about ...
 .pull-right[
 
 ```{r echo=FALSE, out.width= "300px"}
-knitr::include_graphics(here::here("img", "writetolearn.jpeg"))
+knitr::include_graphics(here::here("writing", "img", "writetolearn.jpeg"))
 ```
 
 ] 
@@ -310,9 +304,6 @@ class: center, middle
 Jump in the [google doc](https://docs.google.com/document/d/1XpEK7eZc1D3hEM6sQJWCOW7ZshtVF9Xyr_oI8V2iivU/edit?usp=sharing), pick a font colour, and share the kinds of comments that tutors tend to make on your assignments. 
 
 
-```{r echo=FALSE}
-countdown(minutes = 2, seconds = 00, font_size = "2em")
-``` 
 
 ---
 
@@ -358,7 +349,7 @@ class: center, middle
 ---
 
 ```{r echo=FALSE}
-knitr::include_graphics(here::here("img", "abstract.png"))
+knitr::include_graphics(here::here("writing", "img", "abstract.png"))
 ```
 
 
@@ -422,14 +413,14 @@ You should be able to paste the topic sentences together into a paragraph and it
 
 ### Oppenheimer I
 ```{r echo=FALSE}
-knitr::include_graphics(here::here("img", "p1_2.png"))
+knitr::include_graphics(here::here("writing", "img", "p1_2.png"))
 ```
 
 ---
 
 ### Oppenheimer II
 ```{r echo=FALSE}
-knitr::include_graphics(here::here("img", "p3-4.png"))
+knitr::include_graphics(here::here("writing", "img", "p3-4.png"))
 ```
 
 ---
@@ -464,12 +455,12 @@ class: center, middle
 ---
 
 ```{r echo=FALSE}
-knitr::include_graphics(here::here("img", "p1_2_p.png"))
+knitr::include_graphics(here::here("writing", "img", "p1_2_p.png"))
 ```
 
 ---
 ```{r echo=FALSE}
-knitr::include_graphics(here::here("img", "p3-4_p.png"))
+knitr::include_graphics(here::here("writing", "img", "p3-4_p.png"))
 ```
 
 ---
@@ -640,9 +631,7 @@ You can improve your own writing by being critically reflective about it.
 
 In the [google doc](https://docs.google.com/document/d/1XpEK7eZc1D3hEM6sQJWCOW7ZshtVF9Xyr_oI8V2iivU/edit?usp=sharing), you will find some bad paragraphs. In groups, use questions 1-6 to diagnose what could be improved about these paragraphs.
 
-```{r echo=FALSE}
-countdown(minutes = 15, seconds = 00, font_size = "2em", top = 0)
-``` 
+
 
 ---
 
@@ -692,7 +681,7 @@ template: wall
 .pull-right[
 
 ```{r echo=FALSE, out.width= "700px"}
-knitr::include_graphics(here::here("img", "SUAW.jpeg"))
+knitr::include_graphics(here::here("writing", "img", "SUAW.jpeg"))
 ```
 
 
