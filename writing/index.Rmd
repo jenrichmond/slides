@@ -138,7 +138,7 @@ class: left, middle
 .pull-right[
 
 ```{r echo=FALSE, out.width= "450px"}
-knitr::include_graphics(here::here("writing", "img", "inspirationCH.jpg"))
+knitr::include_graphics("img/inspirationCH.jpg")
 ```
 
 ]
@@ -153,7 +153,7 @@ knitr::include_graphics(here::here("writing", "img", "inspirationCH.jpg"))
 
 
 ```{r echo=FALSE, out.width= "380px"}
-knitr::include_graphics(here::here("writing", "img", "procrastination2.gif"))
+knitr::include_graphics("img/procrastination2.gif")
 ```
 
 ]
@@ -189,7 +189,7 @@ knitr::include_graphics(here::here("writing", "img", "procrastination2.gif"))
 <br>
 
 ```{r echo=FALSE, out.width= "900px"}
-knitr::include_graphics(here::here("writing", "img", "thegap.png"))
+knitr::include_graphics("img/thegap.png")
 ```
 
 ]
@@ -205,7 +205,7 @@ watch ira glass talk about [the gap](https://vimeo.com/85040589)
 
 
 ```{r echo=FALSE, out.width= "1200px"}
-knitr::include_graphics(here::here("writing", "img", "blockCH.jpg"))
+knitr::include_graphics("img/blockCH.jpg")
 ```
 
 
@@ -251,7 +251,7 @@ Kick start your writing session by writing about ...
 .pull-right[
 
 ```{r echo=FALSE, out.width= "300px"}
-knitr::include_graphics(here::here("writing", "img", "writetolearn.jpeg"))
+knitr::include_graphics("img/writetolearn.jpeg")
 ```
 
 ] 
@@ -349,7 +349,7 @@ class: center, middle
 ---
 
 ```{r echo=FALSE}
-knitr::include_graphics(here::here("writing", "img", "abstract.png"))
+knitr::include_graphics("img/abstract.png")
 ```
 
 
@@ -413,14 +413,14 @@ You should be able to paste the topic sentences together into a paragraph and it
 
 ### Oppenheimer I
 ```{r echo=FALSE}
-knitr::include_graphics(here::here("writing", "img", "p1_2.png"))
+knitr::include_graphics("img/p1_2.png")
 ```
 
 ---
 
 ### Oppenheimer II
 ```{r echo=FALSE}
-knitr::include_graphics(here::here("writing", "img", "p3-4.png"))
+knitr::include_graphics("img/p3-4.png")
 ```
 
 ---
@@ -455,12 +455,12 @@ class: center, middle
 ---
 
 ```{r echo=FALSE}
-knitr::include_graphics(here::here("writing", "img", "p1_2_p.png"))
+knitr::include_graphics("img/p1_2_p.png")
 ```
 
 ---
 ```{r echo=FALSE}
-knitr::include_graphics(here::here("writing", "img", "p3-4_p.png"))
+knitr::include_graphics("img/p3-4_p.png")
 ```
 
 ---
@@ -681,7 +681,7 @@ template: wall
 .pull-right[
 
 ```{r echo=FALSE, out.width= "700px"}
-knitr::include_graphics(here::here("writing", "img", "SUAW.jpeg"))
+knitr::include_graphics("img/SUAW.jpeg")
 ```
 
 
