@@ -12,4 +12,4 @@
 
 [PsychSoc writing workshop slides](writing/index.html)
 
-
+[polish writing workshop slides](polish/index.html)
