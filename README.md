@@ -11,6 +11,6 @@ This repo hosts slides made with the xaringan package. Mostly Jenny forgets how 
 - Push everything to github
 - Setup github pages
     + Settings - Github Pages- source: master branch 
-    + Optional: choose a jekyll theme)
+    + Optional: choose a jekyll theme
 
 Done, the slides can be viewed online at https://{account}.github.io/{repo_name}/{xaringan_slide_filename}
