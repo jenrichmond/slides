@@ -512,7 +512,7 @@ credit [Billings (2011) "Writing social psychology: Fictional things and unpopul
 - ummmm.... why didn't you just say that 
 - Specifically, In other words, That is ... just use the simpler version
 
----
+
 
 ---
 
@@ -787,7 +787,7 @@ class: center, middle
 ---
 
 
-# Questions before we move to Part 2 
+# Questions before we move to Part 2 ...
 
 <iframe src="https://giphy.com/embed/X8GcOQJJxRphFRr3kC" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/schittscreek-schitts-creek-pop-tv-X8GcOQJJxRphFRr3kC">via GIPHY</a></p>
 
@@ -871,10 +871,11 @@ class: center
 
 ]
 
+--
+
 .pull-right[
 
 <iframe src="https://giphy.com/embed/AEzIGP3TQcPKHnABfP" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fallontonight-jimmy-fallon-tonight-show-macarena-AEzIGP3TQcPKHnABfP">via GIPHY</a></p>
-
 
 ]
 ---
@@ -966,6 +967,22 @@ class: inverse, center
 
 ---
 
+# More questions  ...
+
+<iframe src="https://giphy.com/embed/64afibPa7ySzhFAf00" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/schittscreek-64afibPa7ySzhFAf00">via GIPHY</a></p>
+
+
+---
+
+### Reminder
+
+### Please complete the Student Experience Survey (its important!)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-gueKgMnIcY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+
 
 ### Other examples of 6 writing rules
 
@@ -985,5 +1002,5 @@ class: inverse, center
 
 
 
----
+
 
