@@ -1,343 +1,17 @@
 ---
-title: "polish your thesis"
-subtitle: "how to write in a way that makes your marker smile"
-author: Jenny Richmond PhD
-institution: UNSW Psychology
-date: '`r Sys.Date()`'
-output:
-  xaringan::moon_reader:
-    css: xaringan-themer.css
-    seal: false 
-    lib_dir: libs
-    nature:
-      highlightStyle: dracula
-      highlightLanguage: ["r", "yaml", "markdown"]
-      slideNumberFormat: "%current%" 
-      highlightLines: true
-      countIncrementalSlides: true
-      ratio: "16:9"
-params:
-  site_link: "https://jenrichmond.github.io/slides/polish.html"
+title: "Untitled"
+author: "Jen Richmond"
+date: "30/09/2021"
+output: html_document
 ---
-
-```{r xaringan-themer, include=FALSE, warning=FALSE}
-library(xaringanthemer)
-style_duo_accent(
-  primary_color = "#035AA6", secondary_color = "#03A696",
-  inverse_header_color = "#FFFFFF", 
-  text_font_size = "30px"
-)
-
-
-```
 
 ```{r setup, include=FALSE}
-options(htmltools.dir.version = FALSE)
-episode_counter <- 0
-knitr::opts_chunk$set(
-  collapse = TRUE,   
-  comment = "#>"
-)
+knitr::opts_chunk$set(echo = TRUE)
 ```
-
-```{r packages, include=FALSE}
-library(countdown)
-library(ymlthis)
-```
-
-
-class: title-slide, center, middle
-
-<span class="fa-stack fa-4x">
-  <i class="fa fa-circle fa-stack-2x" style="color: #ffffffcc;"></i>
-  <strong class="fa-stack-1x" style="color:#e7553c;">`r rmarkdown::metadata$session`</strong>
-</span> 
-
-
-# `r rmarkdown::metadata$title`
-
-### `r rmarkdown::metadata$subtitle`
-
-### `r rmarkdown::metadata$author`
-
-### `r rmarkdown::metadata$institution`
-
-
-
----
-
-name: wall
-class: center, middle
-background-image: url(greywall.jpeg)
-background-size: cover
-
----
-
-template: wall 
-
-class: centre, middle
-
-# These slides available at 
-
-## https://jenrichmond.github.io/slides/polish
-
----
-
-
-# Disclaimer
-
-Most of the content in this workshop is my personal opinion (backed up with a little bit of research and a fair bit of experience)
-
-If something I say contradicts what your supervisor has told you, go with their context-specific expertise. 
-
-Things that sound like rules, are really guidelines. 
-
-Borrowing from [George Orwell 6 writing rules](https://www.mhpbooks.com/6-writing-rules-from-george-orwell/)
-
-> 6. Break any of these rules sooner than say anything outright barbarous.
-
-
-
----
-
-template: wall 
-
-class: centre, middle
-
-# Key thing to remember 
-# while you are writing...
-
-
---
-
-
-## ...your markers are just people
-
----
-
-template: wall 
-
-class: centre, middle
-
-### like you, they are smart and they like psychology 
-
---
-
-### like you, they have been in lockdown for close for 4 months
-
---
-
-### unlike you, they are NOT an expert in your field
-
---
-
-### they have received 12 x 50 page theses
-
-
---
-
-### they need to mark and write a report for each thesis
-
---
-
-
-### they only have 2-3 weeks to do this 
-
---
-
-### (while also homeschooling their kids - ha)
-
----
-
-class: inverse, center, middle
-
-# they are very very tired
-
-
-```{r echo=FALSE}
-knitr::include_graphics("img/owls.jpeg")
-
-```
-
----
-
-class: inverse
-
-# Your goal is to make their job as painless as possible
-
---
-
-
-.pull-left[
-
-```{r echo=FALSE}
-knitr::include_graphics("img/smile_hearts.jpeg")
-
-```
-
-
-
-### You want your marker like this ...
-
-]
-
-.pull-right[
-
-
-```{r echo=FALSE}
-knitr::include_graphics("img/grimace.jpeg")
-
-```
-
-
-### ... not like this
-
-]
-
-
----
-
-
-# Today's workshop is brought to you by the letter "S"... 
-
-.pull-left[
-
-## Part 1: synthesis, structure, support
-
-- how to make your marker smile
-
-
-] 
-
-.pull-right[
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5dRnXZDVhO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-]
-
----
-
-# ... and the number 6
-
-.pull-left[
-
-## Part 2: avoiding the discussion "cliff"
-
-- the six "moves" every discussion should make
-
-
-] 
-
-.pull-right[
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G4OTRRmyTAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-]
-
-
-
-
----
-
-# Perceptual fluency
-
-.pull-left[
-
-> "the subjective feeling of ease or difficulty while processing perceptual information... more fluent processing results in positive assessments of perceptual stimuli"
-
-]
-
-.pull-right[
-
-
-<iframe src="https://giphy.com/embed/BEvVsk0v0JM6k" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disneypixar-disney-pixar-BEvVsk0v0JM6k">via GIPHY</a></p>
-]
-
----
-
-
-## How can you create a feeling of "ease" for your marker?
-
-
-.left-column[
-
-## 1. synthesis 
-
-## 2. structure 
-
-## 3. support 
-
-]
-
---
-
-.right-column[
-
-Your marker needs you to have done all the hard thinking for them.
-
-Your marker wants your thesis to be so well structured and easy to read that they can skim. 
-
-Your marker doesn't don't know ANYTHING about your project/research area, so they need you to hold their hand. 
-
-]
-
----
-
-
-# Hints that your thesis  might not invoke perceptual fluency 
-
-.pull-left[
-
-### Feedback comments like...
-
-- *unclear/vague*
-- *this doesn't flow*
-- *unpack this point*
-- *jargon*
-
-
-] 
- 
-
-.pull-right[
-
-<iframe src="https://giphy.com/embed/1iTpx5PpzRugcrZK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/justin-g-why-1iTpx5PpzRugcrZK">via GIPHY</a></p>
-
-]
-
----
-
-class: inverse, center, middle
-
-# Ready to put your reviewer `r emo::ji("hat")` on?
-
-## 6 questions to ask yourself 
-## about your writing
-
----
-
-template: wall
-class: center, middle
-
-# 1. Are you trying too hard to sound smart?
-
-Recommended reading: Oppenheimer, D. M. (2006). Consequences of erudite vernacular utilized irrespective of necessity: Problems with using long words needlessly. *Applied Cognitive Psychology, 20*, 139-156. [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.1178?casa_token=Gc-DvTJmzA4AAAAA%3AhcIJ3YoIM53MX6xvskjs2C47MiKJQL6pkzspXJm3rleu6kUyjptX0sdbvFxO8Me4V6Fygf5rt1EEX_u2)
-
----
-
-```{r echo=FALSE}
-knitr::include_graphics("abstract.png")
-```
-
-
-
----
 
 # tips for sounding smart without trying
 
-.pull-left[
+
 
 - write for your mum 
   + someone who is smart and interested but not at all familiar with the topic
@@ -349,19 +23,16 @@ knitr::include_graphics("abstract.png")
 - avoid jargon and acronyms
 - edit out the "fuzz"
 
-]
 
-.pull-right[
 
 ```{r echo=FALSE, out.width="100%"}
 knitr::include_graphics("img/edit.png")
 ```
 
-]
+
+
 
 ---
-
-# Eliminate the fuzz
 
 *"All writers (will have to) edit their prose, but (the) great writers edit (it) viciously, always trying to eliminate (words which are) ‘fuzz’ – (excess) words (which are not adding anything of value). Zinsser compares (the process of editing out) ‘fuzz’ to fighting weeds – you will always be slightly behind (because they creep in when you aren't looking for them). Scan (through) your text (and look) for opportunities to (get rid of) words - (places) where two words (can become one), or three words (can become) two… (or where you can get rid of some words altogether?)"*
 
@@ -369,23 +40,15 @@ knitr::include_graphics("img/edit.png")
 
 ---
 
-.pull-left[
+
+# Eliminate the fuzz
 
 *"All writers edit their prose, but great writers edit viciously. The point of editing is to eliminate ‘fuzz’, or excess words which don't add value. Zinsser compares removing ‘fuzz’ to fighting weeds – you will always be slightly behind. Scan your text for opportunities to shed words - where can two words become one? or three words two?"*
 
-example from [Zinsser On Writing Well](https://www.amazon.com.au/Writing-Well-William-Zinsser/dp/0060891548)
 
-]
-
-.pull-right[
-
-```{r echo=FALSE, out.width = "75%"}
-knitr::include_graphics("img/darlings.jpeg")
-```
-
-]
 
 ---
+
 
 template: wall
 class: center, middle
@@ -426,6 +89,7 @@ Recommended reading: Billing, M. (2011). Writing social psychology: Fictional th
 
 - passive voice 
 
+<br>
 
 - The dog chased the man 
     + active: subject, verb, object
@@ -448,6 +112,7 @@ Recommended reading: Billing, M. (2011). Writing social psychology: Fictional th
 ] 
 
 ---
+
 
 
 # Dealing w zombie nouns and passive voice
@@ -485,13 +150,13 @@ credit [Billings (2011) "Writing social psychology: Fictional things and unpopul
 
 - passive voice and zombie nouns are not always bad (particularly in your method) 
 
-- but they can make your writing longer,  more unwieldy, and less digestible to a naive reader (aka your marker)
+- but they can make your writing longer,  more unwieldy, and less disgestable to a naive reader (aka your marker) than it needs to be 
 
 <iframe src="https://giphy.com/embed/N2quVSSRLwjN6" width="480" height="342" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/horror-zombie-zombies-N2quVSSRLwjN6">via GIPHY</a></p>
 
 ---
 
-### Another example from [Billing](https://bpspsychub-onlinelibrary-wiley-com.wwwproxy1.library.unsw.edu.au/doi/full/10.1111/j.2044-8309.2010.02003.x)
+### Another example from [Billing (2011)] (https://bpspsychub-onlinelibrary-wiley-com.wwwproxy1.library.unsw.edu.au/doi/full/10.1111/j.2044-8309.2010.02003.x)
 
 "Whereas intergroup anxiety is by now an establish mediator of intergroup contact and cross-group friendship, the present study also sought to explore cognitions of rejection as a cognitive mediator predicted by cross-group friendship, and predictive of intergroup anxiety, as well as a range of attitudes toward the outgroup"
 
@@ -500,11 +165,10 @@ credit [Billings (2011) "Writing social psychology: Fictional things and unpopul
 "Specifically, we propose that people with cross-group friends cease to expect outgroup members to reject their attempts at contact ad friendship (Barlow et al, 2009, p391)"
 
 
-`r emo::ji("arrow")`
-
-- ummmm.... why didn't you just say that 
+- ummmm.... why didn't you just say that `r emo::ji("up")
 
 ---
+
 
 ---
 
@@ -698,6 +362,20 @@ class: center, middle
 
 ---
 
+.pull-left[
+
+funnel
+
+]
+
+.pull-right[
+
+curvy lady
+
+]
+
+
+---
 
 # Your job as the ~~writer~~ student is to make it easy for your ~~reader~~ marker. 
 
@@ -718,16 +396,14 @@ class: center, middle
 
 ---
 
-# Some theses read like a list of study descriptions
+# Some student writing reads like a list of study descriptions
 
-*So & So (2014) did a study that involved X and found that Y. In addition, Joe & Co (2016) have found that A relates to B. Also, Big Dude and colleagues (2019) ran a study showing that manipulating X results in changes in B.*
-
---
+*So & So (2014) did a study that involved X and found that Y. In addition, Joe & Co (2016) have found that A relates to B. Also, Big Dude and colleagues (2019) ran a study showing that manipulating X results in changes in B.* 
 
 Your marker is REALLY tired, they don't want to have to think hard. 
 You can help them by doing the hard thinking for them.  
 
-`r emo::ji("star")` SYNTHESIS `r emo::ji("star")`
+= synthesis
 
 ---
 
@@ -752,25 +428,20 @@ knitr::include_graphics("img/verbs.png")
 
 
 
+
 ]
 
 
 
 ---
 
-# More tips available...
-
-<br>
+# More tips available here..
 
 ## [Jenny's (very opinionated) tips for academic writing google doc](https://docs.google.com/document/d/12G8KVqo4KV51Rdn4qY6QCO9Pi31D-aKr-2pHKlZzZws/edit)
 
 ---
 
-
-template: wall 
-class: center, middle
-
-# BREAK - 10 min timer go
+BREAK - 10 min timer go
 
 
 ---
@@ -813,39 +484,29 @@ knitr::include_graphics("procrastination2.gif")
 
 ---
 
-class: center
 
-### Like introductions, general discussions are pretty formulaic. Your marker will smile if you make the "moves" that they expect
+## Your marker will smile if you make the "moves" that they expect
 
-<iframe src="https://giphy.com/embed/3o7qDQ4kcSD1PLM3BK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nickatnite-dance-friends-chandler-3o7qDQ4kcSD1PLM3BK">via GIPHY</a></p>
-
----
-
-
-.pull-left[
-
-### The 4 intro moves 
+### 4 intro moves 
 
 1. what is the problem? why is it important?
+
+<br>
+
 2. what do we know about it?
+
+<br>
+
 3. what don't we know about it?
+
+<br>
+
 4. how does this project fill that GAP?
-
-]
-
-.pull-right[
-
-<iframe src="https://giphy.com/embed/H0XBpCYcUjFcc" width="480" height="397" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dance-macarena-H0XBpCYcUjFcc">via GIPHY</a></p>
-]
 
 
 ---
 
-
-.pull-left[
-
-### The 6 discussion moves
-
+### 6 discussion moves
 
 1. what do we now know about that problem?
 <br>
@@ -859,14 +520,7 @@ class: center
 <br>
 6. what is the take home message?
 
-]
 
-.pull-right[
-
-<iframe src="https://giphy.com/embed/AEzIGP3TQcPKHnABfP" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fallontonight-jimmy-fallon-tonight-show-macarena-AEzIGP3TQcPKHnABfP">via GIPHY</a></p>
-
-
-]
 ---
 
 
@@ -899,29 +553,26 @@ class: inverse
 
 # Move 2. how does that relate to what we knew before?
 
-## How does each finding relate to your hypotheses/past literature?
-
 .pull-left[
 
-Consistent? 
-- great! unpack **HOW** your findings advance the field
+How does each finding relate to your hypotheses/past literature?
+
+Consistent? great! unpack **HOW** your findings advance the field
+
+Not consistent? great! go back to the literature and explain **WHY** 
+
+
 
 ]
 
 .pull-right[
-Not consistent? 
-- great! go back to the literature and explain **WHY** 
+
+
+```{r echo=FALSE, out.width="75%"}
+knitr::include_graphics("img/spider1.png")
+```
 
 ]
-
----
-
-
-class:  center, middle
-
-# What do I do if all my effects are not significant?
-
-explain why you think that happened
 
 
 ---
@@ -940,8 +591,6 @@ class: inverse, center
 
 --
 
-<br>
-
 # Move 5. what do we still not know... what are the next steps? 
 
 
@@ -959,6 +608,8 @@ class: inverse, center
 
 ### Other examples of 6 writing rules
 
+.pull-left[
+
 [George Orwell](https://www.mhpbooks.com/6-writing-rules-from-george-orwell/)
 
 1. Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.
@@ -968,11 +619,15 @@ class: inverse, center
 5. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
 6. Break any of these rules sooner than say anything outright barbarous.
 
+.pull-right[
 
----
+### Billing 2011 6 recommendations
 
+```{r}
+knitr::include_graphics("img/rec.JPG")
+```
 
-
+]
 
 
 ---
