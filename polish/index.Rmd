@@ -725,6 +725,8 @@ class: center, middle
 
 # 6. Does your writing synthesise or simply describe?
 
+Gernsbacher, M. A. (2018). Writing empirical articles: Transparency, reproducibility, clarity, and memorability. *Advances in methods and practices in psychological science, 1(3)*, 403-414.
+
 ---
 
 # Some theses read like a list of study descriptions
