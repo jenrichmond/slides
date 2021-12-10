@@ -17,7 +17,7 @@ output:
       countIncrementalSlides: true
       ratio: "16:9"
 params:
-  site_link: "https://jenrichmond.github.io/talks/byod/slides"
+  site_link: "https://jennyslides.netlify.app/byod/"
 ---
 
 ```{r setup, include=FALSE}
