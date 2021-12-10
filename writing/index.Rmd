@@ -17,7 +17,8 @@ output:
       countIncrementalSlides: true
       ratio: "16:9"
 params:
-  site_link: "https://jenrichmond.github.io/slides/writing.html"
+  site_link: "https://jennyslides.netlify.app/writing/"
+  
 ---
 
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
@@ -80,7 +81,7 @@ class: centre, middle
 
 These slides available at 
 
-https://jenrichmond.github.io/slides/writing
+https://jennyslides.netlify.app/writing/
 
 --
 
