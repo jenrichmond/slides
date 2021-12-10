@@ -1,6 +1,6 @@
 ---
 title: "welcome!"
-subtitle: "PSYC3361 T2 2021"  
+subtitle: "PSYC3361 T2 2022"  
 author: 
   - "Jenny Richmond"
 date: '`r Sys.Date()`'
@@ -12,6 +12,9 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+params:
+  site_link: "https://jennyslides.netlify.app/interns/"
+
 ---
 
 ```{r setup, include=FALSE}
