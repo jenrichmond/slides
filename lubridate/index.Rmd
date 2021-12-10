@@ -36,7 +36,7 @@ style_duo_accent(
 
 Code along...[https://rstudio.cloud/project/1817769](https://rstudio.cloud/project/1817769)
 
-Slides...[https://jenrichmond.github.io/slides/lubridate#1](https://jenrichmond.github.io/slides/lubridate#1)
+Slides...[https://jennyslides.netlify.app/lubridate/](https://jennyslides.netlify.app/lubridate/)
 
 
 ```{r echo=FALSE, out.width= "300px"}

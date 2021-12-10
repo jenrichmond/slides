@@ -4,7 +4,7 @@
     <title>Date Night</title>
     <meta charset="utf-8" />
     <meta name="author" content="Jen Richmond" />
-    <meta name="date" content="2021-03-26" />
+    <meta name="date" content="2021-12-10" />
     <script src="libs/header-attrs/header-attrs.js"></script>
     <link rel="stylesheet" href="xaringan-themer.css" type="text/css" />
   </head>
@@ -15,7 +15,7 @@ class: center, middle, inverse, title-slide
 # Date Night
 ## using lubridate to work with dates in R
 ### Jen Richmond
-### 2021-03-26
+### 2021-12-10
 
 ---
 
@@ -28,7 +28,7 @@ class: center, middle, inverse, title-slide
 
 Code along...[https://rstudio.cloud/project/1817769](https://rstudio.cloud/project/1817769)
 
-Slides...[https://jenrichmond.github.io/slides/lubridate#1](https://jenrichmond.github.io/slides/lubridate#1)
+Slides...[https://jennyslides.netlify.app/lubridate/](https://jennyslides.netlify.app/lubridate/)
 
 
 &lt;img src="https://github.com/allisonhorst/stats-illustrations/raw/master/rstats-artwork/lubridate.png" width="300px" /&gt;
@@ -83,7 +83,7 @@ The ~~best~~ worst thing about open source software like R is that there are SO 
 
 class: middle, centre
 
-&lt;img src="/Users/jenny/Desktop/git/slides/img/quad.png" width="900px" /&gt;
+&lt;img src="/Users/jenny/Desktop/Desktop - N591/git/slides/img/quad.png" width="900px" /&gt;
 
 image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZg&amp;t=478s)
 
@@ -102,7 +102,7 @@ discussion = explanations that clarify and illuminate a particular topic, backgr
 
 class: middle, centre
 
-&lt;img src="/Users/jenny/Desktop/git/slides/img/prac_steps.png" width="900px" /&gt;
+&lt;img src="/Users/jenny/Desktop/Desktop - N591/git/slides/img/prac_steps.png" width="900px" /&gt;
 
 image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZg&amp;t=478s)
 
@@ -112,7 +112,7 @@ image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZ
 
 class: middle, centre
 
-&lt;img src="/Users/jenny/Desktop/git/slides/img/theoretical.png" width="900px" /&gt;
+&lt;img src="/Users/jenny/Desktop/Desktop - N591/git/slides/img/theoretical.png" width="900px" /&gt;
 
 image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZg&amp;t=478s)
 
@@ -122,7 +122,7 @@ image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZ
 
 class: middle, centre
 
-&lt;img src="/Users/jenny/Desktop/git/slides/img/studying.png" width="900px" /&gt;
+&lt;img src="/Users/jenny/Desktop/Desktop - N591/git/slides/img/studying.png" width="900px" /&gt;
 
 image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZg&amp;t=478s)
 
@@ -131,7 +131,7 @@ image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZ
 
 class: middle, centre
 
-&lt;img src="/Users/jenny/Desktop/git/slides/img/coding.png" width="900px" /&gt;
+&lt;img src="/Users/jenny/Desktop/Desktop - N591/git/slides/img/coding.png" width="900px" /&gt;
 
 image credit: [Daniela Procida PyCon](https://www.youtube.com/watch?v=t4vKPhjcMZg&amp;t=478s)
 
@@ -209,7 +209,7 @@ class: middle, centre
 
 skip tutorials and go straight to "how to" guides
 
-&lt;img src="/Users/jenny/Desktop/git/slides/img/table.png" width="900px" /&gt;
+&lt;img src="/Users/jenny/Desktop/Desktop - N591/git/slides/img/table.png" width="900px" /&gt;
 
 image credit: https://documentation.divio.com/introduction/
 
@@ -246,7 +246,7 @@ class: center, middle
 
 # first google...
 
-&lt;img src="/Users/jenny/Desktop/git/slides/img/google.png" width="900px" /&gt;
+&lt;img src="/Users/jenny/Desktop/Desktop - N591/git/slides/img/google.png" width="900px" /&gt;
 
 
 ---
@@ -294,7 +294,7 @@ dataset = [COVID testing rates NSW](https://data.nsw.gov.au/data/dataset/nsw-cov
 
 SMH: Sept 15 2020
 
-&lt;img src="/Users/jenny/Desktop/git/slides/img/smh.png" width="400px" /&gt;
+&lt;img src="/Users/jenny/Desktop/Desktop - N591/git/slides/img/smh.png" width="400px" /&gt;
 
 
 ] 
@@ -350,7 +350,7 @@ Use date components within `group_by()` + `summarise()` or within `ggplot()` usi
 
 .pull-right[
 
-&lt;img src="/Users/jenny/Desktop/git/slides/img/plot.png" width="500px" /&gt;
+&lt;img src="/Users/jenny/Desktop/Desktop - N591/git/slides/img/plot.png" width="500px" /&gt;
  
 
 ] 
@@ -491,7 +491,7 @@ enter your birthday 3 times
 
 .pull-right[
 
-&lt;img src="/Users/jenny/Desktop/git/slides/img/date_data.png" width="400px" /&gt;
+&lt;img src="/Users/jenny/Desktop/Desktop - N591/git/slides/img/date_data.png" width="400px" /&gt;
 
 
 ] 
@@ -550,7 +550,7 @@ head(diff_dates)
 ```
 
 ```
-## # A tibble: 6 x 1
+## # A tibble: 6 × 1
 ##   free_date    
 ##   &lt;chr&gt;        
 ## 1 30 June 1978 
@@ -589,7 +589,7 @@ head(diff_dates, 8)
 ```
 
 ```
-## # A tibble: 8 x 2
+## # A tibble: 8 × 2
 ##   free_date     free_date_parsed   
 ##   &lt;chr&gt;         &lt;dttm&gt;             
 ## 1 30 June 1978  1978-06-30 00:00:00

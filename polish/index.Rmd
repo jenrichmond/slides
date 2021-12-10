@@ -17,7 +17,7 @@ output:
       countIncrementalSlides: true
       ratio: "16:9"
 params:
-  site_link: "https://jenrichmond.github.io/slides/polish.html"
+  site_link: "https://jennyslides.netlify.app/polish/"
 ---
 
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
