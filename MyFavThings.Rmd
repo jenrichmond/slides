@@ -1,0 +1,53 @@
+---
+title: "MyFavThings"
+author: "Jen Richmond"
+date: "14/01/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Avoid filepath drama
+
+## here::here()
+
+# Fix variable names
+
+## janitor::clean_names()
+
+# Count things
+
+## janitor::tabyl()
+
+# Make wide data long
+
+## tidyr::pivot_longer()
+
+
+# Get grouped summary stats
+
+## dplyr::group_by %>% summarise()
+
+
+# Make ggplot easy
+
+## ggeasy::easy_remove_legend()
+
+# Make new conditional variables
+
+## dplyr::case_when()
+
+# Move new variables
+
+## dplyr::relocate()
+
+# Save all Rmd figures to folder
+
+## knitr options fig.path = 
+
+# Write new data to csv
+
+## readr::write_csv()
+
