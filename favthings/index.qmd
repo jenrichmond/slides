@@ -1,0 +1,135 @@
+---
+title: "My Favourite Things about R"
+format: revealjs
+execute:
+  echo: true
+
+editor: visual
+---
+
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(lubridate)
+library(ggeasy)
+library(palmerpenguins)
+
+penguins <- penguins
+
+practice_penguins <- penguins %>%
+  rename("Bill length" = bill_length_mm,
+         "Species" = species, 
+         "bill_depth" = bill_depth_mm, 
+         "flipper length" = flipper_length_mm, 
+         "Body_Mass" = body_mass_g, 
+         "Sex" = sex) 
+```
+
+
+# Avoid filepath drama
+
+## here::here()
+
+# Fix variable names
+
+## janitor::clean_names()
+
+```{r}
+clean_penguins <- practice_penguins %>%
+  clean_names()
+```
+
+
+# Count things
+
+## janitor::tabyl()
+
+```{r}
+clean_penguins %>%
+  tabyl(species, sex) %>%
+  adorn_totals()
+```
+
+# Find missing values
+
+## naniar::vis_miss
+
+```{r}
+
+naniar::vis_miss(clean_penguins)
+
+```
+
+
+# Make wide data long
+
+## tidyr::pivot_longer()
+
+```{r}
+penguin_bill <- clean_penguins %>%
+  select(species, starts_with("bill"))
+
+long_bill <- penguin_bill %>%
+  pivot_longer(names_to = "bill_part", 
+               values_to = "measurement",   bill_length:bill_depth)
+```
+
+
+# Make ggplot easy
+
+## ggeasy::easy_remove_legend()
+
+```{r}
+clean_penguins %>% 
+  ggplot(aes(x = species, y = bill_length, colour = species)) +
+  geom_jitter(width = 0.2, alpha = 0.5) +
+  easy_remove_legend()
+  
+```
+
+
+# Make new conditional variables
+
+## dplyr::case_when() 
+
+```{r}
+gentoo <- clean_penguins %>%
+  filter(species == "Gentoo") %>%
+  select(species, bill_length, sex)
+
+mean_length <- mean(gentoo$bill_length, na.rm = TRUE)
+sd_length <- sd(gentoo$bill_length, na.rm = TRUE)
+
+gentoo <- gentoo %>%
+  mutate(long_short = case_when(bill_length > mean_length + 2*sd_length ~ "long", 
+                         bill_length < mean_length - 2*sd_length ~ "short",
+                         TRUE ~ "ordinary"))
+
+gentoo %>% tabyl(long_short)
+
+```
+
+
+# Move new variables
+
+## dplyr::relocate()
+
+```{r}
+gentoo <- gentoo %>%
+  relocate(long_short, .after = bill_length)
+
+gentoo %>%
+  ggplot(aes(x = sex, y = bill_length, colour = long_short)) + 
+  geom_jitter()
+```
+
+
+# Save all Rmd figures to folder
+
+## knitr options fig.path = 
+
+# Write new data to csv
+
+## readr::write_csv()
+
