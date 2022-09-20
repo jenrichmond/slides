@@ -1,24 +1,272 @@
 ---
 title: "The Art of General Discussion Writing"
-format: revealjs
-editor: visual
+format:
+  revealjs:
+    incremental: false   
 ---
 
-## Quarto
+## Disclaimer
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+<br>
 
-## Bullets
+Most of the content in this workshop is my personal opinion (backed up with a little bit of research and a fair bit of experience)
 
-When you click the **Render** button a document will be generated that includes:
+<br>
 
--   Content authored with markdown
--   Output from executable code
+If something I say contradicts what your supervisor has told you, go with their context-specific expertise.
 
-## Code
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+## the art
 
-```{r}
-1 + 1
-```
+<br>
+
+> *"The purpose of the discussion is to interpret and describe the significance of your findings in light of what was already known about the research problem being investigated, and to explain any new understanding or fresh insights about the problem after you've taken the findings into consideration."*
+
+<br>
+
+::: aside
+Source: [Organising Academic Research papers](https://library.sacredheart.edu/c.php?g=29803&p=185933)
+:::
+
+## discussion writing is hard
+
+::: columns
+::: {.column width="40%"}
+
+![](procrastination2.gif)
+
+:::
+
+::: {.column width="60%"}
+
+<br>
+
+To write your general discussion, you will need to...
+
+- think critically, flexibly and creatively
+- communicate clearly and persuasively
+- work independently
+
+
+:::
+:::
+
+
+
+## don't panic, there is a formula
+
+
+Like introductions, general discussions are pretty formulaic. 
+
+<br>
+
+Your marker will smile if you make the "moves" that they expect.
+
+
+<iframe src="https://giphy.com/embed/3o7qDQ4kcSD1PLM3BK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nickatnite-dance-friends-chandler-3o7qDQ4kcSD1PLM3BK">via GIPHY</a></p>
+
+
+
+
+## The 4 intro moves 
+
+:::: {.columns}
+
+::: {.column width="60%"}
+1. what is the problem? why is it important?
+2. what do we know about the problem?
+3. what don't we know about the problem?
+4. how does this project fill that GAP?
+:::
+
+::: {.column width="40%"}
+
+<iframe src="https://giphy.com/embed/H0XBpCYcUjFcc" width="480" height="397" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dance-macarena-H0XBpCYcUjFcc">via GIPHY</a></p>
+
+:::
+
+::::
+
+
+::: aside
+adapted from John Swale [CARS (creating a research space) model](https://owl.purdue.edu/owl/general_writing/the_writing_process/organization_CARS_Model.html)
+:::
+
+
+## The 6 discussion moves {.smaller}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+1. what do we know about that problem now?
+2. how does that relate to what we knew before?
+3. what can we say about theory and/or the real world that we couldn't before?
+4. what problems/limitations do we need to acknowledge?
+5. what do we still not know... what are the next steps?
+6. what is the take home message?
+:::
+
+::: {.column width="40%"}
+
+<iframe src="https://giphy.com/embed/AEzIGP3TQcPKHnABfP" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fallontonight-jimmy-fallon-tonight-show-macarena-AEzIGP3TQcPKHnABfP">via GIPHY</a></p>
+
+:::
+
+::::
+
+
+
+## Move 1. what do we know about that problem now?
+
+
+*Restate* your results (don't repeat your results)
+
+:::: {.columns}
+::: {.column width="60%"}
+::: {.nonincremental}
+
+- Your results are the trees
+- Your discussion is the forest
+
+
+:::
+:::
+
+::: {.column width="40%"}
+
+![](trees.jpeg)
+
+Photo by <a href="https://unsplash.com/@filipz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Filip Zrnzević</a> on <a href="https://unsplash.com/s/photos/forest?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+:::
+::::
+
+
+::: {.notes}
+Less is more here. If your results are the trees of your thesis, the discussion is the forest. Your reader has just finished wading through your results, they are done with stats, trying to pull out the big picture, they want you to do the hard thinking for them... provide some light relief. 
+:::
+
+
+
+## Exercise 1a
+
+- Pick the 3 most important findings (yes only 3). 
+- Make a [spider diagram](https://sites.google.com/site/twblacklinemasters/using-a-spider-diagram-to-make-research-questions?authuser=0).
+
+![](spider1.png)
+
+## Exercise 1b
+
+
+- Choose some phrases from the [Manchester Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/discussing-findings/) to *restate* your findings
+
+![](restate.png)
+
+
+::: {.notes}
+Summarise the most important findings, maybe just 3 things... this will make you focus and go into depth on the important stuff, rather than trying to skim over everything. 
+:::
+
+
+
+## Move 2. How does that relate to what we knew before?
+
+*Relate* your results (what new knowledge have you created?)
+
+- unpack for your marker how each of your findings is 
+  * consistent (or not) with your hypotheses
+  * consistent (or not) with past literature 
+  
+## Exercise 2a
+
+Take your spider diagram and add more legs. For each finding, make a note of how it relates to your hypotheses and past literature. Highlight consistencies one colour and inconsistencies another colour. 
+
+
+## Exercise 2b
+
+"unpack" = describe AND explain
+
+Not consistent? - great! 
+
+Go back to the literature and find an explanation for **WHY**
+
+
+## What do I do if I don't have any statisitcally significant effects? 
+
+Explain why you think that happened
+
+## Exercise 2
+
+
+
+## Move 3. what can we say about theory and/or real world that we couldn't before?
+
+Zoom out a bit... what are the implications of your findings?
+
+::: {.nonincremental}
+1. theory 
+2. real world
+3. both?? 
+:::
+
+::: {.callout-warning}
+
+Don't exaggerate. It is unlikely that your study will change clinical practice, government policy, or the theoretical direction of the field. Use cautious phrasing (see [Manchester phrasebank](https://www.phrasebank.manchester.ac.uk/using-cautious-language/))
+
+:::
+
+
+
+
+
+
+## Move 4. what problems/limitations do we need to acknowledge?
+
+
+
+## Move 5. what do we still not know... what are the next steps?
+
+
+
+## Move 6. what is the take home message?
+
+
+## More questions ...
+
+
+## Myths about the art of general discussion writing
+
+1. You should not refer to literature in the general discussion that you didn't cover in the introduction
+
+2. You should describe ALL the flaws/limitations about your experiment
+
+3. 
+
+
+
+## Acknowledgements
+
+These ideas come from a few of my favourite writing people...
+
+#### The Thesis Whisperer blog
+
+Lots of great advice about academic writing generally and discussion writing specifically
+- [2012](https://thesiswhisperer.com/2012/01/23/how-do-i-start-my-discussion-chapter/)
+- [2016](https://thesiswhisperer.com/2016/04/20/the-difficult-discussion-chapter/)
+- [2020](https://thesiswhisperer.com/2020/03/04/no-really-how-do-you-write-a-discussion-section/)
+- [2021](https://thesiswhisperer.com/2021/05/05/how-to-make-your-dissertation-speak-to-experts/)
+
+
+
+## Other examples of 6 writing rules
+
+[George Orwell](https://www.mhpbooks.com/6-writing-rules-from-george-orwell/)
+
+1.  Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.
+2.  Never use a long word where a short one will do.
+3.  If it is possible to cut a word out, always cut it out.
+4.  Never use the passive where you can use the active.
+5.  Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
+6.  Break any of these rules sooner than say anything outright barbarous.
+
+------------------------------------------------------------------------

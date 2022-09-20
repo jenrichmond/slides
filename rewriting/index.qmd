@@ -8,46 +8,21 @@ editor: visual
 
 Most of the content in this workshop is my personal opinion (backed up with a little bit of research and a fair bit of experience)
 
-If something I say contradicts what your supervisor has told you, go with their context-specific expertise. 
+If something I say contradicts what your supervisor has told you, go with their context-specific expertise.
 
-Things that sound like rules, are really guidelines. 
+Things that sound like rules, are really guidelines.
 
 Borrowing from [George Orwell 6 writing rules](https://www.mhpbooks.com/6-writing-rules-from-george-orwell/)
 
-> 6. Break any of these rules sooner than say anything outright barbarous.
-
-
+> 6.  Break any of these rules sooner than say anything outright barbarous.
 
 ## Key thing to remember while you are writing...
 
-
 ## ...your markers are just people
 
-
-### like you, they are smart and they like psychology 
-
---
-
-### like you, they have been in lockdown for close for 4 months
-
---
-
-### unlike you, they are NOT an expert in your field
-
---
-
-### they have received 12 x 50 page theses
-
-
---
-
-### they need to mark and write a report for each thesis
-
---
-
-
-### they only have 2-3 weeks to do this 
-
---
-
-### while also homeschooling their kids `r emo::ji("grimace")`
+-   like you, they are smart and they like psychology
+-   unlike you, they are NOT an expert in your field
+-   they have received 12 x 50 page theses
+-   they need to mark and write a report for each thesis
+-   they only have 2-3 weeks to do this
+-   while also homeschooling their kids `r emo::ji("grimace")`
