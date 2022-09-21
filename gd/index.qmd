@@ -402,8 +402,7 @@ In summary...
 
 ::: {.callout-tip}
 
-- Moves 1 and 2 will take up MOST of your discussion. 
-- Move 3 might only be a couple of paragraphs. 
+- Moves 1 and 2 will take up MOST of your discussion. Move 3 might only be a couple of paragraphs. 
 - You can make Move 5 within Move 2, 3, and 4, as well as in its own section 
 - Lots of students forget Move 6- don't leave your marker hanging!
 
