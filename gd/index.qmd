@@ -44,7 +44,7 @@ Source: [Organising Academic Research papers](https://library.sacredheart.edu/c.
 To write your general discussion, you will need to...
 
 - think critically, flexibly and creatively
-- communicate clearly and persuasively
+- communicate clearly, persuasively and with authority
 - work independently
 
 
@@ -74,9 +74,9 @@ Your marker will smile if you make the "moves" that they expect.
 
 ::: {.column width="60%"}
 1. what is the problem? why is it important?
-2. what do we know about the problem?
+2. what do we already know about the problem?
 3. what don't we know about the problem?
-4. how does this project fill that GAP?
+4. how does this project fill that knowledge gap?
 :::
 
 ::: {.column width="40%"}
@@ -99,7 +99,7 @@ adapted from John Swale [CARS (creating a research space) model](https://owl.pur
 
 ::: {.column width="60%"}
 1. what do we know about that problem now?
-2. how does that relate to what we knew before?
+2. how does that new knowledge relate to what we knew before?
 3. what can we say about theory and/or the real world that we couldn't before?
 4. what problems/limitations do we need to acknowledge?
 5. what do we still not know... what are the next steps?
@@ -112,6 +112,7 @@ adapted from John Swale [CARS (creating a research space) model](https://owl.pur
 
 :::
 
+
 ::::
 
 
@@ -119,7 +120,7 @@ adapted from John Swale [CARS (creating a research space) model](https://owl.pur
 ## Move 1. what do we know about that problem now?
 
 
-*Restate* your results (don't repeat your results)
+*Restate* your results 
 
 :::: {.columns}
 ::: {.column width="60%"}
@@ -127,6 +128,8 @@ adapted from John Swale [CARS (creating a research space) model](https://owl.pur
 
 - Your results are the trees
 - Your discussion is the forest
+
+> be careful not to just repeat your results
 
 
 :::
@@ -153,14 +156,29 @@ Less is more here. If your results are the trees of your thesis, the discussion 
 - Pick the 3 most important findings (yes only 3). 
 - Make a [spider diagram](https://sites.google.com/site/twblacklinemasters/using-a-spider-diagram-to-make-research-questions?authuser=0).
 
-![](spider1.png)
+![](spider1.JPG)
+
+
 
 ## Exercise 1b
 
 
 - Choose some phrases from the [Manchester Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/discussing-findings/) to *restate* your findings
 
+
+:::: {.columns}
+::: {.column width="60%"}
 ![](restate.png)
+
+:::
+::: {.column width="40%"}
+::: {aside}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hso3oR8PJss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+:::
+:::
+::::
+
 
 
 ::: {.notes}
@@ -171,31 +189,129 @@ Summarise the most important findings, maybe just 3 things... this will make you
 
 ## Move 2. How does that relate to what we knew before?
 
-*Relate* your results (what new knowledge have you created?)
+*Relate* your results 
 
-- unpack for your marker how each of your findings is 
-  * consistent (or not) with your hypotheses
-  * consistent (or not) with past literature 
-  
-## Exercise 2a
+- First, **explain** how each of your findings is consistent (or not) with your hypotheses and the literature you talked about in your introduction
 
-Take your spider diagram and add more legs. For each finding, make a note of how it relates to your hypotheses and past literature. Highlight consistencies one colour and inconsistencies another colour. 
+::: {.callout-important}
 
+Lots of students describe how their findings relate to hypotheses/literature without explaining. Your marker wants you to do the hard thinking for them. Don't forget to unpack the connections you are making. 
 
-## Exercise 2b
-
-"unpack" = describe AND explain
-
-Not consistent? - great! 
-
-Go back to the literature and find an explanation for **WHY**
+:::
 
 
-## What do I do if I don't have any statisitcally significant effects? 
+## Exercise 2a - consistent or not
 
-Explain why you think that happened
+:::: {.columns}
+::: {.column width="60%"}
 
-## Exercise 2
+Take your spider diagram and add more legs. 
+
+- For each finding, add a note relating to your hypotheses (H) and past literature (L). 
+- Highlight consistencies one colour and inconsistencies another colour. 
+
+- Add extra legs describing HOW your findings are (or aren't consistent)
+
+
+:::
+::: {.column width="40%"}
+
+![](spider2.JPG)
+
+
+![](spider3.JPG)
+
+
+:::
+::::
+
+
+
+## Move 2. How does that relate to what we knew before?
+
+- Then, **explain** what you know now that we didn't know before.
+
+Consistent? - great! Explain HOW your findings have advanced the field. 
+
+Not consistent? - great! Explain WHY you think your study turned out that way
+
+::: {.callout-warning}
+
+This is where discussion writing gets hard
+:::
+
+
+
+## Did you know that ... 
+
+... more than 80% of honours project don't "work"? 
+
+<br>
+
+Most often, the best discussions come out of studies where not everything went to plan.
+ 
+<br>
+
+When your study didn't "work", you have much more scope to think critically, creatively, and flexibly. 
+
+
+<iframe src="https://giphy.com/embed/efxrDXet2TJILuGRwO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/HannahWitton-creativity-possibility-endless-possibilities-efxrDXet2TJILuGRwO">via GIPHY</a></p>
+
+
+
+## Why did my study not "work"? 
+
+Maybe the effect is real, I just wasn't able to detect it...
+
+- sample size 
+- methodological errors
+- measurement issues
+
+... aka my study didn't work because (in retrospect) it sucked.
+
+::: {.callout-warning}
+
+These explanations apply to all research theses written in the world ever... try to avoid relying on them. 
+If you do need to, be specific. Make sure to explain EXACTLY HOW that problem resulted in the PATTERN of data you got
+
+:::
+
+## What is the alternative? {.smaller}
+
+Maybe other researchers in the field have missed something ...
+
+- perhaps this psychological construct doesn't work like everyone says it does
+- perhaps this task doesn't measure what everyone says it does
+- perhaps other studies have failed to control for variables that impact performance
+- perhaps research using this task to answer different questions can help
+- perhaps the "other" theoretical perspective accounts for my findings better 
+
+... I need to go back to the literature (or sometimes back to my data) and find an explanation
+
+::: {.callout-important}
+
+This is where HD theses stand out from D theses. Your marker is looking for evidence that you can think critically, creatively, and flexibly and that you can communicate clearly, persuasively, and with authority.
+
+:::
+
+::: {.callout-tip}
+
+You probably wont have enough information to know whether a given explanation works and thats ok. Use the uncertainty as an opportunity to make *future research* suggestions. What study should be done to confirm your intuition?
+
+:::
+
+
+## Exercise 2b- big picture
+
+
+Pick one of your findings and make a new spider diagram. 
+
+Try out some big picture thinking. 
+
+It probably won't click right now... digging into the literature will lead you down different paths too. 
+
+
+![](spider4.JPG)
 
 
 
@@ -211,62 +327,144 @@ Zoom out a bit... what are the implications of your findings?
 
 ::: {.callout-warning}
 
-Don't exaggerate. It is unlikely that your study will change clinical practice, government policy, or the theoretical direction of the field. Use cautious phrasing (see [Manchester phrasebank](https://www.phrasebank.manchester.ac.uk/using-cautious-language/))
+Don't exaggerate. It is unlikely that your study will change clinical practice, government policy, or the theoretical direction of the field. Use cautious phrasing (see [Manchester phrasebank](https://www.phrasebank.manchester.ac.uk/using-cautious-language/)). Also you might not have enough information to know whether your findings really do have implications for a particular theory or real world thing... What *future research* would you do to confirm? 
 
 :::
-
-
-
 
 
 
 ## Move 4. what problems/limitations do we need to acknowledge?
 
 
+:::: {.columns}
+::: {.column width="60%"}
+Honours research projects have lots of limitations. 
+
+- You don't need to talk about them all (esp those that apply to everyone). 
+
+- Only talk about those that are specific to YOUR PROJECT and have clearly had an impact on the PATTERN of data that you got. 
+
+
+
+:::
+::: {.column width="40%"}
+![](limitation.jpeg)
+:::
+::::
+
+::: {.callout-tip}
+
+Don't leave limitations hanging, use them to make suggestions for *future research*. 
+
+:::
+
+
 
 ## Move 5. what do we still not know... what are the next steps?
+
+At this point you might have already embedded ideas for future research in ...
+
+- Move 2  (relate)
+- Move 3 (real world/theory)
+- Move 4 (limitations)
+
+Now your marker is looking for the next step in this **research program**. Imagine you are going to do a PhD in this area... what is the next question that researchers in this field should answer?
+
+::: {.callout-important}
+
+Avoid future research suggestions that apply to all research theses in the world ever and think big. What is the next big question? How would you conduct that study? 
+
+:::
 
 
 
 ## Move 6. what is the take home message?
 
+:::: {.columns}
+::: {.column width="60%"}
+In summary...
 
-## More questions ...
+- The goal of this project was to...
+- This is what we did...
+- This is what we found...
+- This is what I think it means...
+
+:::
+::: {.column width="40%"}
+<iframe src="https://giphy.com/embed/1xo9AKS4eeBJENaRAn" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/evite-bow-present-1xo9AKS4eeBJENaRAn">via GIPHY</a></p>
+:::
+::::
 
 
-## Myths about the art of general discussion writing
+## Lets recap: The 6 discussion moves {.smaller}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+1. what do we know about that problem now?
+2. how does that new knowledge relate to what we knew before?
+3. what can we say about theory and/or the real world that we couldn't before?
+4. what problems/limitations do we need to acknowledge?
+5. what do we still not know... what are the next steps?
+6. what is the take home message?
+:::
+
+::: {.column width="40%"}
+
+<iframe src="https://giphy.com/embed/AEzIGP3TQcPKHnABfP" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fallontonight-jimmy-fallon-tonight-show-macarena-AEzIGP3TQcPKHnABfP">via GIPHY</a></p>
+
+:::
+
+::: {.callout-tip}
+
+- Moves 1 and 2 will take up MOST of your discussion. 
+- Move 3 might only be a couple of paragraphs. 
+- You can make Move 5 within Move 2, 3, and 4, as well as in its own section 
+- Lots of students forget Move 6- don't leave your marker hanging!
+
+:::
+
+::::
+
+
+
+## MYTHS about the art of general discussion writing
 
 1. You should not refer to literature in the general discussion that you didn't cover in the introduction
 
+. . .
+
 2. You should describe ALL the flaws/limitations about your experiment
 
-3. 
+. . .
+
+3. When it comes to discussion writing, more is better
 
 
 
 ## Acknowledgements
 
-These ideas come from a few of my favourite writing people...
+<br>
+
+Other discussion writing resources I recommend...
+
+<br>
 
 #### The Thesis Whisperer blog
 
 Lots of great advice about academic writing generally and discussion writing specifically
+
 - [2012](https://thesiswhisperer.com/2012/01/23/how-do-i-start-my-discussion-chapter/)
 - [2016](https://thesiswhisperer.com/2016/04/20/the-difficult-discussion-chapter/)
 - [2020](https://thesiswhisperer.com/2020/03/04/no-really-how-do-you-write-a-discussion-section/)
 - [2021](https://thesiswhisperer.com/2021/05/05/how-to-make-your-dissertation-speak-to-experts/)
 
+. . . 
 
 
-## Other examples of 6 writing rules
+#### The Manchester Academic Phrasebook
 
-[George Orwell](https://www.mhpbooks.com/6-writing-rules-from-george-orwell/)
+- [Discussing findings](https://www.phrasebank.manchester.ac.uk/discussing-findings/)
 
-1.  Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.
-2.  Never use a long word where a short one will do.
-3.  If it is possible to cut a word out, always cut it out.
-4.  Never use the passive where you can use the active.
-5.  Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
-6.  Break any of these rules sooner than say anything outright barbarous.
 
-------------------------------------------------------------------------
+
