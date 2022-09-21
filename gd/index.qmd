@@ -290,10 +290,6 @@ Maybe other researchers in the field have missed something ...
 
 This is where HD theses stand out from D theses. Your marker is looking for evidence that you can think critically, creatively, and flexibly and that you can communicate clearly, persuasively, and with authority.
 
-:::
-
-::: {.callout-tip}
-
 You probably wont have enough information to know whether a given explanation works and thats ok. Use the uncertainty as an opportunity to make *future research* suggestions. What study should be done to confirm your intuition?
 
 :::
@@ -440,10 +436,7 @@ Other discussion writing resources I recommend...
 
 Lots of great advice about academic writing generally and discussion writing specifically
 
-- [2012](https://thesiswhisperer.com/2012/01/23/how-do-i-start-my-discussion-chapter/)
-- [2016](https://thesiswhisperer.com/2016/04/20/the-difficult-discussion-chapter/)
-- [2020](https://thesiswhisperer.com/2020/03/04/no-really-how-do-you-write-a-discussion-section/)
-- [2021](https://thesiswhisperer.com/2021/05/05/how-to-make-your-dissertation-speak-to-experts/)
+- discussion posts from [2012](https://thesiswhisperer.com/2012/01/23/how-do-i-start-my-discussion-chapter/), [2016](https://thesiswhisperer.com/2016/04/20/the-difficult-discussion-chapter/), [2020](https://thesiswhisperer.com/2020/03/04/no-really-how-do-you-write-a-discussion-section/), [2021](https://thesiswhisperer.com/2021/05/05/how-to-make-your-dissertation-speak-to-experts/)
 
 
 #### The Manchester Academic Phrasebook
