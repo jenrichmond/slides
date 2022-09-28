@@ -1,5 +1,7 @@
 ---
 title: "Put your reviewer hat on"
+subtitle: https://jennyslides.netlify.app/reviewerhat/
+author: Jenny Richmond Ph.D
 format: revealjs
 editor: visual
 ---
@@ -70,8 +72,32 @@ not like this ...
 
 <iframe src="https://giphy.com/embed/BEvVsk0v0JM6k" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disneypixar-disney-pixar-BEvVsk0v0JM6k">via GIPHY</a>
 
+## Putting your reviewer hat on involves...
 
-## How can you create a feeling of "cognitive ease" for your marker? 
+... disrupting your own perceptual fluency
+
+:::: {.columns}
+::: {.column width="60%"}
+- change the font
+- print a hard copy
+- read it out loud
+- have someone read it to you
+  * Word will [read aloud](https://support.microsoft.com/en-us/office/listen-to-your-word-documents-5a2de7f3-1ef4-4795-b24e-64fc2731b001) a .docx to you
+
+:::
+::: {.column width="40%"}
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/MRyUe3RXLKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+The Goal: to create more perceptual fluency (cognitive ease) for your reader. 
+:::
+::::
+
+
+  
+
+
+
+## Creating "cognitive ease" for your marker
 
 
 ::: {.fragment}
@@ -263,17 +289,23 @@ Billing, M. (2011). Writing social psychology: Fictional things and unpopulated 
     + criticism ~ to criticise
     + argument ~ to argue
     
+
 :::
 ::: {.column width="40%"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dNlkHtMgcPQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-[Watch Helen Sword talk about why zombie nouns make your writing hard to read.](https://www.youtube.com/watch?v=dNlkHtMgcPQ) 
-
-
 :::
 ::::
 
+::: {.fragment}
+
+e.g. Participants read assertions whose veracity was either affirmed or denied by the subsequent presentation of an assessment word. 
+:::
+
+::: {.fragment}
+*The people saw sentences each followed by the word TRUE or FALSE.* 
+
+:::
 
 
 ## Zombie prose is full of passive voice
@@ -294,13 +326,21 @@ Billing, M. (2011). Writing social psychology: Fictional things and unpopulated 
 :::
 ::::
 
+::: {.fragment}
 
+e.g. Subjects were tested under conditions of good to excellent acoustic isolation. 
+:::
+::: {.fragment}
+
+*We tested students in a quiet room.* 
+
+:::
 
 ## Hunting for zombie nouns and passive voice
 
 - red flags
   + "by" "of"
-  + "-tion" "-ment" "-ism" -"ity"
+  + suffixes "-tion" "-ment" "-ism" -"ity"
     + Participants completed the *assessment by* undergoing... (passive)
 
 - solution
@@ -539,7 +579,7 @@ Make a "topic sentence paragraph"
 
 Make a topic sentence paragraph using the first sentence from each paragraph in your introduction. 
 
-- Does it read as well as Oppenheimers?
+- Does it read as well as Oppenheimer's?
 
 - Which topic sentences are not pulling their weight?
 
@@ -567,10 +607,12 @@ Paste troublesome examples in the chat if you need help.
   
 ---
 
+## Oppenheimer I
+
 ![](p1_2_p.png)
 
----
 
+## Oppenheimer II
 
 ![](p3-4_p.png)
 
@@ -626,8 +668,9 @@ Your marker doesn't know ANYTHING about your research area, but they have expect
 
 They will find the job of reading your thesis ~~"easy"~~ "easier" if you structure your thesis to meet their expectations. 
 
-- make the intro "moves" that your reader expects
+- make the [intro "moves"](https://jennyslides.netlify.app/gd/#/the-4-intro-moves) that your reader expects
 - write a funnel, not a "curvy lady"
+  * test your organisation with a [reverse outline](https://writing.wisc.edu/handbook/process/reverseoutlines/)
 
 
 
@@ -652,7 +695,7 @@ They will find the job of reading your thesis ~~"easy"~~ "easier" if you structu
 
 ## this paper is worth reading
 
-Gernsbacher, M. A. (2018). Writing empirical articles: Transparency, reproducibility, clarity, and memorability. *Advances in methods and practices in psychological science, 1(3)*, 403-414.
+Gernsbacher, M. A. (2018). Writing empirical articles: Transparency, reproducibility, clarity, and memorability. *Advances in methods and practices in psychological science, 1(3)*, 403-414. [link](https://primoa.library.unsw.edu.au/permalink/f/1uqach6/TN_cdi_proquest_miscellaneous_2183183192)
 
 :::
 
@@ -662,10 +705,11 @@ Gernsbacher, M. A. (2018). Writing empirical articles: Transparency, reproducibi
 
 *So & So (2014) did a study that involved X and found that Y. In addition, Joe & Co (2016) have found that A relates to B. Also, Big Dude and colleagues (2019) ran a study showing that manipulating X results in changes in B.*
 
---
 
 Your marker is REALLY tired, they don't want to have to think hard. 
 You can help them by doing the hard thinking for them.  
+
+<br>
 
 `r emo::ji("star")` SYNTHESIS `r emo::ji("star")`
 
@@ -677,38 +721,40 @@ You can help them by doing the hard thinking for them.
 - highlighting similarities/differences across studies
 - unpacking HOW a study supports an argument, rather than just stating it does
 - writing as if you are the expert with an opinion
-  + [see Thesis Whisperer blog re opinionated verbs(https://thesiswhisperer.com/2017/09/27/academic-writing-is-a-painful-upper-middle-class-dinner-party/)
-  
+  + [see Thesis Whisperer blog re opinionated verbs](https://thesiswhisperer.com/2017/09/27/academic-writing-is-a-painful-upper-middle-class-dinner-party/)
 
-
-
-![](verbs.png)
-
-
-
+---
 
 <iframe src="https://player.vimeo.com/video/223781358?h=ed17666f50" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/223781358">How To Synthesize Psychological Science</a> from <a href="https://vimeo.com/user1099047">Morton Ann Gernsbacher</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/223781358">How To Synthesize Psychological Science</a> from <a href="https://vimeo.com/user1099047">Morton Ann Gernsbacher</a> on <a href="https://vimeo.com">Vimeo</a>.
 
 
+## From [Manchester Academic Phrasebook](https://www.phrasebank.manchester.ac.uk/referring-to-sources/)
+![](synth.png)
+::: {.aside}
+
+From [Manchester Academic Phrasebook](https://www.phrasebank.manchester.ac.uk/referring-to-sources/)
+:::
+
+___
+
+### Verbs are [judgemental...](https://thesiswhisperer.com/2013/07/03/how-to-create-authoritative-voice-in-your-writing/)
+
+![](verbs.png)
 
 ## More tips available...
 
 <br>
 
-## [Jenny's (very opinionated) tips for academic writing google doc(https://docs.google.com/document/d/12G8KVqo4KV51Rdn4qY6QCO9Pi31D-aKr-2pHKlZzZws/edit)
+[Jenny's (very opinionated) tips for academic writing google doc](https://docs.google.com/document/d/12G8KVqo4KV51Rdn4qY6QCO9Pi31D-aKr-2pHKlZzZws/edit)
+
+Gernsbacher, M. A. (2018). Writing empirical articles: Transparency, reproducibility, clarity, and memorability. *Advances in methods and practices in psychological science, 1(3)*, 403-414. [link](https://primoa.library.unsw.edu.au/permalink/f/1uqach6/TN_cdi_proquest_miscellaneous_2183183192)
+
+[Manchester Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)
+
+# Questions...
 
 
-
-
-# BREAK - 10 min timer go
-
-<iframe src="https://giphy.com/embed/qESFbPpn6qPNo5yCQs" width="480" height="432" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/weareeverise-relax-wellness-take-a-break-qESFbPpn6qPNo5yCQs">via GIPHY</a></p>
-
-
-
-
-<iframe src="https://giphy.com/embed/X8GcOQJJxRphFRr3kC" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/schittscreek-schitts-creek-pop-tv-X8GcOQJJxRphFRr3kC">via GIPHY</a></p>
 
 
 
