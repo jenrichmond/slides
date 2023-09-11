@@ -4,8 +4,10 @@ author: Jenny Richmond PhD
 subtitle: https://jennyslides.netlify.app/gd/
 format:
   revealjs:
-    incremental: false   
+    slide-number: c/t
+    show-slide-number: print
 ---
+
 
 ## Disclaimer
 
