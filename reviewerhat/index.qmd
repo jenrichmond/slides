@@ -1,9 +1,11 @@
 ---
 title: "Put your reviewer hat on"
 subtitle: https://jennyslides.netlify.app/reviewerhat/
-author: Jenny Richmond Ph.D
-format: revealjs
-editor: visual
+author: A/Prof Jenny Richmond & A/Prof Lisa Williams
+format:
+  revealjs:
+    slide-number: c/t
+    show-slide-number: all
 ---
 
 ## Disclaimer
@@ -12,258 +14,216 @@ editor: visual
 
 > Most of the content in this workshop is my personal opinion (backed up with a little bit of research and a fair bit of experience). If something I say contradicts what your supervisor has told you, go with their context-specific expertise. Things that sound like rules, are really guidelines.
 
-
 ## Key things to remember while you are writing
 
-- your markers are just people
-- like you, they are smart and they like psychology 
-- unlike you, they are NOT an expert in your field
-- they have received 12 x 50 page theses
+-   your markers are just people
+-   like you, they are smart and they like psychology
+-   unlike you, they are NOT an expert in your field
+-   they have received 12 x 50 page theses
 
-
-:::: {.columns}
+::: columns
 ::: {.column width="60%"}
-
-
-
-- they have 2-3 weeks to mark and write a report for each thesis
-- they feel like the owl on the right 
-
+-   they have 2-3 weeks to mark and write a report for each thesis
+-   they feel like the owl on the right
 :::
-::: {.column width="40%"}
 
+::: {.column width="40%"}
 ![](owls.jpeg)
 :::
-::::
-
-
-
+:::
 
 ## Your goal is to make their job as painless as possible
 
-:::: {.columns}
+::: columns
 ::: {.column width="60%"}
-Your marker wants to feel like this while they read ...
-<br>
-<br>
-<br>
-<br>
+Your marker wants to feel like this while they read ... <br> <br> <br> <br>
 
 not like this ...
-
 :::
+
 ::: {.column width="40%"}
-![](smile_hearts.jpeg)
-<br>
-<br>
-![](grimace.jpeg)
+![](smile_hearts.jpeg) <br> <br> ![](grimace.jpeg)
 :::
-::::
-
-
-
-
+:::
 
 ## Perceptual fluency
 
-
 > "the subjective feeling of ease or difficulty while processing perceptual information... more fluent processing results in positive assessments of perceptual stimuli"
 
-. . . 
+. . .
 
-<iframe src="https://giphy.com/embed/BEvVsk0v0JM6k" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disneypixar-disney-pixar-BEvVsk0v0JM6k">via GIPHY</a>
+<iframe src="https://giphy.com/embed/BEvVsk0v0JM6k" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen>
+
+</iframe>
+
+<p>
+
+<a href="https://giphy.com/gifs/disneypixar-disney-pixar-BEvVsk0v0JM6k">via GIPHY</a>
 
 ## Putting your reviewer hat on involves...
 
 ... disrupting your own perceptual fluency
 
-:::: {.columns}
+::: columns
 ::: {.column width="60%"}
-- change the font
-- print a hard copy
-- read it out loud
-- have someone read it to you
-  * Word will [read aloud](https://support.microsoft.com/en-us/office/listen-to-your-word-documents-5a2de7f3-1ef4-4795-b24e-64fc2731b001) a .docx to you
-
+-   change the font
+-   print a hard copy
+-   read it out loud
+-   have someone read it to you
+    -   Word will [read aloud](https://support.microsoft.com/en-us/office/listen-to-your-word-documents-5a2de7f3-1ef4-4795-b24e-64fc2731b001) a .docx to you
 :::
+
 ::: {.column width="40%"}
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/MRyUe3RXLKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-The Goal: to create more perceptual fluency (cognitive ease) for your reader. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MRyUe3RXLKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The Goal: to create more perceptual fluency (cognitive ease) for your reader.
 :::
-::::
-
-
-  
-
-
+:::
 
 ## Creating "cognitive ease" for your marker
 
-
-::: {.fragment}
-- support 
-  * your marker doesn't don't know ANYTHING about your project/research area, so they need you to hold their hand. 
+::: fragment
+-   support
+    -   your marker doesn't don't know ANYTHING about your project/research area, so they need you to hold their hand.
 :::
 
-::: {.fragment}
-- structure 
-  * your marker wants your thesis to be so well structured and easy to read that they can skim. 
+::: fragment
+-   structure
+    -   your marker wants your thesis to be so well structured and easy to read that they can skim.
 :::
 
-::: {.fragment}
-- synthesis 
-  * your marker needs you to have done all the hard thinking for them.
+::: fragment
+-   synthesis
+    -   your marker needs you to have done all the hard thinking for them.
 :::
 
-## If your feedback says... 
+## If your feedback says...
 
-:::: {.columns}
+::: columns
 ::: {.column width="60%"}
-
 ::: {.fragment .highlight-red}
-  
-  * *unpack this*
-  * *unclear/vague*
-  * *jargon*
-  * *example?*
+-   *unpack this*
+-   *unclear/vague*
+-   *jargon*
+-   *example?*
 :::
 
 ::: {.fragment .highlight-green}
-
-  * *link?*
-  * *this doesn't flow*
+-   *link?*
+-   *this doesn't flow*
 :::
 
 ::: {.fragment .highlight-blue}
-  * *this reads like a list*
+-   *this reads like a list*
 :::
 :::
-
-
 
 ::: {.column width="40%"}
+::: fragment
+<iframe src="https://giphy.com/embed/1iTpx5PpzRugcrZK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
 
-::: {.fragment}
+</iframe>
 
-<iframe src="https://giphy.com/embed/1iTpx5PpzRugcrZK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/justin-g-why-1iTpx5PpzRugcrZK">via GIPHY</a></p>
-
+<p><a href="https://giphy.com/gifs/justin-g-why-1iTpx5PpzRugcrZK">via GIPHY</a></p>
 :::
 :::
-::::
-
+:::
 
 # Ready to put your reviewer `r emo::ji("hat")` on?
 
 ## 6 questions to ask yourself about your writing
 
-1. Are you trying too hard to sound smart?
-2. Do you write "zombie" prose?
-3. Are your topic sentences doing their job?
-4. Do your paragraphs function as units of argument?
-5. Are you holding your reader's hand?
-6. Does your writing synthesise or simply describe?
+1.  Are you trying too hard to sound smart?
+2.  Do you write "zombie" prose?
+3.  Are your topic sentences doing their job?
+4.  Do your paragraphs function as units of argument?
+5.  Are you holding your reader's hand?
+6.  Does your writing synthesise or simply describe?
 
 # 1. Are you trying too hard to sound smart?
 
-___
+------------------------------------------------------------------------
 
 ![](abstract.png)
 
-<br>
-<br>
+<br> <br>
 
-:::{.aside}
+::: aside
 [Oppenheimer (2006)](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.1178?casa_token=Gc-DvTJmzA4AAAAA%3AhcIJ3YoIM53MX6xvskjs2C47MiKJQL6pkzspXJm3rleu6kUyjptX0sdbvFxO8Me4V6Fygf5rt1EEX_u2)
-
 :::
-
-
 
 ## tips for sounding smart without trying
 
-:::: {.columns}
+::: columns
 ::: {.column width="60%"}
-- write for your mum 
-  + someone who is smart and interested but is not at all familiar with the topic
-- use simple words, avoid jargon
-  + 3 syllables max
-- use short sentences 
-  + 25 words max
-- use concrete examples
-
+-   write for your mum
+    -   someone who is smart and interested but is not at all familiar with the topic
+-   use simple words, avoid jargon
+    -   3 syllables max
+-   use short sentences
+    -   25 words max
+-   use concrete examples
 :::
-::: {.column width="40%"}
 
+::: {.column width="40%"}
 ![](edit.png)
 
-
-- avoid acronyms [see why here](https://www.psychologicalscience.org/observer/alienating-the-audience-how-abbreviations-hamper-scientific-communication)
-- edit out the "fuzz"
+-   avoid acronyms [see why here](https://www.psychologicalscience.org/observer/alienating-the-audience-how-abbreviations-hamper-scientific-communication)
+-   edit out the "fuzz"
 :::
-::::
-
-
+:::
 
 ## Exercise 1a (5 min timer)
 
 Take the first page of your introduction, count how many...
 
-a. long words (4+ syllables)
-b. jargon words
-c. long sentences (25+ words)
+a.  long words (4+ syllables)
+b.  jargon words
+c.  long sentences (25+ words)
 
 Look through your whole intro, count how many ...
 
-d. different acronyms you use
-
+d.  different acronyms you use
 
 When you are done, paste your a, b, c, d counts into the chat.
 
 ## Edit out the fuzz
 
-*"All writers (will have to) edit their prose, but (the) great writers edit (it) viciously, always trying to eliminate (words which are) ‘fuzz’ – (excess) words (which are not adding anything of value). Zinsser compares (the process of editing out) ‘fuzz’ to fighting weeds – you will always be slightly behind (because they creep in when you aren't looking for them). Scan (through) your text (and look) for opportunities to (get rid of) words - (places) where two words (can become one), or three words (can become) two… (or where you can get rid of some words altogether?)"*
+*"All writers (will have to) edit their prose, but (the) great writers edit (it) viciously, always trying to eliminate (words which are) 'fuzz' -- (excess) words (which are not adding anything of value). Zinsser compares (the process of editing out) 'fuzz' to fighting weeds -- you will always be slightly behind (because they creep in when you aren't looking for them). Scan (through) your text (and look) for opportunities to (get rid of) words - (places) where two words (can become one), or three words (can become) two... (or where you can get rid of some words altogether?)"*
 
-::: {.aside}
-
+::: aside
 example from [Zinsser On Writing Well](https://www.amazon.com.au/Writing-Well-William-Zinsser/dp/0060891548)
-
 :::
 
-___
+------------------------------------------------------------------------
 
-:::: {.columns}
+::: columns
 ::: {.column width="60%"}
-*"All writers edit their prose, but great writers edit viciously. The point of editing is to eliminate ‘fuzz’, or excess words which don't add value. Zinsser compares removing ‘fuzz’ to fighting weeds – you will always be slightly behind. Scan your text for opportunities to shed words - where can two words become one? or three words two?"*
+*"All writers edit their prose, but great writers edit viciously. The point of editing is to eliminate 'fuzz', or excess words which don't add value. Zinsser compares removing 'fuzz' to fighting weeds -- you will always be slightly behind. Scan your text for opportunities to shed words - where can two words become one? or three words two?"*
 
-
-::: {.aside}
-
+::: aside
 example from [Zinsser On Writing Well](https://www.amazon.com.au/Writing-Well-William-Zinsser/dp/0060891548)
+:::
+:::
 
-:::
-:::
 ::: {.column width="40%"}
 ![](darlings.jpeg)
 :::
-::::
-
+:::
 
 ## Exercise 1b (5 min timer)
 
 Pick a paragraph and "defuzz" it...
 
-- replace jargon and complex vocab with simple/concrete terms
-- break up long sentences
-- remove unnecessary "padding"
+-   replace jargon and complex vocab with simple/concrete terms
+-   break up long sentences
+-   remove unnecessary "padding"
 
 > how many words can you get rid of and still have this paragraph make sense?
 
-Paste your before and after word count into the chat. 
+Paste your before and after word count into the chat.
 
-
-
-# 2. Do you write "zombie" prose? 
+# 2. Do you write "zombie" prose?
 
 <br>
 
@@ -271,114 +231,103 @@ Paste your before and after word count into the chat.
 
 <br>
 
-
-::: {.callout}
-
+::: callout
 ## this paper is worth reading
-Billing, M. (2011). Writing social psychology: Fictional things and unpopulated texts. *British Journal of Social Psychology, 50*, 4-20.  [link](https://bpspsychub-onlinelibrary-wiley-com.wwwproxy1.library.unsw.edu.au/doi/full/10.1111/j.2044-8309.2010.02003.x)
 
+Billing, M. (2011). Writing social psychology: Fictional things and unpopulated texts. *British Journal of Social Psychology, 50*, 4-20. [link](https://bpspsychub-onlinelibrary-wiley-com.wwwproxy1.library.unsw.edu.au/doi/full/10.1111/j.2044-8309.2010.02003.x)
 :::
-
 
 ## Zombie prose is full of nominalisations
 
-:::: {.columns}
+::: columns
 ::: {.column width="60%"}
-- things (i.e.nouns) created from action (i.e. verbs) 
-    + assumption ~ to assume
-    + anonymity ~ to anonymise
-    + criticism ~ to criticise
-    + argument ~ to argue
-    
-
+-   things (i.e.nouns) created from action (i.e. verbs)
+    -   assumption \~ to assume
+    -   anonymity \~ to anonymise
+    -   criticism \~ to criticise
+    -   argument \~ to argue
 :::
+
 ::: {.column width="40%"}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dNlkHtMgcPQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dNlkHtMgcPQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
+</iframe>
 :::
-::::
-
-::: {.fragment}
-
-e.g. Participants read assertions whose veracity was either affirmed or denied by the subsequent presentation of an assessment word. 
 :::
 
-::: {.fragment}
-*The people saw sentences each followed by the word TRUE or FALSE.* 
-
+::: fragment
+e.g. Participants read assertions whose veracity was either affirmed or denied by the subsequent presentation of an assessment word.
 :::
 
+::: fragment
+*The people saw sentences each followed by the word TRUE or FALSE.*
+:::
 
 ## Zombie prose is full of passive voice
 
-:::: {.columns}
+::: columns
 ::: {.column width="60%"}
-- The dog chased the man 
-    + active: subject, verb, object
-- The man was chased *BY* the dog
-    + passive: object, verb, subject
-
-
+-   The dog chased the man
+    -   active: subject, verb, object
+-   The man was chased *BY* the dog
+    -   passive: object, verb, subject
 :::
+
 ::: {.column width="40%"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sS-Txm3R3v8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sS-Txm3R3v8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</iframe>
 :::
-::::
-
-::: {.fragment}
-
-e.g. Subjects were tested under conditions of good to excellent acoustic isolation. 
 :::
-::: {.fragment}
 
-*We tested students in a quiet room.* 
+::: fragment
+e.g. Subjects were tested under conditions of good to excellent acoustic isolation.
+:::
 
+::: fragment
+*We tested students in a quiet room.*
 :::
 
 ## Hunting for zombie nouns and passive voice
 
-- red flags
-  + "by" "of"
-  + suffixes "-tion" "-ment" "-ism" -"ity"
-    + Participants completed the *assessment by* undergoing... (passive)
-
-- solution
-  + put the people doing the action back into the sentence 
-    + We assessed participants using the ....
-    + We used the Stroop task to assess participants ... 
-
-  
+-   red flags
+    -   "by" "of"
+    -   suffixes "-tion" "-ment" "-ism" -"ity"
+        -   Participants completed the *assessment by* undergoing... (passive)
+-   solution
+    -   put the people doing the action back into the sentence
+        -   We assessed participants using the ....
+        -   We used the Stroop task to assess participants ...
 
 ## Use the zombie test
 
-*Participants were recruited for a study entitled ‘Being Australian’ and completed the questionnaire in supervised groups of 10–12, and were compensated for their time with course credit. They were informed verbally and in writing that their anonymity was protected. Completed questionnaires were placed in an opaque drop box, and participants were debriefed and given the opportunity to request a summary of the results of the study (Barlow, Louis, & Hewstone, 2009, p. 394)*
+*Participants were recruited for a study entitled 'Being Australian' and completed the questionnaire in supervised groups of 10--12, and were compensated for their time with course credit. They were informed verbally and in writing that their anonymity was protected. Completed questionnaires were placed in an opaque drop box, and participants were debriefed and given the opportunity to request a summary of the results of the study (Barlow, Louis, & Hewstone, 2009, p. 394)*
 
-::: {.aside}
+::: aside
 credit [Billings (2011)](https://bpspsychub-onlinelibrary-wiley-com.wwwproxy1.library.unsw.edu.au/doi/full/10.1111/j.2044-8309.2010.02003.x)
 :::
 
----
+------------------------------------------------------------------------
 
 ## Use the zombie test
 
-*Participants were recruited **by zombies** for a study entitled ‘Being Australian’ and completed the questionnaire in supervised groups of 10–12, and were compensated **by zombies** for their time with course credit. They were informed verbally and in writing that their anonymity was protected **by zombies**. Completed questionnaires were placed in an opaque drop box **by zombies**, and participants were debriefed **by zombies** and given the opportunity to request a summary of the results of the study (Barlow, Louis, & Hewstone, 2009, p. 394)*
+*Participants were recruited **by zombies** for a study entitled 'Being Australian' and completed the questionnaire in supervised groups of 10--12, and were compensated **by zombies** for their time with course credit. They were informed verbally and in writing that their anonymity was protected **by zombies**. Completed questionnaires were placed in an opaque drop box **by zombies**, and participants were debriefed **by zombies** and given the opportunity to request a summary of the results of the study (Barlow, Louis, & Hewstone, 2009, p. 394)*
 
-::: {.aside}
+::: aside
 credit [Billings (2011)](https://bpspsychub-onlinelibrary-wiley-com.wwwproxy1.library.unsw.edu.au/doi/full/10.1111/j.2044-8309.2010.02003.x)
 :::
 
 ## #notallzombies
 
-- passive voice and zombie nouns are not always bad (particularly in your method) 
+-   passive voice and zombie nouns are not always bad (particularly in your method)
 
-- but they can make your writing unwieldy and harder for a naive reader (aka your marker) to digest 
+-   but they can make your writing unwieldy and harder for a naive reader (aka your marker) to digest
 
-<iframe src="https://giphy.com/embed/N2quVSSRLwjN6" width="480" height="342" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/horror-zombie-zombies-N2quVSSRLwjN6">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/N2quVSSRLwjN6" width="480" height="342" frameBorder="0" class="giphy-embed" allowFullScreen>
 
+</iframe>
 
-
+<p><a href="https://giphy.com/gifs/horror-zombie-zombies-N2quVSSRLwjN6">via GIPHY</a></p>
 
 ## Difficult to digest writing example {.smaller}
 
@@ -386,358 +335,283 @@ credit [Billings (2011)](https://bpspsychub-onlinelibrary-wiley-com.wwwproxy1.li
 
 . . .
 
-
 *Specifically, we propose that people with cross-group friends cease to expect outgroup members to reject their attempts at contact and friendship (Barlow et al, 2009, p391)"*
 
 . . .
 
+-   ummmm.... why didn't you just say that?
 
-
-- ummmm.... why didn't you just say that?
-
-::: {.callout-tip}
-If you find yourself starting a sentence with "Specifically...",  "In other words...", "That is..." after a super complex idea, just use the simpler version. The previous sentence is probably teeming with zombies. 
-
+::: callout-tip
+If you find yourself starting a sentence with "Specifically...", "In other words...", "That is..." after a super complex idea, just use the simpler version. The previous sentence is probably teeming with zombies.
 :::
 
-
-::: {.aside}
+::: aside
 credit [Billings (2011)](https://bpspsychub-onlinelibrary-wiley-com.wwwproxy1.library.unsw.edu.au/doi/full/10.1111/j.2044-8309.2010.02003.x)
 :::
 
-
 ## Practice zombie example 1
 
-It is *measured by* placing EMG electrodes on the facial muscles of interest and measuring the electrical impulses *produced by* the muscles as they respond to emotion evoking stimuli. 
+It is *measured by* placing EMG electrodes on the facial muscles of interest and measuring the electrical impulses *produced by* the muscles as they respond to emotion evoking stimuli.
 
 (29 words)
 
 . . .
 
-
-Researchers use facial EMG electrodes to measure the electrical impulses generated when participants view emotional stimuli.   
+Researchers use facial EMG electrodes to measure the electrical impulses generated when participants view emotional stimuli.
 
 (`r emo::ji("down")` 16 words)
 
-
-
-
 ## Practice zombie example 2
 
-A positive attitude towards the expressor may foster emotional mimicry and increase the *interpretation of* the emotional expressions as friendly. 
+A positive attitude towards the expressor may foster emotional mimicry and increase the *interpretation of* the emotional expressions as friendly.
 
 (20 words)
 
 . . .
 
-
-People who like each other are more likely to mimic and judge emotional expressions to be friendly. 
+People who like each other are more likely to mimic and judge emotional expressions to be friendly.
 
 (`r emo::ji("down")` 17 words)
 
-
-
-
 ## Practice zombie example 3
 
-Empathy facilitates the *formation of* strong social relationships *by* motivating helping behaviour. 
+Empathy facilitates the *formation of* strong social relationships *by* motivating helping behaviour.
 
 (12 words)
 
 . . .
 
-Empathy helps people build strong social relationships because it motivates them to help each other. 
+Empathy helps people build strong social relationships because it motivates them to help each other.
 
 (`r emo::ji("up")` 15 words)
-
 
 ## Exercise 2 (5 min)
 
 Pick a page of your introduction, get out a highlighter and mark instances of...
 
-  + "by" "of" (passive red flags)
-  + "-tion" "-ment" "-ism" -"ity" -"ism" (nominalisations)
-  
+-   "by" "of" (passive red flags)
+-   "-tion" "-ment" "-ism" -"ity" -"ism" (nominalisations)
+
 <br>
 
 Can you rephrase the sentence to put the people doing the action back in? How many words can you save?
 
 <br>
 
-Paste your problem sentences into the chat if you need help. 
-
-
+Paste your problem sentences into the chat if you need help.
 
 ## Still not sure about passive voice/nominalisations??
 
-:::: {.columns}
+::: columns
 ::: {.column width="40%"}
+<br>
 
-<br> 
-
-
-Read [this paper](https://bpspsychub-onlinelibrary-wiley-com.wwwproxy1.library.unsw.edu.au/doi/full/10.1111/j.2044-8309.2010.02003.x) - it is good and not just for social psychologists. 
-
-
-
-
-
-
+Read [this paper](https://bpspsychub-onlinelibrary-wiley-com.wwwproxy1.library.unsw.edu.au/doi/full/10.1111/j.2044-8309.2010.02003.x) - it is good and not just for social psychologists.
 :::
+
 ::: {.column width="60%"}
 ![](billing.png)
 :::
-::::
-
-
-
+:::
 
 # 3. Are your topic sentences doing their job?
-
-
-
 
 ## what is the job of a topic sentence?
 
 The first sentence of every paragraph gives away the point that paragraph is trying to make.
 
-It should be a general statement summarising a particular part of the literature. 
+It should be a general statement summarising a particular part of the literature.
 
-  + It should describe what has been found ACROSS studies. 
-  + It is usually NOT about a specific study
-  + It should do more than just tell the reader that some research has been done. 
-
-
+-   It should describe what has been found ACROSS studies.
+-   It is usually NOT about a specific study
+-   It should do more than just tell the reader that some research has been done.
 
 ## example 1a - too specific
-<br> 
+
+<br>
 
 ***A study conducted by Phillips and colleagues (2015) found that participants aged 65-86 performed significantly worse than younger groups on tasks assessing comprehension of sarcastic exchanges.*** Interestingly, there was no effect of age on the understanding of sincere exchanges (Phillips et al, 2015). Further, a meta-analysis across 23 theory of mind (TOM) studies showed that older adults performed worse on TOM tasks compared to younger groups (Henry, Phillips, Ruffman, & Bailey, 2013).
 
 . . .
 
-:::{.callout-warning}
-
-- "by" = passive, "comprehension" = nominalisation
-- emphasis on the study and who did it, rather than what they did and what they found 
-
+::: callout-warning
+-   "by" = passive, "comprehension" = nominalisation
+-   emphasis on the study and who did it, rather than what they did and what they found
 :::
 
 ## example 1b - too general
-<br> 
-***Much research has investigated social cognition in older people.*** For example, Phillips and colleagues (2015) found that while participants aged 65-86 had no problem understanding sincere exchanges, they found it more difficult  to understand sarcastic exchanges than did young adults (Phillips et al, 2015). This result is consistent with a recent meta-analysis of theory of mind studies, which showed that older adults performed worse on TOM tasks compared to younger groups (Henry, Phillips, Ruffman, & Bailey, 2013). 
+
+<br> ***Much research has investigated social cognition in older people.*** For example, Phillips and colleagues (2015) found that while participants aged 65-86 had no problem understanding sincere exchanges, they found it more difficult to understand sarcastic exchanges than did young adults (Phillips et al, 2015). This result is consistent with a recent meta-analysis of theory of mind studies, which showed that older adults performed worse on TOM tasks compared to younger groups (Henry, Phillips, Ruffman, & Bailey, 2013).
 
 . . .
 
 <br>
 
-:::{.callout-warning}
-
-- doesn't say more than "research in X area has been done"
+::: callout-warning
+-   doesn't say more than "research in X area has been done"
 :::
 
 ## example 1c - just right
-<br> 
-***As we age, our ability to understand how other people are feeling and what other people are thinking declines.*** For example, Phillips and colleagues (2015) found that while participants aged 65-86 had no problem understanding sincere exchanges, they found it more difficult  to understand sarcastic exchanges than did young adults (Phillips et al, 2015). This result is consistent with a recent meta-analysis of theory of mind studies, which showed that older adults performed worse on TOM tasks compared to younger groups (Henry, Phillips, Ruffman, & Bailey, 2013). 
+
+<br> ***As we age, our ability to understand how other people are feeling and what other people are thinking declines.*** For example, Phillips and colleagues (2015) found that while participants aged 65-86 had no problem understanding sincere exchanges, they found it more difficult to understand sarcastic exchanges than did young adults (Phillips et al, 2015). This result is consistent with a recent meta-analysis of theory of mind studies, which showed that older adults performed worse on TOM tasks compared to younger groups (Henry, Phillips, Ruffman, & Bailey, 2013).
 
 . . .
 
-:::{.callout-tip}
-- general statement about a *pattern* of findings 
-- sets the reader up to expect findings in a particular direction
+::: callout-tip
+-   general statement about a *pattern* of findings
+-   sets the reader up to expect findings in a particular direction
 :::
 
-
-## How to test your topic sentences 
+## How to test your topic sentences
 
 Make a "topic sentence paragraph"
 
-- Paste all the topic sentences in your intro into a paragraph.  It should read like a summary of your argument/rationale. 
-
-
-
-
+-   Paste all the topic sentences in your intro into a paragraph. It should read like a summary of your argument/rationale.
 
 ## Oppenheimer I
 
 ![](p1_2.png)
 
-
-
 ## Oppenheimer II
 
 ![](p3-4.png)
 
-
-
-
 ## all together now...oppenheimer (2005)
 
-*When it comes to writing, most experts agree that clarity, simplicity and parsimony are ideals that authors should strive for. However, most of us can likely recall having read papers, either by colleagues or students, in which the author appears to be deliberately using overly complex words. There are many plausible reasons that the use of million-dollar words would lead readers to believe that an author is smart. Indeed, there is some evidence that complex vocabulary can be indicative of a more intelligent author.* 
+*When it comes to writing, most experts agree that clarity, simplicity and parsimony are ideals that authors should strive for. However, most of us can likely recall having read papers, either by colleagues or students, in which the author appears to be deliberately using overly complex words. There are many plausible reasons that the use of million-dollar words would lead readers to believe that an author is smart. Indeed, there is some evidence that complex vocabulary can be indicative of a more intelligent author.*
 
+## Exercise 3 (5 min) {.bigger}
 
-## Exercise 3 (5 min){.bigger}
+Make a topic sentence paragraph using the first sentence from each paragraph in your introduction.
 
-Make a topic sentence paragraph using the first sentence from each paragraph in your introduction. 
+-   Does it read as well as Oppenheimer's?
 
-- Does it read as well as Oppenheimer's?
+-   Which topic sentences are not pulling their weight?
 
-- Which topic sentences are not pulling their weight?
+-   How can you make them work harder?
 
-- How can you make them work harder?
-
-
-Paste troublesome examples in the chat if you need help. 
-
+Paste troublesome examples in the chat if you need help.
 
 # 4. Do your paragraphs function as units of argument?
 
-
-
-
 ## A good paragraph should...
 
-- cover only ONE idea
-- start with a topic sentence
-- all other sentences should be
-  + explanation
-  + examples
-  + AND/OR evidence to back up the topic sentence
-- use the 1:5:25 rule
-  + 1 idea, ~ 5 sentences, no more than 25 words/sentence
-  
----
+-   cover only ONE idea
+-   start with a topic sentence
+-   all other sentences should be
+    -   explanation
+    -   examples
+    -   AND/OR evidence to back up the topic sentence
+-   use the 1:5:25 rule
+    -   1 idea, \~ 5 sentences, no more than 25 words/sentence
+
+------------------------------------------------------------------------
 
 ## Oppenheimer I
 
 ![](p1_2_p.png)
 
-
 ## Oppenheimer II
 
 ![](p3-4_p.png)
-
 
 ## How to write paragraphs like Oppenheimer
 
 ***Signposting*** can help you structure your argument, but also convey a message of empathy/care for the reader.
 
-  * For example... 
-    * *That was a big claim- its ok, I am about to give you an example*
-  * There are three kinds of studies ... 
-    * *I am going to tell you about three different things, yes that seems like a lot- don't worry though...*
-  * First, ... Second, ... Further... 
-    * *... I will hold your hand and let you know where we are up to*
+-   For example...
+    -   *That was a big claim- its ok, I am about to give you an example*
+-   There are three kinds of studies ...
+    -   *I am going to tell you about three different things, yes that seems like a lot- don't worry though...*
+-   First, ... Second, ... Further...
+    -   *... I will hold your hand and let you know where we are up to*
 
-  
-  
 ## How to write paragraphs like Oppenheimer II
 
-***Linking words/phrases*** are VERY powerful. Solid topic sentences give away the point of the paragraph but should also convey how this point fits into the argument.  
+***Linking words/phrases*** are VERY powerful. Solid topic sentences give away the point of the paragraph but should also convey how this point fits into the argument.
 
-  * However... OR In contrast ... 
+-   However... OR In contrast ...
 
-  * Indeed... 
+-   Indeed...
 
-  * In addition to ... , there is also evidence that... 
-    
-
+-   In addition to ... , there is also evidence that...
 
 ## Exercise 4 (5 min timer)
 
 Pick apart a paragraph, does it...
 
-- contain just one idea
-- have a solid topic sentence
-- at least 1 of the Es
-  * example
-  * explanation
-  * evidence
-- could you help your reader by using signposting and/or linking words?
+-   contain just one idea
+-   have a solid topic sentence
+-   at least 1 of the Es
+    -   example
+    -   explanation
+    -   evidence
+-   could you help your reader by using signposting and/or linking words?
 
+# 5. Are you holding your ~~reader's~~ marker's hand?
 
+## Your job as the ~~writer~~ student is to make it easy for your ~~reader~~ marker.
 
-# 5. Are you holding your ~~reader's~~ marker's hand? 
+Your marker doesn't know ANYTHING about your research area, but they have expectations about the structure of an honours thesis.
 
+They will find the job of reading your thesis ~~"easy"~~ "easier" if you structure your thesis to meet their expectations.
 
+-   make the [intro "moves"](https://jennyslides.netlify.app/gd/#/the-4-intro-moves) that your reader expects
+-   write a funnel, not a "curvy lady"
+    -   test your organisation with a [reverse outline](https://writing.wisc.edu/handbook/process/reverseoutlines/)
 
+## Your job as the ~~writer~~ student is to make it easy for your ~~reader~~ marker.
 
-
-## Your job as the ~~writer~~ student is to make it easy for your ~~reader~~ marker. 
-
-Your marker doesn't know ANYTHING about your research area, but they have expectations about the structure of an honours thesis. 
-
-They will find the job of reading your thesis ~~"easy"~~ "easier" if you structure your thesis to meet their expectations. 
-
-- make the [intro "moves"](https://jennyslides.netlify.app/gd/#/the-4-intro-moves) that your reader expects
-- write a funnel, not a "curvy lady"
-  * test your organisation with a [reverse outline](https://writing.wisc.edu/handbook/process/reverseoutlines/)
-
-
-
-
-
-
-## Your job as the ~~writer~~ student is to make it easy for your ~~reader~~ marker. 
-
-  + strong topic sentences + predictable paragraph structure
-  + make the links between ideas really explicit
-  + use signposting
-  + avoid vagueness and potential for confusion 
-    + the undefined "this"
-    + [see the Thesis Whisperer re vagueness](https://thesiswhisperer.com/2017/06/28/8346/)
-
-  
-
+-   strong topic sentences + predictable paragraph structure
+-   make the links between ideas really explicit
+-   use signposting
+-   avoid vagueness and potential for confusion
+    -   the undefined "this"
+    -   [see the Thesis Whisperer re vagueness](https://thesiswhisperer.com/2017/06/28/8346/)
 
 # 6. Does your writing synthesise or simply describe?
 
-::: {.callout}
-
+::: callout
 ## this paper is worth reading
 
 Gernsbacher, M. A. (2018). Writing empirical articles: Transparency, reproducibility, clarity, and memorability. *Advances in methods and practices in psychological science, 1(3)*, 403-414. [link](https://primoa.library.unsw.edu.au/permalink/f/1uqach6/TN_cdi_proquest_miscellaneous_2183183192)
-
 :::
-
-
 
 ## Some theses read like a list of study descriptions
 
 *So & So (2014) did a study that involved X and found that Y. In addition, Joe & Co (2016) have found that A relates to B. Also, Big Dude and colleagues (2019) ran a study showing that manipulating X results in changes in B.*
 
-
-Your marker is REALLY tired, they don't want to have to think hard. 
-You can help them by doing the hard thinking for them.  
+Your marker is REALLY tired, they don't want to have to think hard. You can help them by doing the hard thinking for them.
 
 <br>
 
 `r emo::ji("star")` SYNTHESIS `r emo::ji("star")`
 
-
-
 ## What is synthesis?
 
-- extracting the patterns in the literature
-- highlighting similarities/differences across studies
-- unpacking HOW a study supports an argument, rather than just stating it does
-- writing as if you are the expert with an opinion
-  + [see Thesis Whisperer blog re opinionated verbs](https://thesiswhisperer.com/2017/09/27/academic-writing-is-a-painful-upper-middle-class-dinner-party/)
+-   extracting the patterns in the literature
+-   highlighting similarities/differences across studies
+-   unpacking HOW a study supports an argument, rather than just stating it does
+-   writing as if you are the expert with an opinion
+    -   [see Thesis Whisperer blog re opinionated verbs](https://thesiswhisperer.com/2017/09/27/academic-writing-is-a-painful-upper-middle-class-dinner-party/)
 
----
+------------------------------------------------------------------------
 
-<iframe src="https://player.vimeo.com/video/223781358?h=ed17666f50" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/223781358">How To Synthesize Psychological Science</a> from <a href="https://vimeo.com/user1099047">Morton Ann Gernsbacher</a> on <a href="https://vimeo.com">Vimeo</a>.
+<iframe src="https://player.vimeo.com/video/223781358?h=ed17666f50" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
 
+</iframe>
+
+<p>
+
+<a href="https://vimeo.com/223781358">How To Synthesize Psychological Science</a> from <a href="https://vimeo.com/user1099047">Morton Ann Gernsbacher</a> on <a href="https://vimeo.com">Vimeo</a>.
 
 ## From [Manchester Academic Phrasebook](https://www.phrasebank.manchester.ac.uk/referring-to-sources/)
-![](synth.png)
-::: {.aside}
 
-From [Manchester Academic Phrasebook](https://www.phrasebank.manchester.ac.uk/referring-to-sources/)
-:::
+![](synth.png) ::: {.aside}
 
-___
+From [Manchester Academic Phrasebook](https://www.phrasebank.manchester.ac.uk/referring-to-sources/) :::
+
+------------------------------------------------------------------------
 
 ### Verbs are [judgemental...](https://thesiswhisperer.com/2013/07/03/how-to-create-authoritative-voice-in-your-writing/)
 
@@ -754,39 +628,3 @@ Gernsbacher, M. A. (2018). Writing empirical articles: Transparency, reproducibi
 [Manchester Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)
 
 # Questions...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-  
-
-
-
- 
-
-
-
-
-
-
-
-
-
-

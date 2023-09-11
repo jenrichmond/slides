@@ -1,11 +1,11 @@
 ---
 title: "The Art of General Discussion Writing"
-author: Jenny Richmond PhD
+author: A/Prof Jenny Richmond & A/Prof Lisa Williams
 subtitle: https://jennyslides.netlify.app/gd/
 format:
   revealjs:
     slide-number: c/t
-    show-slide-number: print
+    show-slide-number: all
 ---
 
 
