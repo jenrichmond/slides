@@ -204,30 +204,7 @@ Lots of students describe how their findings relate to hypotheses/literature wit
 :::
 
 
-## Exercise 2a - consistent or not
 
-:::: {.columns}
-::: {.column width="60%"}
-
-Take your spider diagram and add more legs. 
-
-- For each finding, add a note relating to your hypotheses (H) and past literature (L). 
-- Highlight consistencies one colour and inconsistencies another colour. 
-
-- Add extra legs describing HOW your findings are (or aren't consistent)
-
-
-:::
-::: {.column width="40%"}
-
-![](spider2.JPG)
-
-
-![](spider3.JPG)
-
-
-:::
-::::
 
 
 
@@ -296,6 +273,30 @@ You probably wont have enough information to know whether a given explanation wo
 
 :::
 
+## Exercise 2a - consistent or not
+
+:::: {.columns}
+::: {.column width="60%"}
+
+Take your spider diagram and add more legs. 
+
+- For each finding, add a note relating to your hypotheses (H) and past literature (L). 
+- Highlight consistencies one colour and inconsistencies another colour. 
+
+- Add extra legs describing HOW your findings are (or aren't consistent)
+
+
+:::
+::: {.column width="40%"}
+
+![](spider2.JPG)
+
+
+![](spider3.JPG)
+
+
+:::
+::::
 
 ## Exercise 2b- big picture
 
