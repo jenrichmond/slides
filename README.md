@@ -3,7 +3,11 @@
 This repo hosts my slides made with the xaringan package (and quarto). 
 
 
-## R-Ladies Sydney talks
+## Re GenAI
+
+[wombat: GenAI & data science learning](https://jennyslides.netlify.app/wombat/)
+
+## Re learning R
 
 [byod: R for beginners workshop](https://jennyslides.netlify.app/byod/)
 
@@ -11,7 +15,7 @@ This repo hosts my slides made with the xaringan package (and quarto).
 
 [My Favourite Things (about R](https://jennyslides.netlify.app/favthings/)
 
-## UNSW teaching
+## Re psychology / writing 
 
 [PSYC3361 internship](https://jennyslides.netlify.app/interns/)
 
