@@ -1,0 +1,26 @@
+---
+title: "GenAI and data science learning"
+author: Jenny Richmond Ph.D
+subtitle: https://jennyslides.netlify.app/wombat/
+format:
+  revealjs:
+    slide-number: c/t
+    show-slide-number: all
+---
+
+
+
+# outline
+
+
+
+
+# where are we
+
+
+
+# where do we want to be
+
+
+
+# how do we get there
