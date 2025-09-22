@@ -1,6 +1,6 @@
 # Jenny's slides
 
-This repo hosts slides made with the xaringan package. 
+This repo hosts my slides made with the xaringan package (and quarto). 
 
 
 ## R-Ladies Sydney talks
