@@ -1,0 +1,26 @@
+---
+title: "script"
+format: html
+editor: visual
+---
+
+# title
+
+
+thanks everyone for coming. cynthia asked if I would talk about genAI and education, the educators in the room have been kept awake at night by this question. I am not promising to answer this question necessarily- it is a HARD question
+
+# outline
+
+But i do want to talk about how students are using generative AI, what universities are doing to try and counter that... specificially what data science educators are (and are not doing), and then give you an example of how I have started to making changes to the design of my courses that are trying to teach reproduciblity to psychology students. 
+
+
+
+
+# about me
+
+
+
+# what are students doing
+
+
+

@@ -7,7 +7,6 @@ execute:
 editor: visual
 ---
 
-
 ```{r}
 library(tidyverse)
 library(janitor)
@@ -26,7 +25,6 @@ practice_penguins <- penguins %>%
          "Sex" = sex) 
 ```
 
-
 # Avoid filepath drama
 
 ## here::here()
@@ -39,7 +37,6 @@ practice_penguins <- penguins %>%
 clean_penguins <- practice_penguins %>%
   clean_names()
 ```
-
 
 # Count things
 
@@ -61,7 +58,6 @@ naniar::vis_miss(clean_penguins)
 
 ```
 
-
 # Make wide data long
 
 ## tidyr::pivot_longer()
@@ -75,7 +71,6 @@ long_bill <- penguin_bill %>%
                values_to = "measurement",   bill_length:bill_depth)
 ```
 
-
 # Make ggplot easy
 
 ## ggeasy::easy_remove_legend()
@@ -88,10 +83,9 @@ clean_penguins %>%
   
 ```
 
-
 # Make new conditional variables
 
-## dplyr::case_when() 
+## dplyr::case_when()
 
 ```{r}
 gentoo <- clean_penguins %>%
@@ -110,7 +104,6 @@ gentoo %>% tabyl(long_short)
 
 ```
 
-
 # Move new variables
 
 ## dplyr::relocate()
@@ -124,12 +117,10 @@ gentoo %>%
   geom_jitter()
 ```
 
-
 # Save all Rmd figures to folder
 
-## knitr options fig.path = 
+## knitr options fig.path =
 
 # Write new data to csv
 
 ## readr::write_csv()
-
