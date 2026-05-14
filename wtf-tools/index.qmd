@@ -219,20 +219,23 @@ Take notes in a spreadsheet, set up columns to help you see patterns.
 
 ## managing your research supervisor
 
-You probably don't know what to expect from your supervisor in terms of ...
+The student/supervisor relationship is not the same as...
 
 ::::: columns
 ::: {.column width="60%"}
 
+<br>
 
--   communication
--   meetings
--   support
--   feedback
+-   employee/boss
+-   student/teacher
+-   mentee/mentor
+
 
 :::
 
 ::: {.column width="40%"}
+
+<br>
 
 Start a curious conversation:
 
@@ -322,13 +325,24 @@ You need to think about
 
 - the Reading Matrix
 
-- the curious conversation + the Meeting Prep template
+- the Meeting Prep template
 
 [Download the toolkit](https://docs.google.com/document/d/18bE6di4qFSmfhgz3v7G_YqBHfmXu4NgM1iptDdrXAzc/edit?usp=sharing)
 
 
 
 ---
+
+
+::::: columns
+::: {.column width="60%"}
+![](productive.png)
+
+:::
+::::
+
+---
+
 
 ::::: columns
 ::: {.column width="60%"}
@@ -339,7 +353,7 @@ You need to think about
 
 ::: {.column width="40%"}
 
-But also...
+Extra pie pieces...
 
 -   asking for help when you are stuck
 -   bouncing ideas around with someone who knows
@@ -360,7 +374,7 @@ But also...
 
 
 
-## Questions... ask me anything
+## questions... ask me anything
 
 <br>
 <br>
@@ -377,7 +391,7 @@ These slides are available at...
 
 
 
-## Thanks for coming!
+## thanks for coming!
 
 - Send me picture of your Everything Notebook!!
 
@@ -386,7 +400,9 @@ These slides are available at...
 - Join us for workshops in coming weeks...
 
     - May 29 Make the moves your marker expects
-    - June 12 Data Management for Beginners
+    - June 12 (TBD)
+        - Data Management for Beginners OR
+        - How to Stop Dreading Your Discussion
 
 - Interested in coaching or writing review? 
 
