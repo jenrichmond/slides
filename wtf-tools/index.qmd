@@ -10,6 +10,20 @@ format:
     footer: "www.revealresearch.org"
 ---
 
+## {.center}
+
+
+### These slides are available at...
+
+<br>
+
+[www.jennyslides.netlify.app/wtf-tools/](https://jennyslides.netlify.app/wtf-tools/)
+
+
+
+
+---
+
 ### how are you feeling about your research project?
 
 ![](emotions.png){fig-align="center"}
@@ -48,31 +62,31 @@ format:
 
 ## my mission
 
+<br>
+
 > I help new researchers go from feeling like they've missed something everyone else knows, to feeling like they genuinely belong in research, so they can get through their research degree and into the career they actually want.
 
-------------------------------------------------------------------------
+---
 
-## Reveal Research Consulting
 
-1.  workshops
-
-2.  1:1 (and group) coaching
-
-3.  writing review
-
-Make a time to chat about how I can help
+![](threeservices.png){fig-align="center"}
 
 <br>
+
 
 <https://calendly.com/jennyrichmond/30min>
 
 ------------------------------------------------------------------------
 
 ## the overwhelm toolkit
-
 <br>
 
-> you will leave today with three tools that will save you time, reduce overwhelm, and reclaim headspace for the important stuff
+- Problem 1: there is too much to keep track of
+- Problem 2: there is too much to read
+- Problem 3: there is too much interpersonal uncertainty
+
+
+> You will leave today with three tools that will save you time, reduce overwhelm, and reclaim headspace for the important stuff
 
 
 # problem 1. there is too much to keep track of
@@ -94,21 +108,20 @@ Unless you have a way of keeping track of everything.
 
 ## the everything notebook
 
-A place to document your project in a way that creates headspace for current you and a resource for future you.
+A place to document your project in a way that creates headspace for current you AND a resource for future you.
 
-<br>
+- At minimum, it is a just record of your research work.
 
-At minimum, it is a just record of your research work.
 
-<br>
-
-Daily log
+#### Daily log
 
 -   what did you do?
 -   how did it go?
 -   what's next?
 
-But used most effectively, it is a **metacognitive learning tool**
+But used most effectively, it is a **metacognitive learning tool**.
+
+[Everything Notebook prompts](https://docs.google.com/document/d/18bE6di4qFSmfhgz3v7G_YqBHfmXu4NgM1iptDdrXAzc/edit?tab=t.0)
 
 ------------------------------------------------------------------------
 
@@ -208,21 +221,34 @@ Take notes in a spreadsheet, set up columns to help you see patterns.
 
 You probably don't know what to expect from your supervisor in terms of ...
 
+::::: columns
+::: {.column width="60%"}
+
+
 -   communication
 -   meetings
 -   support
 -   feedback
 
+:::
+
+::: {.column width="40%"}
+
 Start a curious conversation:
 
 > *I just want to make sure that I am making the most of this time, can we have a chat about how you see supervision working best?*
 
+:::
+:::::
+
 ## curious conversation prep
+
+You need to think about
 
 -   how do you work best when collaborating with others?
 -   how do you typically react to feedback in other contexts?
 -   are there skills that you are concerned you don't yet have?
--   what are you most worried about in terms of navigating the relationship with your supervisior?
+-   what are you most worried about in terms of navigating the relationship with your supervisor?
 
 ------------------------------------------------------------------------
 
@@ -291,10 +317,6 @@ Start a curious conversation:
 
 ## the overwhelm toolkit
 
-<br>
-
-> you will leave today with three tools that will save you time, reduce overwhelm, and reclaim headspace for the important stuff
-
 
 - the Everything Notebook
 
@@ -330,18 +352,32 @@ But also...
 
 ---
 
-## Reveal Research
+
+
+
+![](threeservices.png){fig-align="center"}
 
 
 
 
+## Questions... ask me anything
+
+<br>
+<br>
+<br>
+
+These slides are available at...
+
+<br>
+
+[www.jennyslides.netlify.app/wtf-tools/](https://jennyslides.netlify.app/wtf-tools/)
 
 
-# Questions... ask me anything
+---
 
 
 
-## Keep in touch
+## Thanks for coming!
 
 - Send me picture of your Everything Notebook!!
 
@@ -358,5 +394,5 @@ But also...
 
 [https://calendly.com/jennyrichmond/30min](https://calendly.com/jennyrichmond/30min)
 
----
+
 
