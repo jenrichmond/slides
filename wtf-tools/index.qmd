@@ -346,6 +346,7 @@ You need to think about
 
 ::::: columns
 ::: {.column width="60%"}
+
 ![](productive.png)
 
 :::
@@ -366,13 +367,28 @@ Extra pie pieces...
 
 ---
 
-
-
-
 ![](threeservices.png){fig-align="center"}
+<br>
 
 
+::::: columns
+::: {.column width="30%"}
 
+[FAQ coaching](https://docs.google.com/document/d/1naNaA4Lm2h5z1M2WZXyChO7IOVm9bEfwVhg_KB2rVlg/edit?usp=sharing)
+
+
+:::
+
+::: {.column width="70%"}
+
+
+[FAQ writing review](https://docs.google.com/document/d/1RqOGPRnjNd3VqWx0reccfgHQZ80FkAjB3M27nwIh2zk/edit?usp=sharing) and [Demo video](https://youtu.be/-9XJruotAH8)
+
+:::
+:::::
+
+
+---
 
 ## questions... ask me anything
 
@@ -406,9 +422,7 @@ These slides are available at...
 
 - Interested in coaching or writing review? 
 
-    - Book a time to chat
-
-[https://calendly.com/jennyrichmond/30min](https://calendly.com/jennyrichmond/30min)
+    - Book a [free discovery call](https://calendly.com/jennyrichmond/30min)
 
 
 
