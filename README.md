@@ -25,4 +25,4 @@ This repo hosts my slides made with the xaringan package (and quarto).
 
 [The Art of General Discussion writing](https://jennyslides.netlify.app/gd/)
 
-[Put your reviewer hat on](https://jennyslides.netlify.app/rewriting/)
+[Put your reviewer hat on](https://jennyslides.netlify.app/reviewerhat/)
