@@ -230,15 +230,19 @@ We examined the data and found the intervention improved emotional regulation.
 
 Find the passive voice and put the subject back in the sentence. Look for...
 
-- "by"
+::: {.panel-tabset}
+
+### by
   + *Informed consent was obtained by the research assistant*
-- "was", "were"
+
+### was & were
   + *A significant relationship was found...*
   + *Participants were recruited...*
-- words ending in -tion, -ment
+  
+### -tion, -ment
   + *The implementation of the intervention involved the measurement of participant engagement throughout the duration of the investigation.*
 
-
+:::
 
 # paragraphs
 
@@ -246,20 +250,24 @@ Find the passive voice and put the subject back in the sentence. Look for...
 
 ### paragraphs are units of argument
 
-Each paragraph contains JUST ONE idea, expressed as...
+Each paragraph contains JUST ONE idea. 
 
-1.  Topic sentence: gives away the main idea that the paragraph is going to convey
+<br>
 
-2.  Other sentences
--   empirical evidence and/or
--   examples and/or
--   explanation
+Topic sentence
+
+- gives away the point of the paragraph
+
+Other sentences
+
+- evidence
+- examples
+- explanation
+
+> 1 : 5 : 25 rule (1 idea, ~5 sentences, no more than 25 words per sentence)
 
 
-> 1 : 5 : 25 rule (1 idea, \~ 5 sentences, no more than 25 words/sentence)
-
-
-
+---
 
 ## paragraph examples 
 
@@ -299,7 +307,9 @@ Do they...
 
 ---
 
-## Perceptual fluency comes from...
+## Take home message
+
+You can create perceptual fluency using...
 
 1. structure
 2. words
@@ -313,10 +323,8 @@ Do they...
 
 
 
-# if you need help
 
 ---
-
 
 ::::: columns
 ::: {.column width="40%"}
