@@ -258,13 +258,23 @@ Topic sentence
 
 - gives away the point of the paragraph
 
+::::: columns
+::: {.column width="50%"}
+
 Other sentences
 
 - evidence
 - examples
 - explanation
 
+:::
+
+::: {.column width="50%"}
+
 > 1 : 5 : 25 rule (1 idea, ~5 sentences, no more than 25 words per sentence)
+
+:::
+:::::
 
 
 ---
