@@ -1,0 +1,23 @@
+---
+title: "what they forgot to teach you about doing research"
+subtitle: "data management for beginners"
+author: Jenny Richmond Ph.D
+format:
+  revealjs:
+    slide-number: c/t
+    show-slide-number: all
+    theme: dracula
+    footer: "www.revealresearch.org"
+---
+
+##  {.center}
+
+### These slides are available at...
+
+<br>
+
+[www.jennyslides.netlify.app/wtf-data/](https://jennyslides.netlify.app/wtf-data/)
+
+
+
+---
