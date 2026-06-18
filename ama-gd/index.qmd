@@ -212,8 +212,8 @@ The current study found that having children talk in detail about a past event i
 
 ## *Relate* your results 
 
-- **explain** how each of your findings is consistent (or not) with your hypotheses 
-- **explain** how your results are (or are not) consistent with the literature you talked about in your introduction
+- how are your findings consistent (or not) with your hypotheses?
+- how are your findings consistent (or not) with the literature you talked about in your introduction?
 
 ::: {.callout-important}
 
@@ -224,7 +224,7 @@ Lots of students just state that their findings are (or are not) consistent with
 
 
 
-## Then, **explain** what we know now that we didn't know before.
+## *Explain* what we know now that we didn't know before.
 
 - Consistent? - great! 
   * Explain HOW your findings have advanced the field 
@@ -264,8 +264,7 @@ Maybe the effect is real, I just wasn't able to detect it...
 
 ::: {.callout-warning}
 
-These explanations apply to all research theses written in the world ever... try to avoid relying on them. 
-If you do need to, be specific. Make sure to explain EXACTLY HOW that problem resulted in the PATTERN of data you got
+These explanations apply to all research theses written in the world ever. Make sure to explain EXACTLY HOW that problem resulted in the PATTERN of data you got.
 
 :::
 
@@ -273,13 +272,13 @@ If you do need to, be specific. Make sure to explain EXACTLY HOW that problem re
 
 ## Why did my study not "work"? 
 
-Maybe other researchers in the field have missed something
+Maybe other researchers have missed something? Perhaps...
 
-- perhaps this psychological construct doesn't work like everyone says it does
-- perhaps this task doesn't measure what everyone says it does
-- perhaps other studies have failed to control for variables that impact performance
-- perhaps research using this task to answer different questions can help
-- perhaps the "other" theoretical perspective accounts for my findings better 
+- this psychological construct doesn't work like everyone says it does
+- this task doesn't measure what everyone says it does
+- other studies have failed to control for variables that impact performance
+- research using this task to answer different questions can help
+- the "other" theoretical perspective accounts for my findings better 
 
 
 ---
@@ -391,11 +390,15 @@ Don't exaggerate. It is unlikely that your study will change clinical practice, 
 ---
 
 
-Honours research projects have lots of limitations. 
+## which limitations?
 
 - You don't need to talk about them all (esp those that apply to everyone). 
+  * sample size
+  * generalisability
+  * self-report
+  * methodological issues
 
-- Only talk about those that are specific to YOUR PROJECT and have clearly had an impact on the PATTERN of data that you got. 
+- Focus on limitations that are specific to YOUR PROJECT and may have had an impact on the PATTERN of data that you got. 
 
 
 ::: {.callout-tip}
@@ -404,15 +407,37 @@ Don't leave limitations hanging, use them to make suggestions for *future resear
 
 :::
 
+---
+
+## limitations
+
+::: panel-tabset
+
+## exercise 4a
+
+
+Make a new spider diagram and brain dump all the limitations that apply to your study on the page. 
+
+Circle those that are specific to your study and can explain a pattern of findings. 
+
+Put a sqaure around others that mgith be worth mentioning. 
+
+## example
+
+INSERT DIAGRAM
+
+:::
+
+
 
 
 # Move 5. what do we still not know... what are the next steps?
 
 ---
 
-At this point you might have already embedded ideas for future research in ...
+## You can leave future research breadcrumbs... 
 
-- Move 2  (relate)
+- Move 2 (relate)
 - Move 3 (real world/theory)
 - Move 4 (limitations)
 
@@ -424,6 +449,31 @@ Avoid future research suggestions that apply to all research theses in the world
 
 :::
 
+---
+
+::: panel-tabset
+
+## exercise 5a
+
+
+Make a new spider diagram and label the centre "My PhD Project". 
+
+Fill the legs with...
+
+- what is the question?
+- how would you answer it?
+- what do you expect to find?
+
+
+## example
+
+INSERT DIAGRAM
+
+:::
+
+---
+
+
 
 
 # Move 6. what is the take home message?
@@ -431,22 +481,51 @@ Avoid future research suggestions that apply to all research theses in the world
 
 ---
 
+## don't leave your reader hanging!
 
 
 :::: {.columns}
 ::: {.column width="60%"}
-In summary...
 
-- The goal of this project was to...
-- This is what we did...
-- This is what we found...
-- This is what I think it means...
+The concluding paragraph should leave the reader with a clear understanding of...
+
+- The goal of the project
+- What you did
+- What you found
+- What you think it means
 
 :::
+
 ::: {.column width="40%"}
+
 <iframe src="https://giphy.com/embed/1xo9AKS4eeBJENaRAn" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/evite-bow-present-1xo9AKS4eeBJENaRAn">via GIPHY</a></p>
+
 :::
 ::::
+
+---
+
+::: panel-tabset
+
+## exercise 6
+
+Write your conclusion now :)
+
+- The purpose of this project was to...
+- To answer this question, we...
+- The results showed that...
+- Overall this research indicates that...
+
+
+## example
+
+*The purpose of this project was to* test whether an episodic induction would improve preschoolers ability to imagine the future. *To answer this question, we* tested preschnoolers on two episodic future thinking tasks, one that required them to make a decision with the future in mind, and one that required them to talk about a future event. Half of the children completed these tasks after undergoing an episodic induction procedure, in which they were asked to talk in detail about a past event. *The results showed that* chidlren in the induction group performed better than controls on the behavioural task, but not on the narrative task. In addition, contrary to expectations, inhibitory control issues more frequently accounted for failure on the behavioural task than did memory issues. *Overall this research indicates that* during development future thinking capacity is impacted by the development of many cognitive processes in addition to memory. These results have important implications for our understanding of the cognitive episodic simulartion hypothesis and the mechanisms underlying future thinking ability across the lifespan. 
+
+
+
+:::
+
+
 
 
 # Lets recap
@@ -476,7 +555,7 @@ In summary...
 
 
 
-## MYTHS about the art of general discussion writing that are NOT TRUE
+## MYTHS about the art of general discussion writing
 
 1. You should not refer to literature in the general discussion that you didn't cover in the introduction
 
@@ -522,7 +601,10 @@ Pull out a clean piece of paper and spend 5 min answering a couple of these ques
 
 ## Ask me Anything... 
 
-Questions from registration
+<br>
+
+
+**Questions from registration**
 
 - Is it sometimes better to frame hypotheses as ‘research questions’ in your thesis, so discussion of mixed findings later will be less unexpected for reader?
 
@@ -532,7 +614,11 @@ Questions from registration
 
 ## Ask me Anything... 
 
-Questions from registration
+<br>
+
+
+**Questions from registration**
+
 
 Are there formula or template approaches for what a general discussion looks like? Tips for paragraph structure within them?
 
@@ -542,8 +628,10 @@ Are there formula or template approaches for what a general discussion looks lik
 
 ## Ask me Anything... 
 
+<br>
 
-Questions from registration
+
+**Questions from registration**
 
 How do you normally advise students approach writing up a thesis vs. manuscript? Reflecting on the thesis writing process, I feel like it might have gone more smoothly if I had done the aims/research question, methods, and results first, and the intro/discussion last. Some researchers recommend taking this approach when drafting a manuscript. Can it also be used if writing a longer thesis in the future if also utilising secondary/archival data?
 
