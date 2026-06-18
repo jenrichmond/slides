@@ -7,7 +7,8 @@ format:
     slide-number: c/t
     show-slide-number: all
     theme: dracula
-    footer: "www.revealresearch.org"
+    footer: "[www.revealresearch.org](https://www.revealresearch.org)"
+  pdf: default
 ---
 
 ## {.center}
