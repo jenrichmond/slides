@@ -413,18 +413,18 @@ Don't leave limitations hanging, use them to make suggestions for *future resear
 
 ::: panel-tabset
 
-## exercise 4a
+## exercise 4
 
 
 Make a new spider diagram and brain dump all the limitations that apply to your study on the page. 
 
 Circle those that are specific to your study and can explain a pattern of findings. 
 
-Put a sqaure around others that mgith be worth mentioning. 
+Put a sqaure around others that might be worth mentioning. 
 
 ## example
 
-INSERT DIAGRAM
+![](limitations.png)
 
 :::
 
@@ -451,9 +451,11 @@ Avoid future research suggestions that apply to all research theses in the world
 
 ---
 
+## what study would you do next?
+
 ::: panel-tabset
 
-## exercise 5a
+## exercise 5
 
 
 Make a new spider diagram and label the centre "My PhD Project". 
@@ -467,7 +469,7 @@ Fill the legs with...
 
 ## example
 
-INSERT DIAGRAM
+![](phd.png)
 
 :::
 
@@ -505,6 +507,8 @@ The concluding paragraph should leave the reader with a clear understanding of..
 
 ---
 
+## the last bit
+
 ::: panel-tabset
 
 ## exercise 6
@@ -519,7 +523,7 @@ Write your conclusion now :)
 
 ## example
 
-*The purpose of this project was to* test whether an episodic induction would improve preschoolers ability to imagine the future. *To answer this question, we* tested preschnoolers on two episodic future thinking tasks, one that required them to make a decision with the future in mind, and one that required them to talk about a future event. Half of the children completed these tasks after undergoing an episodic induction procedure, in which they were asked to talk in detail about a past event. *The results showed that* chidlren in the induction group performed better than controls on the behavioural task, but not on the narrative task. In addition, contrary to expectations, inhibitory control issues more frequently accounted for failure on the behavioural task than did memory issues. *Overall this research indicates that* during development future thinking capacity is impacted by the development of many cognitive processes in addition to memory. These results have important implications for our understanding of the cognitive episodic simulartion hypothesis and the mechanisms underlying future thinking ability across the lifespan. 
+*The purpose of this project was to* test whether an episodic induction would improve preschoolers ability to imagine the future. *To answer this question, we* tested preschnoolers on two episodic future thinking tasks, one that required them to make a decision with the future in mind, and one that required them to talk about a future event. Half of the children completed these tasks after undergoing an episodic induction procedure, in which they were asked to talk in detail about a past event. *The results showed that* chidlren in the induction group performed better than controls on the behavioural task, but not on the narrative task. In addition, contrary to expectations, inhibitory control issues more frequently accounted for failure on the behavioural task than did memory issues. *Overall this research indicates that* during development future thinking capacity is impacted by the development of many cognitive processes in addition to memory. These results have important implications for our understanding of the cognitive episodic simulation hypothesis and the mechanisms underlying future thinking ability across the lifespan. 
 
 
 
