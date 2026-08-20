@@ -1,0 +1,243 @@
+---
+title: "how to write a lot"
+author: "Jenny Richmond PhD"
+date: today
+format:
+  revealjs:
+    slide-number: c/t
+    show-slide-number: all
+    theme: dracula
+    footer: "www.revealresearch.org"
+---
+
+
+<br>
+
+These slides available at
+
+[https://jennyslides.netlify.app/how-to-write/](https://jennyslides.netlify.app/how-to-write/)
+
+
+
+# what makes writing hard?
+
+## {.center}
+
+:::: {.columns}
+::: {.column width="50%"}
+### you are waiting for inspiration
+:::
+::: {.column width="50%"}
+![](inspirationCH.jpg){width="450px"}
+:::
+::::
+
+## {.center}
+
+:::: {.columns}
+::: {.column width="50%"}
+![](procrastination2.gif){width="380px"}
+:::
+::: {.column width="50%"}
+### the task feels too big... you don't know where to start
+:::
+::::
+
+## {.center}
+
+:::: {.columns}
+::: {.column width="50%"}
+### everything you write sounds bad
+:::
+::: {.column width="50%"}
+![](thegap.png){width="900px"}
+:::
+::::
+
+---
+
+
+### the words just won't come out
+
+![](blockCH.jpg){width="1200px"}
+
+
+
+
+## other writing-related thoughts
+
+- I need a clear day (or week)
+- I need to read more before I can write
+- I write best when I feel inspired
+- I need a tidy desk to 
+- I will do a big push once this work thing is done
+- I only have 20 min, that is not enough time to bother
+
+
+
+## You need a system that works for you.
+
+<br>
+
+
+Academic writing advice is often really prescriptive, but there is no right way. 
+
+<br>
+
+To design a system that works, you need to be think about... 
+
+- when and where you will write
+- how you will put the words on the page
+- what will make you stick to the plan
+
+
+
+## when and where 
+
+- When does your brain work best?
+- Where do you have the least interruptions?
+- How often can you find pockets of time in the week?
+- What is the best way to protect those pockets?
+- Where do you like to write? 
+
+## run a experiment
+
+<br>
+
+Template: I will [do something] for [some period of time]
+
+- I will put 4 x 30 min writing slots in my calendar for 4 weeks
+- I will write for 20 min while I drink my coffee for 7 days
+- I will write at a cafe for 2 hours on Saturday for 3 weeks
+
+
+Collect some data 
+
+- how many words on the page
+- how many papers read
+- how you feel about the process
+
+
+## how will you write
+
+
+![](thegap.png){width="900px"}
+
+
+The gap can make writing very slow. 
+
+You rewrite every sentence as it goes on the page. 
+
+Not many sentences get written
+
+
+---
+
+
+## writing is different from editing
+
+
+:::: {.columns}
+::: {.column width="50%"}
+- write continuously without stopping to edit
+- go back and make it sound good
+- commit to extensive revision
+:::
+::: {.column width="50%"}
+![](https://donovanmneal.files.wordpress.com/2013/04/revision.jpg)
+:::
+::::
+
+
+---
+
+
+## the pomodoro technique
+
+Trying writing in "sprints"
+
+![](https://64.media.tumblr.com/2063e3d81ee2c3867584115a3af8c562/tumblr_phz067HnDL1su40qeo1_640.jpg){width="700px"}
+
+
+---
+
+## writing momentum
+
+
+:::: {.columns}
+::: {.column width="50%"}
+Kick start your writing session by writing about ...
+
+- how you are feeling about writing
+- what you are feeling stuck on
+- what you don't know and need to learn
+:::
+::: {.column width="50%"}
+![](writetolearn.jpeg){width="300px"}
+:::
+::::
+
+---
+
+
+## run a experiment
+
+<br>
+
+Template: I will [do something] for [some period of time]
+
+- I will set a timer and write without stopping for 20 min
+- I will write about what I am learning  before I start writing my thesis for 5 minutes
+- I will write at a cafe for 2 hours on Saturday for 3 weeks
+
+
+Collect some data 
+
+- how many words on the page
+- how many papers read
+- how you feel about the process
+
+
+---
+
+
+## how will you keep going?
+
+make it social
+
+## shut up and write
+
+:::: {.columns}
+::: {.column width="50%"}
+- get a group together
+- write together in pomodoros
+- keep each other accountable
+:::
+::: {.column width="50%"}
+![](SUAW.jpeg){width="700px"}
+:::
+::::
+
+## Tip 6: write first, then revise {background-image="greywall.jpeg" background-size="cover" .center}
+
+## It won't sound good initially...
+
+
+## Tip 7: read about writing... it counts {background-image="greywall.jpeg" background-size="cover" .center}
+
+## My favourite blogs/books
+
+
+- The Thesis Whisperer
+  - [blog](https://thesiswhisperer.com/)
+
+- Patricia Goodson
+  - [Becoming an academic writer](https://primoa.library.unsw.edu.au/primo-explore/fulldisplay?vid=UNSWS&docid=UNSW_ALMA21228995890001731&query=any,contains,Patricia%20Goodson)
+
+- Paul Silvia
+  - [How to write a lot](https://primoa.library.unsw.edu.au/primo-explore/fulldisplay?docid=UNSW_ALMA21139522920001731&context=L&vid=UNSWS&lang=en_US&search_scope=SearchFirst&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,How%20to%20write%20a%20lot&offset=0)
+
+
+## Questions....
+
+<iframe src="https://giphy.com/embed/xIJLgO6rizUJi" width="480" height="367" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>

@@ -4,7 +4,7 @@
     <title>PsychSoc</title>
     <meta charset="utf-8" />
     <meta name="author" content="Jenny Richmond PhD" />
-    <meta name="date" content="2021-12-10" />
+    <meta name="date" content="2026-07-29" />
     <script src="libs/header-attrs/header-attrs.js"></script>
     <link rel="stylesheet" href="xaringan-themer.css" type="text/css" />
   </head>
@@ -110,7 +110,7 @@ class: left, middle
 
 .pull-right[
 
-&lt;img src="inspirationCH.jpg" width="450px" /&gt;
+&lt;img src="inspirationCH.jpg" alt="" width="450px" /&gt;
 
 ]
 
@@ -123,7 +123,7 @@ class: left, middle
 
 
 
-&lt;img src="procrastination2.gif" width="380px" /&gt;
+&lt;img src="procrastination2.gif" alt="" width="380px" /&gt;
 
 ]
 
@@ -157,7 +157,7 @@ class: left, middle
 &lt;br&gt;
 &lt;br&gt;
 
-&lt;img src="thegap.png" width="900px" /&gt;
+&lt;img src="thegap.png" alt="" width="900px" /&gt;
 
 ]
 
@@ -171,7 +171,7 @@ watch ira glass talk about [the gap](https://vimeo.com/85040589)
 &lt;br&gt;
 
 
-&lt;img src="blockCH.jpg" width="1200px" /&gt;
+&lt;img src="blockCH.jpg" alt="" width="1200px" /&gt;
 
 
 ---
@@ -215,7 +215,7 @@ Kick start your writing session by writing about ...
 
 .pull-right[
 
-&lt;img src="writetolearn.jpeg" width="300px" /&gt;
+&lt;img src="writetolearn.jpeg" alt="" width="300px" /&gt;
 
 ] 
 
@@ -311,7 +311,7 @@ class: center, middle
 
 ---
 
-&lt;img src="abstract.png" width="2252" /&gt;
+&lt;img src="abstract.png" alt="" width="2252" /&gt;
 
 
 ---
@@ -373,12 +373,12 @@ You should be able to paste the topic sentences together into a paragraph and it
 ---
 
 ### Oppenheimer I
-&lt;img src="p1_2.png" width="2377" /&gt;
+&lt;img src="p1_2.png" alt="" width="2377" /&gt;
 
 ---
 
 ### Oppenheimer II
-&lt;img src="p3-4.png" width="2337" /&gt;
+&lt;img src="p3-4.png" alt="" width="2337" /&gt;
 
 ---
 
@@ -411,10 +411,10 @@ class: center, middle
 
 ---
 
-&lt;img src="p1_2_p.png" width="2377" /&gt;
+&lt;img src="p1_2_p.png" alt="" width="2377" /&gt;
 
 ---
-&lt;img src="p3-4_p.png" width="2337" /&gt;
+&lt;img src="p3-4_p.png" alt="" width="2337" /&gt;
 
 ---
 
@@ -603,7 +603,7 @@ template: wall
 # the pomodoro technique
 
 
-&lt;img src="https://64.media.tumblr.com/2063e3d81ee2c3867584115a3af8c562/tumblr_phz067HnDL1su40qeo1_640.jpg" width="700px" /&gt;
+&lt;img src="https://64.media.tumblr.com/2063e3d81ee2c3867584115a3af8c562/tumblr_phz067HnDL1su40qeo1_640.jpg" alt="" width="700px" /&gt;
 
 
 
@@ -631,7 +631,7 @@ template: wall
 
 .pull-right[
 
-&lt;img src="SUAW.jpeg" width="700px" /&gt;
+&lt;img src="SUAW.jpeg" alt="" width="700px" /&gt;
 
 
 ]
@@ -716,12 +716,12 @@ template: wall
 <style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
 <script>var slideshow = remark.create({
-"highlightStyle": "dracula",
-"highlightLanguage": ["r", "yaml", "markdown"],
-"slideNumberFormat": "%current%",
-"highlightLines": true,
-"countIncrementalSlides": true,
-"ratio": "16:9"
+  "highlightStyle": "dracula",
+  "highlightLanguage": ["r", "yaml", "markdown"],
+  "slideNumberFormat": "%current%",
+  "highlightLines": true,
+  "countIncrementalSlides": true,
+  "ratio": "16:9"
 });
 if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
   window.dispatchEvent(new Event('resize'));
@@ -762,6 +762,19 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
     deleted = true;
   });
 })();
+// add `data-at-shortcutkeys` attribute to <body> to resolve conflicts with JAWS
+// screen reader (see PR #262)
+(function(d) {
+  let res = {};
+  d.querySelectorAll('.remark-help-content table tr').forEach(tr => {
+    const t = tr.querySelector('td:nth-child(2)').innerText;
+    tr.querySelectorAll('td:first-child .key').forEach(key => {
+      const k = key.innerText;
+      if (/^[a-z]$/.test(k)) res[k] = t;  // must be a single letter (key)
+    });
+  });
+  d.body.setAttribute('data-at-shortcutkeys', JSON.stringify(res));
+})(document);
 (function() {
   "use strict"
   // Replace <script> tags in slides area to make them executable

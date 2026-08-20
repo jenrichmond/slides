@@ -1,0 +1,423 @@
+---
+title: "how to write like a psychologist"
+author: "Jenny Richmond PhD"
+date: today
+format:
+  revealjs:
+    slide-number: c/t
+    show-slide-number: all
+    theme: dracula
+    footer: "www.revealresearch.org"
+---
+
+## &nbsp; {background-image="greywall.jpeg" background-size="cover" .center}
+
+::: {.centered}
+
+These slides available at
+
+[https://jennyslides.netlify.app/writing/](https://jennyslides.netlify.app/writing/)
+
+:::
+
+. . .
+
+<h1 style="text-align:center">3 things</h1>
+
+. . .
+
+<h2 style="text-align:center">get started</h2>
+
+. . .
+
+<h2 style="text-align:center">be your own best critic</h2>
+
+. . .
+
+<h2 style="text-align:center">keep going</h2>
+
+# 1. get started {background-color="#035AA6"}
+
+## why is it hard to start writing? {background-image="greywall.jpeg" background-size="cover" .center}
+
+## Exercise 1a
+
+Jump into the [google doc](https://docs.google.com/document/d/1XpEK7eZc1D3hEM6sQJWCOW7ZshtVF9Xyr_oI8V2iivU/edit?usp=sharing), pick a font colour, write continuously about why you find it hard to get started on writing projects. Don't stop to edit, just get ideas down.
+
+## {.center}
+
+:::: {.columns}
+::: {.column width="50%"}
+### you are waiting for inspiration
+:::
+::: {.column width="50%"}
+![](inspirationCH.jpg){width="450px"}
+:::
+::::
+
+## {.center}
+
+:::: {.columns}
+::: {.column width="50%"}
+![](procrastination2.gif){width="380px"}
+:::
+::: {.column width="50%"}
+### the task feels too big... you don't know where to start
+:::
+::::
+
+## {.center}
+
+:::: {.columns}
+::: {.column width="50%"}
+### everything you write sounds bad
+:::
+::: {.column width="50%"}
+![](thegap.png){width="900px"}
+:::
+::::
+
+watch ira glass talk about [the gap](https://vimeo.com/85040589)
+
+## or maybe the words just won't come out...
+
+![](blockCH.jpg){width="1200px"}
+
+## Writing is diagnostic {background-image="greywall.jpeg" background-size="cover" .center}
+
+### Write about what you know.
+
+### Write about what you don't know.
+
+### Write to learn.
+
+## Exercise 1b
+
+Lets do that again... this time about your next assignment. Start with....
+
+"I don't know anything at all about [insert something related to your assignment]... I need to understand more about it because... I do know that... I think that I need to read more about..."
+
+Write about what you DON'T know, what you DO know, what you need to learn, how you feel about it.
+
+## Tip 1: write to learn
+
+:::: {.columns}
+::: {.column width="50%"}
+Kick start your writing session by writing about ...
+
+- how you are feeling about writing
+- what you are feeling stuck on
+- what you don't know and need to learn
+:::
+::: {.column width="50%"}
+![](writetolearn.jpeg){width="300px"}
+:::
+::::
+
+## but I have so much to read... {background-image="greywall.jpeg" background-size="cover" .center}
+
+<h2 style="text-align:center">I can't start writing...</h2>
+
+<h2 style="text-align:center">I don't know enough yet</h2>
+
+## Tip 2: stop reading...
+
+. . .
+
+... mindlessly
+
+- use "writing to learn" to work out what you have to read
+- read strategically, fill the gaps in what you don't know
+- don't take "notes"
+  - use a [matrix](https://docs.google.com/spreadsheets/d/1MgeD8zcJ-4LwEUkUxqTojAoA224RU8tB95V-y-dU040/edit?usp=sharing)
+- think and write about your thinking while you read
+  - [summary/reaction](https://docs.google.com/document/d/1XLi1DrYP9QdGKYYJ3j0Mr905puc8ml_YycB2RXdtlD4/edit?usp=sharing)
+
+# 2. be your own best critic {background-color="#035AA6"}
+
+## What do other people say about your writing? {background-image="greywall.jpeg" background-size="cover" .center}
+
+## Exercise 2
+
+Jump in the [google doc](https://docs.google.com/document/d/1XpEK7eZc1D3hEM6sQJWCOW7ZshtVF9Xyr_oI8V2iivU/edit?usp=sharing), pick a font colour, and share the kinds of comments that tutors tend to make on your assignments.
+
+## Frequently used comments...
+
+:::: {.columns}
+::: {.column width="50%"}
+- *unclear/vague*
+- *this doesn't flow*
+- *unpack this point*
+- *jargon*
+
+You can prevent these comments by asking yourself 6 questions about your own writing.
+:::
+::: {.column width="50%"}
+<iframe src="https://giphy.com/embed/1iTpx5PpzRugcrZK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+:::
+::::
+
+## 6 questions to ask yourself about your writing {background-image="greywall.jpeg" background-size="cover" .center}
+
+## 1. Are you trying too hard to sound smart? {background-image="greywall.jpeg" background-size="cover" .center}
+
+## {.center}
+
+![](abstract.png)
+
+## tips for sounding smart without trying
+
+- write for your mum
+  - someone who is smart and interested but not at all familiar with the topic
+- choose simple words and short sentences (25 words max)
+- use concrete examples
+- avoid jargon and acronyms
+
+## 2. Are your topic sentences doing their job? {background-image="greywall.jpeg" background-size="cover" .center}
+
+## what is the job of a topic sentence
+
+The first sentence of every paragraph should give the reader the take home message.
+
+It should be a general statement summarising a particular part of the literature.
+
+- It should describe what has been found across studies.
+- It should not be about a specific study
+- It should do more than just tell the reader that some research has been done.
+
+## example 1a - too specific
+
+::: {.smaller-text}
+*A study conducted by Phillips and colleagues (2015) found that participants aged 65-86 performed significantly worse than younger groups on tasks assessing comprehension of sarcastic exchanges.* Interestingly, there was no effect of age on the understanding of sincere exchanges (Phillips et al, 2015). Further, a meta-analysis across 23 theory of mind (TOM) studies showed that older adults performed worse on TOM tasks compared to younger groups (Henry, Phillips, Ruffman, & Bailey, 2013).
+:::
+
+## example 1b - better, but too general
+
+::: {.smaller-text}
+*Research has shown a link between aging and social cognition.* For example, Phillips and colleagues (2015) found that while participants aged 65-86 had no problem understanding sincere exchanges, they found it more difficult to understand sarcastic exchanges than did young adults (Phillips et al, 2015). This result is consistent with a recent meta-analysis of theory of mind studies, which showed that older adults performed worse on TOM tasks compared to younger groups (Henry, Phillips, Ruffman, & Bailey, 2013).
+:::
+
+## example 1c - just right
+
+::: {.smaller-text}
+*As we age, our ability to understand how other people are feeling and what other people are thinking declines.* For example, Phillips and colleagues (2015) found that while participants aged 65-86 had no problem understanding sincere exchanges, they found it more difficult to understand sarcastic exchanges than did young adults (Phillips et al, 2015). This result is consistent with a recent meta-analysis of theory of mind studies, which showed that older adults performed worse on TOM tasks compared to younger groups (Henry, Phillips, Ruffman, & Bailey, 2013).
+:::
+
+## Test your topic sentences {.center}
+
+You should be able to paste the topic sentences together into a paragraph and it should read like a summary of your argument.
+
+## Oppenheimer I
+
+![](p1_2.png)
+
+## Oppenheimer II
+
+![](p3-4.png)
+
+## all together now...oppenheimer (2005)
+
+::: {.smaller-text}
+*When it comes to writing, most experts agree that clarity, simplicity and parsimony are ideals that authors should strive for. However, most of us can likely recall having read papers, either by colleagues or students, in which the author appears to be deliberately using overly complex words. There are many plausible reasons that the use of million-dollar words would lead readers to believe that an author is smart. Indeed, there is some evidence that complex vocabulary can be indicative of a more intelligent author.*
+:::
+
+## 3. Do your paragraphs function as units of argument? {background-image="greywall.jpeg" background-size="cover" .center}
+
+## A good paragraph should...
+
+- cover only ONE idea
+- start with a topic sentence
+- all other sentences should be
+  - explanation
+  - examples
+  - AND/OR evidence to back up the topic sentence
+- use the 1:5:25 rule
+  - 1 idea, ~ 5 sentences, no more than 25 words/sentence
+
+## Oppenheimer paragraphs I
+
+![](p1_2_p.png)
+
+## Oppenheimer paragraphs II
+
+![](p3-4_p.png)
+
+## 4. Are you holding your reader's hand? {background-image="greywall.jpeg" background-size="cover" .center}
+
+## Your job as the writer is to make it easy for your reader.
+
+- make the research proposal "moves" that your reader expects
+  - what is the problem/question, why is it important
+  - what do we know about the problem/question
+  - what do we NOT know about the problem/question
+  - how does your project fill that gap in what we don't know
+- write a funnel, not a "curvy lady"
+
+## Your job as the writer is to make it easy for your reader.
+
+- strong topic sentences + predictable paragraph structure
+- make the links between ideas really explicit
+- use signposting
+- avoid vagueness and potential for confusion
+  - the undefined "this"
+  - [see the Thesis Whisperer re vagueness](https://thesiswhisperer.com/2017/06/28/8346/)
+
+## 5. Does your writing synthesise or simply describe? {background-image="greywall.jpeg" background-size="cover" .center}
+
+## Some student writing reads like a list of study descriptions
+
+*So & So (2014) did a study that involved X and found that Y. In addition, Joe & Co (2016) have found that A relates to B. Also, Big Dude and colleagues (2019) ran a study showing that manipulating X results in changes in B.*
+
+Your reader doesn't want to have to think hard.
+You can help them by doing the hard thinking for them.
+
+= synthesis
+
+## What is synthesis?
+
+- extracting the patterns in the literature
+- highlighting similarities/differences across studies
+- unpacking HOW a study supports an argument, rather than just stating it does
+- write as if you are the expert with an opinion
+  - [see Thesis Whisperer re opinionated verbs](https://thesiswhisperer.com/2017/09/27/academic-writing-is-a-painful-upper-middle-class-dinner-party/)
+
+**Strategies:** use a [matrix](https://docs.google.com/spreadsheets/d/1MgeD8zcJ-4LwEUkUxqTojAoA224RU8tB95V-y-dU040/edit?usp=sharing) and write [reactions](https://docs.google.com/document/d/1XLi1DrYP9QdGKYYJ3j0Mr905puc8ml_YycB2RXdtlD4/edit?usp=sharing)
+
+## 6. Do you write "zombie" prose? {background-image="greywall.jpeg" background-size="cover" .center}
+
+## Zombie prose is full of ...
+
+:::: {.columns}
+::: {.column width="50%"}
+- nominalisations
+  - nouns created from verbs/adjectives
+    - assumption ~ to assume
+    - anonymity ~ to anonymize
+    - criticism ~ to criticize
+    - argument ~ to argue
+:::
+::: {.column width="50%"}
+[Helen Sword zombie nouns](https://www.youtube.com/watch?v=dNlkHtMgcPQ)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dNlkHtMgcPQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
+::::
+
+## Zombie prose is full of ...
+
+:::: {.columns}
+::: {.column width="50%"}
+- passive voice
+  - The dog chased the man (active: subject, verb, object)
+  - The man was chased BY the dog (passive: object, verb, subject)
+:::
+::: {.column width="50%"}
+[Steven Pinker passive voice](https://www.youtube.com/watch?v=sS-Txm3R3v8)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sS-Txm3R3v8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
+::::
+
+## Test for passive voice with the zombie test
+
+::: {.smaller-text}
+*Participants were recruited for a study entitled 'Being Australian' and completed the questionnaire in supervised groups of 10–12, and were compensated for their time with course credit. They were informed verbally and in writing that their anonymity was protected. Completed questionnaires were placed in an opaque drop box, and participants were debriefed and given the opportunity to request a summary of the results of the study (Barlow, Louis, & Hewstone, 2009, p. 394)*
+:::
+
+## {.center}
+
+::: {.smaller-text}
+*Participants were recruited **by zombies** for a study entitled 'Being Australian' and completed the questionnaire in supervised groups of 10–12, and were compensated **by zombies** for their time with course credit. They were informed verbally and in writing that their anonymity was protected **by zombies**. Completed questionnaires were placed in an opaque drop box **by zombies**, and participants were debriefed **by zombies** and given the opportunity to request a summary of the results of the study (Barlow, Louis, & Hewstone, 2009, p. 394)*
+
+credit [Billings (2011) "Writing social psychology: Fictional things and unpopulated texts"](https://primoa.library.unsw.edu.au/primo-explore/fulldisplay?vid=UNSWS&docid=TN_cdi_crossref_primary_10_1111_j_2044_8309_2010_02003_x&context=PC&query=any,contains,Writing%20social%20psychology:%20Fictional%20things%20and%20unpopulated%20texts)
+:::
+
+## Dealing w zombie nouns and passive voice
+
+- watch out for "by" "of", words ending in "-tion" "-ment" "-ism" "-ity"
+  - Participants completed the *assessment* by undergoing... (passive)
+- use the zombie test
+  - The theory was tested ... *by zombies* (passive)
+- solution: put the people doing the action at the front
+  - We assessed participants using the ....
+  - Researchers tested the theory...
+
+## Tip 3: put your reviewer hat on
+
+:::: {.columns}
+::: {.column width="50%"}
+We all know when writing is good (or not).
+
+You can improve your own writing by being critically reflective about it.
+:::
+::: {.column width="50%"}
+<iframe src="https://giphy.com/embed/uQDfz3LX5REVa" width="364" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+:::
+::::
+
+## Exercise 3
+
+In the [google doc](https://docs.google.com/document/d/1XpEK7eZc1D3hEM6sQJWCOW7ZshtVF9Xyr_oI8V2iivU/edit?usp=sharing), you will find some bad paragraphs. In groups, use questions 1-6 to diagnose what could be improved about these paragraphs.
+
+# 3. keep going {background-color="#035AA6"}
+
+## Tip 4: make yourself focus {background-image="greywall.jpeg" background-size="cover" .center}
+
+## the pomodoro technique
+
+![](https://64.media.tumblr.com/2063e3d81ee2c3867584115a3af8c562/tumblr_phz067HnDL1su40qeo1_640.jpg){width="700px"}
+
+## Tip 5: make it social {background-image="greywall.jpeg" background-size="cover" .center}
+
+## shut up and write
+
+:::: {.columns}
+::: {.column width="50%"}
+- get a group together
+- write together in pomodoros
+- keep each other accountable
+:::
+::: {.column width="50%"}
+![](SUAW.jpeg){width="700px"}
+:::
+::::
+
+## Tip 6: write first, then revise {background-image="greywall.jpeg" background-size="cover" .center}
+
+## It won't sound good initially...
+
+... and thats ok.
+
+:::: {.columns}
+::: {.column width="50%"}
+- write continuously without stopping to edit
+- go back and make it sound good
+- commit to extensive revision
+:::
+::: {.column width="50%"}
+![](https://donovanmneal.files.wordpress.com/2013/04/revision.jpg)
+:::
+::::
+
+## Tip 7: read about writing... it counts {background-image="greywall.jpeg" background-size="cover" .center}
+
+## My favourite blogs/books
+
+:::: {.columns}
+::: {.column width="50%"}
+- The Thesis Whisperer
+  - [blog](https://thesiswhisperer.com/)
+  - [How to fix your academic writing trouble](https://primoa.library.unsw.edu.au/primo-explore/fulldisplay?docid=UNSW_ALMA21254313490001731&context=L&vid=UNSWS&lang=en_US&search_scope=SearchFirst&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,How%20to%20fix%20your%20academic%20writing&offset=0)
+- Patricia Goodson
+  - [Becoming an academic writer](https://primoa.library.unsw.edu.au/primo-explore/fulldisplay?vid=UNSWS&docid=UNSW_ALMA21228995890001731&query=any,contains,Patricia%20Goodson)
+:::
+::: {.column width="50%"}
+- Paul Silvia
+  - [How to write a lot](https://primoa.library.unsw.edu.au/primo-explore/fulldisplay?docid=UNSW_ALMA21139522920001731&context=L&vid=UNSWS&lang=en_US&search_scope=SearchFirst&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,How%20to%20write%20a%20lot&offset=0)
+- [Jenny's tips for academic writing google doc](https://docs.google.com/document/d/12G8KVqo4KV51Rdn4qY6QCO9Pi31D-aKr-2pHKlZzZws/edit)
+:::
+::::
+
+## Questions....
+
+<iframe src="https://giphy.com/embed/xIJLgO6rizUJi" width="480" height="367" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>

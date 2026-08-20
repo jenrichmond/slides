@@ -1,0 +1,303 @@
+---
+title: "Data Organization in Spreadsheets"
+subtitle: "Broman & Woo, 2018"
+author: "Lab Meeting"
+date: today
+format:
+  revealjs:
+    theme: default
+    slide-number: true
+    chalkboard: true
+    incremental: false
+    scrollable: true
+    transition: slide
+    footer: "Slides adapted from Ted Laderas' *Better Spreadsheets* workshop"
+---
+
+
+## This paper is about *formatting*
+
+Not Excel tips and tricks.
+
+::: {.fragment}
+This is about **how you organize your data** so that:
+
+- future-you can use it
+- collaborators can use it
+- a computer can read it without a fight
+:::
+
+## By the end of this session, you will be able to...  {.smaller}
+
+::: {.fragment}
+- **Explain** and **utilize** tidy principles to organize your data
+:::
+::: {.fragment}
+- **Format** your data to effectively use it in analyses
+:::
+::: {.fragment}
+- **Collaborate** with data scientists more effectively
+:::
+::: {.fragment}
+- **Explain** data cleaning tools that can help
+:::
+
+
+## When spreadsheets go wrong {.smaller}
+
+Spreadsheet errors are common — and consequential.
+
+- [Genomics has a spreadsheet problem](https://retractionwatch.com/2023/09/20/guest-post-genomics-has-a-spreadsheet-problem/) — gene names auto-converted to dates (*SEPT2* → 2-Sep)
+- [Formula error inflated myocarditis statistics](https://www.aap.com.au/factcheck/faulty-data-at-the-heart-of-myocarditis-claim/)
+- [A "sorting" breakdown in a Virginia booze raffle](https://www.route-fifty.com/digital-government/2023/05/virginia-abc-officials-say-theyve-automated-liquor-lotteries-prevent-future-errors/386926/)
+
+See the [EuSpRIG Spreadsheet Horror Stories](https://eusprig.org/research-info/horror-stories/) for many more.
+
+
+
+
+## Overview: the tips {.smaller}
+
+::: {.columns}
+::: {.column width="33%"}
+**Starting out**
+
+- Be consistent
+- Choose good names
+- Dates as YYYY-MM-DD
+- No empty cells
+- One thing per cell
+:::
+::: {.column width="33%"}
+**Intermediate**
+
+- Make it a rectangle
+- Create a data dictionary
+- No calculations in raw data
+- No color/highlighting as data
+:::
+::: {.column width="33%"}
+**Advanced**
+
+- Make backups
+- Use data validation
+- Save as plain text
+:::
+:::
+
+::: {.callout-note}
+## On data integrity
+- Don't go back and retrospectively fix old files — adopt a few tips *starting now*
+:::
+
+# Starting Out Tips
+
+## Be consistent
+
+- Use consistent codes for categorical variables
+  - "male" and "female" OR "M" and "F"
+- Use consistent subject identifiers
+  - esp impt if participants have data in more than one spreadsheet
+- Use consistent file names
+  - be intentional about your naming system
+  - project-date-task-timepoint (i.e. honours-2026-07-29_flanker_time1.csv)
+
+## Choose good names for files/variables {.smaller}
+
+- Avoid spaces; avoid starting with numbers
+- Use letters and numbers; avoid special characters & symbols
+- Use `_` instead of spaces
+
+**Why?**
+
+- Spaces are hard to handle in variable names
+- Special characters may be rejected by other software
+
+::: {.callout-note}
+## For R users
+`janitor::clean_names()` strips spaces, special characters, capitalization, and accents → `Maximum Temp (°C)` becomes `maximum_temp_c`.
+:::
+
+## Write dates as YYYY-MM-DD
+
+- `DD-MM-YYYY` vs. `MM-DD-YYYY` causes real confusion (is `03-04` March 4th or April 3rd?)
+- **ISO 8601** — `YYYY-MM-DD` — sorts correctly and is unambiguous
+- Tips to protect dates from Excel auto-conversion:
+  - Convert the column to **text** when you load it
+  - Or store as `YYYYMMDD` **integer**
+
+
+## No empty cells
+
+- If data is missing, **explicitly encode it** as missing
+  - An empty cell is ambiguous: is it zero? missing? "same as above"? 
+  - the computer can't tell and your future self won't remember 
+- Avoid headers with more than one row
+
+
+## Rows and columns
+
+- **Rows** are for observations
+- **Columns** are for variables
+- Keep the data type the same within a column
+  - Numbers (integer vs. decimal)
+  - Text
+
+
+## Put just one thing in a cell
+
+- Avoid combining multiple values into one column
+- Avoid packing multiple bits of information into a cell
+
+
+Example: `"John Smith, 42, Portland"` → three columns: `name`, `age`, `city`
+
+
+::: {.callout-note}
+## For R users
+`tidyr::separate()` splits a combined column into pieces.
+:::
+
+
+
+# Intermediate Tips
+
+## Make it a rectangle {.smaller}
+
+> Some datasets won't fit into a single rectangle, but they usually fit into a *set* of rectangles... keep each rectangle in its own file. Tables scattered around a worksheet are difficult to work with and hard to export to CSV.
+
+The three rules of **tidy data**:
+
+1. Each **variable** forms a **column**
+2. Each **observation** forms a **row**
+3. Each **cell** is a **single measurement**
+
+::: aside
+Illustration concept from Openscapes / Julia Lowndes & Allison Horst.
+:::
+
+## Rectangles are flexible
+
+Why is the rectangle the most flexible format?
+
+- Variables live in columns, so you can **filter**, **transform**, and **summarize** easily
+- Tools can reshape between wide and long as needed
+
+::: {.callout-note}
+## Data science tools
+`tidyr::pivot_longer()` and `tidyr::pivot_wider()` convert a set of columns into a single column and vice versa.
+:::
+
+## Create a data dictionary {.smaller}
+
+Document your data so others (and future-you) can understand it:
+
+- **Define** your variables
+- **Describe** contents and formatting
+- **Define** how missing values are encoded
+- **Save** it as a separate text file
+
+::: {.fragment}
+**Metadata** — data about your dataset — is extremely useful and is best kept in its own file.
+:::
+
+## Don't use font color or highlighting as data {.smaller}
+
+- Color is great — but if it *conveys information*, put that information in a **separate indicator column**
+- A yellow cell means nothing to a computer
+
+::: {.callout-warning}
+## Why this matters
+Getting color data out of a spreadsheet is extremely difficult — it usually requires Visual Basic macros.
+:::
+
+# Advanced Tips
+
+## No calculations in the raw data files
+
+- Keep the **raw data raw** — and read-only when possible
+- Do your calculations in a separate analysis file
+- Make backups (next slide)
+
+## Make backups
+
+- Avoid modifying raw data in place
+  - **Version** the file when you add more data
+  - **Write-protect** the files
+- Keep separate copies for analysis and for yourself
+
+## Use data validation to avoid errors {.smaller}
+
+Select a column, then **Data → Validation**. Think about what a column should hold:
+
+- A whole number in some range
+- A decimal number in some range
+- A list of allowed values
+- Text, with a length limit
+
+Also: specify a consistent way to mark values as missing.
+
+## Save the data in plain text files
+
+Plain text (CSV) is durable, tool-agnostic, and version-control friendly.
+
+- **Excel:** File → Save As → **CSV UTF-8**
+- **Google Sheets:** File → Download → **CSV**
+
+# Wrapping Up
+
+
+## The tips, all at once {.smaller}
+
+::: {.columns}
+::: {.column width="33%"}
+**Starting out**
+
+- Be consistent
+- Choose good names
+- Dates as YYYY-MM-DD
+- No empty cells
+- One thing per cell
+:::
+::: {.column width="33%"}
+**Intermediate**
+
+- Make it a rectangle
+- Create a data dictionary
+- No calculations in raw data
+- No color/highlighting as data
+:::
+::: {.column width="33%"}
+**Advanced**
+
+- Make backups
+- Use data validation
+- Save as plain text
+:::
+:::
+
+**Pick a few and start now.**
+
+## Resources {.smaller}
+
+**The paper**
+
+- [Data Organization in Spreadsheets](https://doi.org/10.1080/00031305.2017.1375989) — Broman & Woo (2018). Free to read; a must-read if you work with spreadsheets.
+
+**Tidy data**
+
+- [Tidy Data vignette](https://tidyr.tidyverse.org/articles/tidy-data.html) (`tidyr`)
+- [Tidy data for efficiency, reproducibility and collaboration](https://openscapes.org/blog/2020-10-12-tidy-data/) (Openscapes)
+- [How to Share Data for Collaboration](https://doi.org/10.1080/00031305.2017.1375987) — Leek & Ellis
+
+**R packages**
+
+- [`janitor`](https://sfirke.github.io/janitor/index.html) — `clean_names()`
+- [`tidyr`](https://tidyr.tidyverse.org/) — reshaping and tidying
+
+
+## Thank you {.center}
+
+Questions? Discussion?
+
+a
