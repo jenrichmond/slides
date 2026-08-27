@@ -10,234 +10,438 @@ format:
     footer: "www.revealresearch.org"
 ---
 
+these slides live online
 
 <br>
 
-These slides available at
+<https://jennyslides.netlify.app/how-to-write/>
 
-[https://jennyslides.netlify.app/how-to-write/](https://jennyslides.netlify.app/how-to-write/)
+## about me
 
+![](unsw.png){fig-align="center"}
 
+------------------------------------------------------------------------
+
+![](threeservices.png){fig-align="center"}
+
+<br>
+
+<https://calendly.com/jennyrichmond/30min>
 
 # what makes writing hard?
 
-## {.center}
+##  {.center}
 
-:::: {.columns}
+::::: columns
 ::: {.column width="50%"}
 ### you are waiting for inspiration
 :::
+
 ::: {.column width="50%"}
 ![](inspirationCH.jpg){width="450px"}
 :::
-::::
+:::::
 
-## {.center}
+##  {.center}
 
-:::: {.columns}
+::::: columns
 ::: {.column width="50%"}
 ![](procrastination2.gif){width="380px"}
 :::
+
 ::: {.column width="50%"}
 ### the task feels too big... you don't know where to start
 :::
-::::
+:::::
 
-## {.center}
+##  {.center}
 
-:::: {.columns}
+::::: columns
 ::: {.column width="50%"}
 ### everything you write sounds bad
 :::
+
 ::: {.column width="50%"}
 ![](thegap.png){width="900px"}
 :::
-::::
+:::::
 
----
-
+------------------------------------------------------------------------
 
 ### the words just won't come out
 
 ![](blockCH.jpg){width="1200px"}
 
+## unproductive writing-related thoughts
 
+-   I need a clear day (or week)
+-   I need to read more before I can write
+-   I write best when I feel inspired
+-   I need a tidy desk before I can really be productive
+-   I will do a big push once this work thing is done
+-   I only have 20 min, that is not enough time to bother
 
-
-## other writing-related thoughts
-
-- I need a clear day (or week)
-- I need to read more before I can write
-- I write best when I feel inspired
-- I need a tidy desk to 
-- I will do a big push once this work thing is done
-- I only have 20 min, that is not enough time to bother
-
-
-
-## You need a system that works for you.
+## You need a writing system
 
 <br>
 
-
-Academic writing advice is often really prescriptive, but there is no right way. 
+A writing system is a set of habits and conditions that help you get started and keep going on your writing.
 
 <br>
 
-To design a system that works, you need to be think about... 
+Academic writing advice is often too prescriptive.
 
-- when and where you will write
-- how you will put the words on the page
-- what will make you stick to the plan
+<br>
+
+There is no right way to write.
+
+<br>
+
+## You need a writing system that works for you.
+
+
+::::: columns
+::: {.column width="60%"}
+
+
+To design a system, you need to experiment with ...
+
+-   *when* and *where* you will write
+-   *how* you will put the words on the page
+-   *what* will keep you coming back
+
+:::
+
+
+::: {.column width="40%"}
+
+![](tiny.jpeg){width="300px"}
+
+:::
+
+:::::
 
 
 
-## when and where 
+# when and where will you write
 
-- When does your brain work best?
-- Where do you have the least interruptions?
-- How often can you find pockets of time in the week?
-- What is the best way to protect those pockets?
-- Where do you like to write? 
+------------------------------------------------------------------------
+
+## schedule & setting
+
+-   When does your brain work best?
+-   Where do you have the least interruptions?
+-   How often can you find pockets of time in the week?
+-   Where do you like to write?
+-   What is the shortest amount of time you need to write?
+
+
+*EXERCISE 1: Pick a font colour, lets spend 5 min writing about the answers to these questions*
+
+[Shared document link](https://docs.google.com/document/d/1CrWUZCCDQI_o_MDgQDKMFbC9wdGQNUVUt9-bsahLI-Y/edit?usp=sharing)
 
 ## run a experiment
 
-<br>
-
-Template: I will [do something] for [some period of time]
-
-- I will put 4 x 30 min writing slots in my calendar for 4 weeks
-- I will write for 20 min while I drink my coffee for 7 days
-- I will write at a cafe for 2 hours on Saturday for 3 weeks
 
 
-Collect some data 
+Template: I will *\[do something\]* for *\[some period of time\]*
 
-- how many words on the page
-- how many papers read
-- how you feel about the process
+-   I will put 4 x 30 min writing slots in my calendar for 4 weeks
+-   I will write for 20 min while I drink my coffee for 7 days
+
+::::: columns
+::: {.column width="60%"}
 
 
-## how will you write
+-   I will read at a cafe for 2 hours on Saturday for 3 weeks
 
+Collect some data:
+
+-   how many words on the page?
+-   how did you feel about the process?
+
+:::
+
+::: {.column width="40%"}
+
+
+
+![](tiny.jpeg){width="300px"}
+
+:::
+
+:::::
+
+# how will you write
+
+------------------------------------------------------------------------
 
 ![](thegap.png){width="900px"}
 
+The gap can make writing very slow.
 
-The gap can make writing very slow. 
+You rewrite every sentence as it goes on the page.
 
-You rewrite every sentence as it goes on the page. 
+Not many sentences get written.
 
-Not many sentences get written
+------------------------------------------------------------------------
 
-
----
-
-
-## writing is different from editing
-
-
-:::: {.columns}
+::::: columns
 ::: {.column width="50%"}
-- write continuously without stopping to edit
-- go back and make it sound good
-- commit to extensive revision
+![](procrastination2.gif){width="500px"}
 :::
+
 ::: {.column width="50%"}
-![](https://donovanmneal.files.wordpress.com/2013/04/revision.jpg)
-:::
-::::
-
-
----
-
-
-## the pomodoro technique
-
-Trying writing in "sprints"
-
-![](https://64.media.tumblr.com/2063e3d81ee2c3867584115a3af8c562/tumblr_phz067HnDL1su40qeo1_640.jpg){width="700px"}
-
-
----
-
-## writing momentum
-
-
-:::: {.columns}
-::: {.column width="50%"}
-Kick start your writing session by writing about ...
-
-- how you are feeling about writing
-- what you are feeling stuck on
-- what you don't know and need to learn
-:::
-::: {.column width="50%"}
-![](writetolearn.jpeg){width="300px"}
-:::
-::::
-
----
-
-
-## run a experiment
+Your thesis is a big project and you want it to be good.
 
 <br>
 
-Template: I will [do something] for [some period of time]
+Sometimes perfectionism prevents us from making a start.
+:::
+:::::
 
-- I will set a timer and write without stopping for 20 min
-- I will write about what I am learning  before I start writing my thesis for 5 minutes
-- I will write at a cafe for 2 hours on Saturday for 3 weeks
+------------------------------------------------------------------------
+
+## 4 ideas to experiment with
+
+1.  writing for momentum
+2.  writing while reading
+3.  writing vs. editing
+4.  writing requires focus
+
+------------------------------------------------------------------------
+
+## writing for momentum
+
+> I just can't get started
+
+::::: columns
+::: {.column width="60%"}
+Kick start your writing session by writing about ...
+
+-   how you are feeling about writing
+-   what you are feeling stuck on
+-   what you don't know and need to learn
+:::
+
+::: {.column width="40%"}
+![](writetolearn.jpeg){width="350px"}
+:::
+:::::
+
+## writing while reading
+
+<br>
+
+> I need to read more before I can write
+
+<br>
+
+What if reading was writing?
+
+-   make your notes useful
+    -   [Reading Matrix](https://docs.google.com/spreadsheets/d/1Rh3QWSw5cXLwUWioiUBkURTy9jo51TNtAC4g6i7v9TQ/edit?gid=0#gid=0)
+    -   [Summary and Reaction](https://docs.google.com/document/d/1XLi1DrYP9QdGKYYJ3j0Mr905puc8ml_YycB2RXdtlD4/edit?usp=sharing)
+
+------------------------------------------------------------------------
+
+## writing is different from editing
+
+<br>
+
+> I write too slowly
 
 
-Collect some data 
+::::: columns
 
-- how many words on the page
-- how many papers read
-- how you feel about the process
+::: {.column width="50%"}
+![](https://donovanmneal.files.wordpress.com/2013/04/revision.jpg)
+:::
+
+::: {.column width="50%"}
+
+-   writing = putting ugly words on the page
+
+-   editing = making those ugly words less ugly
+
+-   write first, then revise
+
+:::
+
+:::::
+
+
+
+
+------------------------------------------------------------------------
+
+## writing requires focus
+
+> I am easily distracted
+
+
+::::: columns
+::: {.column width="50%"}
+![](https://64.media.tumblr.com/2063e3d81ee2c3867584115a3af8c562/tumblr_phz067HnDL1su40qeo1_640.jpg){width="700px"}
+:::
+
+::: {.column width="50%"}
+<br>
+
+Set a timer and focus.
+
+<br>
+
+It doesn't have to be 25 min (start short and work up).
+
+<br>
+
+Take regular short breaks.
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## run an experiment
+
+Template: I will *\[do something\]* for *\[some period of time\]*
+
+-   I will use a timer to write in short bursts for 7 days
+-   I will spend 5 min writing to learn each day for 3 weeks
+
+::::: columns
+::: {.column width="60%"}
+
+-   I will write 3 S&R responses each week for a month
+
+Collect some data:
+
+-   how many words on the page
+-   how you feel about the process
+
+:::
+
+::: {.column width="40%"}
+
+
+
+![](tiny.jpeg){width="300px"}
+
+:::
+
+:::::
+
+
+
+# what will keep you coming back
+
+## make it easy to start again
+
+![](car.jpg)
+
+Park on the down hill
+
+---
+
+## stay curious, keep experimenting
+
+
+[![Image credit: Anne-Laure Le Cunff (Ness Labs)](https://nesslabs.com/wp-content/uploads/2023/01/PARI-growth-loop.png)](https://nesslabs.com/the-paradox-of-goals){width="600px"}
+
+
 
 
 ---
 
 
-## how will you keep going?
-
-make it social
-
-## shut up and write
-
-:::: {.columns}
-::: {.column width="50%"}
-- get a group together
-- write together in pomodoros
-- keep each other accountable
-:::
-::: {.column width="50%"}
-![](SUAW.jpeg){width="700px"}
-:::
-::::
-
-## Tip 6: write first, then revise {background-image="greywall.jpeg" background-size="cover" .center}
-
-## It won't sound good initially...
+## make it social
 
 
-## Tip 7: read about writing... it counts {background-image="greywall.jpeg" background-size="cover" .center}
 
-## My favourite blogs/books
+-   shut up and write
+    -   get a group together
+    -   write together in short bursts
+    -   keep each other accountable
+    
+![](SUAW.jpeg){fig-align="left"}
 
 
-- The Thesis Whisperer
-  - [blog](https://thesiswhisperer.com/)
+ 
+[SUAW sign up form](https://forms.gle/Ncnd3KNeaxMc29Dz7)
 
-- Patricia Goodson
-  - [Becoming an academic writer](https://primoa.library.unsw.edu.au/primo-explore/fulldisplay?vid=UNSWS&docid=UNSW_ALMA21228995890001731&query=any,contains,Patricia%20Goodson)
 
-- Paul Silvia
-  - [How to write a lot](https://primoa.library.unsw.edu.au/primo-explore/fulldisplay?docid=UNSW_ALMA21139522920001731&context=L&vid=UNSWS&lang=en_US&search_scope=SearchFirst&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,How%20to%20write%20a%20lot&offset=0)
+
+------------------------------------------------------------------------
+
+## let's shut up and write a little
+
+<br>
+
+
+> *Exercise 2: Lets set a timer and write together; how many words can you generate?*
+
+
+Options:
+
+- throw some ugly thesis words on the page
+- write about what is making writing hard right now
+- write a summary/reaction about a paper you read
+- write about the writing experiment you have planned
+
+
+[Shared document link](https://docs.google.com/document/d/1CrWUZCCDQI_o_MDgQDKMFbC9wdGQNUVUt9-bsahLI-Y/edit?usp=sharing)
+ 
+
+# how many words did you throw on the page?
+
+
+## Take home message
+
+- how to write a lot
+  - you need create a writing system that works for you
+  - experiment with the conditions that help you get started and keep going
+  - thesis writing can be lonely, make it social
+
+
+--------------------------------------------------------------
+
+## recommended writing resources
+
+-   Inger Mewburn
+    -   [Thesis Whisperer Blog](https://thesiswhisperer.com/)
+    -   [How to fix your academic writing trouble](https://www.goodreads.com/book/show/43530967)
+-   Patricia Goodson
+    -   [Becoming an academic writer: 50 Exercises for paced, productive, and powerful writing](https://www.goodreads.com/book/show/14554574-becoming-an-academic-writer)
+-   Helen Sword
+    -   [Stylish Academic Writing](https://www.goodreads.com/en/book/show/13540208-stylish-academic-writing)
+    -   [Air & Light & Time & Space: How Successful Academics Write](https://www.goodreads.com/book/show/32336647-air-light-time-space)
+
+------------------------------------------------------------------------
+
+## upcoming events
+
+Friday 1 hr workshops (FREE)
+
+- Sept 4: How to polish your thesis (and get an HD)
+- Sept 18: How to set up for research success
+
+Small group coaching 2 hrs N = 5 ($49)
+
+- Plotting for survey research
+  - Sept 4, Sept 18, Oct 2
+- Keep calm and write your general discussion
+  - Sept 11, Sept 25
+  
+> Save your seat [https://www.revealresearch.org/events](https://www.revealresearch.org/events)
+
+
+
 
 
 ## Questions....
 
-<iframe src="https://giphy.com/embed/xIJLgO6rizUJi" width="480" height="367" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/xIJLgO6rizUJi" width="680" height="567" frameBorder="0" class="giphy-embed" allowFullScreen>
+
+</iframe>
+
+<https://calendly.com/jennyrichmond/30min>
