@@ -1,954 +1,393 @@
 ---
-title: "polish your thesis"
+title: "how to polish your thesis"
 author: Jenny Richmond Ph.D
 format:
   revealjs:
     slide-number: c/t
     show-slide-number: all
     theme: dracula
-    footer: "[www.revealresearch.org](https://www.revealresearch.org)"
-  pdf: default
+    footer: "www.revealresearch.org"
+editor: 
+  markdown: 
+    wrap: sentence
 ---
 
-
-
-
-
----
-
-template: wall 
-
-class: centre, middle
-
-# These slides available at 
-
-## https://jenrichmond.github.io/slides/polish
-
----
-
-
-# Disclaimer
-
-Most of the content in this workshop is my personal opinion (backed up with a little bit of research and a fair bit of experience)
-
-If something I say contradicts what your supervisor has told you, go with their context-specific expertise. 
-
-Things that sound like rules, are really guidelines. 
-
-Borrowing from [George Orwell 6 writing rules](https://www.mhpbooks.com/6-writing-rules-from-george-orwell/)
-
-> 6. Break any of these rules sooner than say anything outright barbarous.
-
-
-
----
-
-template: wall 
-
-class: centre, middle
-
-# Key thing to remember 
-# while you are writing...
-
-
---
-
-
-## ...your markers are just people
-
----
-
-template: wall 
-
-class: centre, middle
-
-### like you, they are smart and they like psychology 
-
---
-
-### like you, they have been in lockdown for close for 4 months
-
---
-
-### unlike you, they are NOT an expert in your field
-
---
-
-### they have received 12 x 50 page theses
-
-
---
-
-### they need to mark and write a report for each thesis
-
---
-
-
-### they only have 2-3 weeks to do this 
-
---
-
-### while also homeschooling their kids `r emo::ji("grimace")`
-
----
-
-class: inverse, center, middle
-
-# they are very very tired
-
-
-```{r echo=FALSE}
-knitr::include_graphics("img/owls.jpeg")
-
-```
-
----
-
-class: inverse
-
-# Your goal is to make their job as painless as possible
-
---
-
-
-.pull-left[
-
-```{r echo=FALSE}
-knitr::include_graphics("img/smile_hearts.jpeg")
-
-```
-
-
-
-### You want your marker like this ...
-
-]
-
-.pull-right[
-
-
-```{r echo=FALSE}
-knitr::include_graphics("img/grimace.jpeg")
-
-```
-
-
-### ... not like this
-
-]
-
-
----
-
-
-# Today's workshop is brought to you by the letter "S"... 
-
-.pull-left[
-
-## Part 1: synthesis, structure, support
-
-- how to make your marker smile
-
-
-] 
-
-.pull-right[
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5dRnXZDVhO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-]
-
----
-
-# ... and the number 6
-
-.pull-left[
-
-## Part 2: avoiding the discussion "cliff"
-
-- the six "moves" every discussion should make
-
-
-] 
-
-.pull-right[
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G4OTRRmyTAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-]
-
-
-
-
----
-
-# Perceptual fluency
-
-.pull-left[
-
-> "the subjective feeling of ease or difficulty while processing perceptual information... more fluent processing results in positive assessments of perceptual stimuli"
-
-]
-
---
-
-.pull-right[
-
-
-<iframe src="https://giphy.com/embed/BEvVsk0v0JM6k" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disneypixar-disney-pixar-BEvVsk0v0JM6k">via GIPHY</a></p>
-]
-
----
-
-
-## How can you create a feeling of "ease" for your marker?
-
-
-.left-column[
-
-## 1. synthesis 
-
-## 2. structure 
-
-## 3. support 
-
-]
-
---
-
-.right-column[
-
-Your marker needs you to have done all the hard thinking for them.
-
-Your marker wants your thesis to be so well structured and easy to read that they can skim. 
-
-Your marker doesn't don't know ANYTHING about your project/research area, so they need you to hold their hand. 
-
-]
-
----
-
-
-# Hints that your thesis  might not induce perceptual fluency 
-
-.pull-left[
-
-### Feedback comments like...
-
-- *unclear/vague*
-- *this doesn't flow*
-- *unpack this point*
-- *jargon*
-
-
-] 
- 
-
-.pull-right[
-
-<iframe src="https://giphy.com/embed/1iTpx5PpzRugcrZK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/justin-g-why-1iTpx5PpzRugcrZK">via GIPHY</a></p>
-
-]
-
----
-
-class: inverse, center, middle
-
-# Ready to put your reviewer `r emo::ji("hat")` on?
-
-## 6 questions to ask yourself 
-## about your writing
-
----
-
-template: wall
-class: center, middle
-
-# 1. Are you trying too hard to sound smart?
-
-
-Oppenheimer, D. M. (2006). Consequences of erudite vernacular utilized irrespective of necessity: Problems with using long words needlessly. *Applied Cognitive Psychology, 20*, 139-156. [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.1178?casa_token=Gc-DvTJmzA4AAAAA%3AhcIJ3YoIM53MX6xvskjs2C47MiKJQL6pkzspXJm3rleu6kUyjptX0sdbvFxO8Me4V6Fygf5rt1EEX_u2)
-
----
-
-```{r echo=FALSE}
-knitr::include_graphics("abstract.png")
-```
-
-
-
----
-
-# tips for sounding smart without trying
-
-.pull-left[
-
-- write for your mum 
-  + someone who is smart and interested but is not at all familiar with the topic
-- choose simple words
-  + 3 syllables max
-- use short/simple sentences 
-  + 25 words max
-- use concrete examples
-- avoid jargon and acronyms [see why here](https://www.psychologicalscience.org/observer/alienating-the-audience-how-abbreviations-hamper-scientific-communication)
-- edit out the "fuzz"
-
-]
-
-.pull-right[
-
-```{r echo=FALSE, out.width="100%"}
-knitr::include_graphics("img/edit.png")
-```
-
-]
-
----
-
-# Eliminate the fuzz
-
-*"All writers (will have to) edit their prose, but (the) great writers edit (it) viciously, always trying to eliminate (words which are) ‘fuzz’ – (excess) words (which are not adding anything of value). Zinsser compares (the process of editing out) ‘fuzz’ to fighting weeds – you will always be slightly behind (because they creep in when you aren't looking for them). Scan (through) your text (and look) for opportunities to (get rid of) words - (places) where two words (can become one), or three words (can become) two… (or where you can get rid of some words altogether?)"*
-
-
-
----
-
-.pull-left[
-
-*"All writers edit their prose, but great writers edit viciously. The point of editing is to eliminate ‘fuzz’, or excess words which don't add value. Zinsser compares removing ‘fuzz’ to fighting weeds – you will always be slightly behind. Scan your text for opportunities to shed words - where can two words become one? or three words two?"*
-
-example from [Zinsser On Writing Well](https://www.amazon.com.au/Writing-Well-William-Zinsser/dp/0060891548)
-
-]
-
-.pull-right[
-
-```{r echo=FALSE, out.width = "75%"}
-knitr::include_graphics("img/darlings.jpeg")
-```
-
-]
-
----
-
-template: wall
-class: center, middle
-
-# 2. Do you write "zombie" prose? 
-
-Billing, M. (2011). Writing social psychology: Fictional things and unpopulated texts. *British Journal of Social Psychology, 50*, 4-20.  [link](https://bpspsychub-onlinelibrary-wiley-com.wwwproxy1.library.unsw.edu.au/doi/full/10.1111/j.2044-8309.2010.02003.x)
-
-
----
-
-# Zombie prose is full of ...
-
-.pull-left[
-
-- nominalisations or things (i.e.nouns) created from action (i.e. verbs) 
-    + assumption ~ to assume
-    + anonymity ~ to anonymise
-    + criticism ~ to criticise
-    + argument ~ to argue
-    
-] 
-
-.pull-right[
-
-[Helen Sword zombie nouns](https://www.youtube.com/watch?v=dNlkHtMgcPQ) 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dNlkHtMgcPQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-] 
-
-
----
-
-# Zombie prose is full of ... 
-
-.pull-left[
-
-- passive voice 
-
-
-- The dog chased the man 
-    + active: subject, verb, object
-- The man was chased *BY* the dog
-    + passive: object, verb, subject
-
-
-
-] 
-
-  
-.pull-right[
-
-[Steven Pinker passive voice](https://www.youtube.com/watch?v=sS-Txm3R3v8)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sS-Txm3R3v8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-] 
-
----
-
-
-# Dealing w zombie nouns and passive voice
-
-- comb your writing looking for 
-  + "by" "of"
-  + "-tion" "-ment" "-ism" -"ity"
-    + Participants completed the *assessment by* undergoing... (passive)
-- use the zombie test 
-  + The theory was tested ... *by zombies* (passive)
+### These slides are available at...
 
 <br>
 
-- solution: put the people doing the action back into the sentence 
-  + We assessed participants using the ....
-  + Researchers tested this theory...
-  
----
-
-# Test for passive voice with the zombie test
-
-*Participants were recruited for a study entitled ‘Being Australian’ and completed the questionnaire in supervised groups of 10–12, and were compensated for their time with course credit. They were informed verbally and in writing that their anonymity was protected. Completed questionnaires were placed in an opaque drop box, and participants were debriefed and given the opportunity to request a summary of the results of the study (Barlow, Louis, & Hewstone, 2009, p. 394)*
-
-credit [Billings (2011) "Writing social psychology: Fictional things and unpopulated texts](https://bpspsychub-onlinelibrary-wiley-com.wwwproxy1.library.unsw.edu.au/doi/full/10.1111/j.2044-8309.2010.02003.x)
----
-
-*Participants were recruited **by zombies** for a study entitled ‘Being Australian’ and completed the questionnaire in supervised groups of 10–12, and were compensated **by zombies** for their time with course credit. They were informed verbally and in writing that their anonymity was protected **by zombies**. Completed questionnaires were placed in an opaque drop box **by zombies**, and participants were debriefed **by zombies** and given the opportunity to request a summary of the results of the study (Barlow, Louis, & Hewstone, 2009, p. 394)*
-
-credit [Billings (2011) "Writing social psychology: Fictional things and unpopulated texts](https://bpspsychub-onlinelibrary-wiley-com.wwwproxy1.library.unsw.edu.au/doi/full/10.1111/j.2044-8309.2010.02003.x)
-
-
----
-
-# DISCLAIMER 
-
-.pull-left[
-
-- passive voice and zombie nouns are not always bad (particularly in your method) 
-
-- but they can make your writing unwieldy and harder for a  naive reader (aka your marker) to digest 
-
-]
-
-.pull-right[
-
-<iframe src="https://giphy.com/embed/N2quVSSRLwjN6" width="480" height="342" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/horror-zombie-zombies-N2quVSSRLwjN6">via GIPHY</a></p>
-
-]
-
----
-
-### Another example from [Billing](https://bpspsychub-onlinelibrary-wiley-com.wwwproxy1.library.unsw.edu.au/doi/full/10.1111/j.2044-8309.2010.02003.x)
-
-"Whereas intergroup anxiety is by now an establish mediator of intergroup contact and cross-group friendship, the present study also sought to explore cognitions of rejection as a cognitive mediator predicted by cross-group friendship, and predictive of intergroup anxiety, as well as a range of attitudes toward the outgroup"
-
---
-
-"Specifically, we propose that people with cross-group friends cease to expect outgroup members to reject their attempts at contact ad friendship (Barlow et al, 2009, p391)"
-
-
-- ummmm.... why didn't you just say that 
-- Specifically, In other words, That is ... just use the simpler version
+[www.jennyslides.netlify.app/polish-hd/](https://jennyslides.netlify.app/polish-hd/)
 
 
 
----
+## about me
 
-## Practice zombie example 1
-
-It is *measured by* placing EMG electrodes on the facial muscles of interest and measuring the electrical impulses *produced by* the muscles as they respond to emotion evoking stimuli. 
-
-(29 words)
-
---
-
-Researchers measure mimicry using facial EMG electrodes that detect the electrical impulses generated when participants view emotional stimuli. 
-
-(`r emo::ji("down")` 18 words)
-
-
----
-
-## Practice zombie example 2
-
-A positive attitude towards the expressor may foster emotional mimicry and increase the *interpretation of* the emotional expressions as friendly. 
-
-(20 words)
-
-
---
-
-People who like each other are more likely to mimic and judge emotional expressions to be friendly. 
-
-(`r emo::ji("down")` 17 words)
-
-
----
-
-## Practice zombie example 3
-
-Empathy facilitates the *formation of* strong social relationships *by* motivating helping behaviour. 
-
-(12 words)
-
---
-
-Empathy helps people build strong social relationships because it motivates them to help each other. 
-
-(`r emo::ji("up")` 15 words)
+![](unsw.jpg){fig-align="center"}
 
 ---
 
 
-## Still not sure about passive voice/nominalisations??
+![](threeservices.jpg){fig-align="center"}
 
-Read [this paper](https://bpspsychub-onlinelibrary-wiley-com.wwwproxy1.library.unsw.edu.au/doi/full/10.1111/j.2044-8309.2010.02003.x) by Billing (2011) - it is good and not just for social psychologists 
+<br>
 
-(I find that cognitive theses are the worst for this `r emo::ji("shrug")` `r emo::ji("smile")`)
-
----
-
-template: wall
-class: center, middle
-
-# 3. Are your topic sentences 
-# doing their job?
+[Book a discovery call](https://calendly.com/jennyrichmond/30min)
 
 
----
-
-# what is the job of a topic sentence?
-
-The first sentence of every paragraph should give away the take home message.
-
-It should be a general statement summarising a particular part of the literature. 
-  + It should describe what has been found ACROSS studies. 
-  + It is usually NOT about a specific study
-  + It should do more than just tell the reader that some research has been done. 
-
----
-
-# example 1a - too specific
-
-***A study conducted by Phillips and colleagues (2015) found that participants aged 65-86 performed significantly worse than younger groups on tasks assessing comprehension of sarcastic exchanges.*** Interestingly, there was no effect of age on the understanding of sincere exchanges (Phillips et al, 2015). Further, a meta-analysis across 23 theory of mind (TOM) studies showed that older adults performed worse on TOM tasks compared to younger groups (Henry, Phillips, Ruffman, & Bailey, 2013).
-
---
-
-#### Problems
-- "by" = passive
-- emphasis on the study and who did it, rather than what they did and what they found 
-
----
-
-# example 1b - too general
-
-***Much research has investigated social cognition in older people.*** For example, Phillips and colleagues (2015) found that while participants aged 65-86 had no problem understanding sincere exchanges, they found it more difficult  to understand sarcastic exchanges than did young adults (Phillips et al, 2015). This result is consistent with a recent meta-analysis of theory of mind studies, which showed that older adults performed worse on TOM tasks compared to younger groups (Henry, Phillips, Ruffman, & Bailey, 2013). 
-
---
-
-#### Problems
-- doesn't say more than "research in X area has been done"
 
 
----
-
-# example 1c - just right
-
-***As we age, our ability to understand how other people are feeling and what other people are thinking declines.*** For example, Phillips and colleagues (2015) found that while participants aged 65-86 had no problem understanding sincere exchanges, they found it more difficult  to understand sarcastic exchanges than did young adults (Phillips et al, 2015). This result is consistent with a recent meta-analysis of theory of mind studies, which showed that older adults performed worse on TOM tasks compared to younger groups (Henry, Phillips, Ruffman, & Bailey, 2013). 
-
-#### Strengths 
-- general statement about a *pattern* of findings 
-- sets the reader up to expect findings in a particular direction
-
----
-class: center, middle
-
-# Test your topic sentences 
-
-Paste all the topic sentences in your intro into a paragraph.  
-It should read like a summary of your argument/rationale. 
+# how to polish your thesis (and get an HD)
 
 
----
 
-### Oppenheimer I
+## It is important to remember that your marker is... 
+
+-   is smart and likes psychology
+-   is NOT an expert in your field
+-   has a large pile of theses on their desk
+-   needs to mark and write a report for each thesis
+-   only has a couple of weeks to finish the marking
+-   has a lot of other things on their plate
+-   is just a person
+
+## Your goal is to make their job as painless as possible
+
+![](ECR_marker.jpg)
+
+------------------------------------------------------------------------
+
+## You can polish your writing using these 6 tests
+
+1.  The trying-to-sound-smart test
+2.  The 25-word test
+3.  The zombie test
+4.  The "this" test
+5.  The first-sentence test
+6.  The what-not-who test
+
+# Ready to put your reviewer 🎩 on?
+
+# 1. The trying-to-sound-smart test
+
+------------------------------------------------------------------------
+
+## The trying-to-sound-smart test
+
+::: panel-tabset
+## Problem
+
+![](abstract.png){width="800"}
+
+## Test
+
+Pick a page of your intro, read it aloud and circle all the words that are MORE than 3 syllables long.
+
+<br>
+
+Then start at the top and highlight any jargon words that your mum wouldn't understand.
+
+<br>
+
+How many long/jargony words are on your page?
+
+## Solution
+
+Replace the long words short concrete alternatives.
+
+<br>
+
+Ask yourself whether the jargon is really necessary.
+
+<br>
+
+If it is, make sure its REALLY well defined.
+:::
+
+
+# 2. The 25-word test
+
+## The 25-word test
+
+::: panel-tabset
+## Problem
+
+```{=html}
+<div style="width:320px; margin:0 auto;">
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/reel/DKkEUS6vaeE/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:320px; min-width:250px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/reel/DKkEUS6vaeE/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/reel/DKkEUS6vaeE/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Julie Artz (@julieartz)</a></p></div></blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
+</div>
+```
+
+## Test
+
+1 : 5 : 25 rule.
+Pick a page of your intro and count the words in each sentence.
+
+<br>
+
+How long is your longest sentence?
+
+<br>
+
+How many sentences do you have that are more than 25 words long?
+
+## Solution
+
+Edit out the "fuzz".
+How many words can you delete from the long sentences and have them still make sense?
+
+<br>
+
+If your sentences are still too long (or contain multiple phrases), put in a full stop and split the sentence into two.
+:::
+
+
+# 3. The zombie test
+
+## The zombie test
+
+::: panel-tabset
+## Problem
+
+Passive voice and nominalisations
+
+<iframe width="760" height="500" src="https://www.youtube.com/embed/dNlkHtMgcPQ?si=qVr8371QYfIREhw2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+## Test I
+
+Pick a page of your intro, search (Ctrl-F) for and highlight the following passive voice red flags.
+
+-   by
+    -   *Informed consent was obtained by the research assistant*
+-   was & were
+    -   *A significant relationship was found...*
+    -   *Participants were recruited...*
+
+## Test II
+
+Now search (Ctrl-F) for these suffixes to find nominalisations.
+
+-   -tion, -ment, -ity
+    -   *The implementation of the intervention involved the measurement of participant engagement throughout the duration of the investigation.*
+
+## Solution I
+
+Put a person doing the action back into each passive sentence.
+
+-   *The research assistant obtained informed consent*
+-   *The results showed that participants who had high scores on X measure also had high scores on Y measure*.
+-   *We recruited participants...*
+
+## Solution II
+
+Turn the nouns you have created back into verbs and include the people doing the action in your sentences. 
+
+
+-   assumption -> to assume
+-   anonymity -> to anonymise
+-   criticism -> to criticise
+-   argument -> to argue
+
+:::
+
+
+
+# 4. The "this" test
+
+## The "this" test
+
+::: panel-tabset
+## Problem
+
+The curse of knowledge means that you know what "this" (or "they" or "these") refers to, but your reader has lost track. 
+
+## Example
+
+Adolescents who spent more time on social media reported lower mood, but teens who used it mainly to message close friends reported higher mood than those who mostly scrolled. Parental monitoring moderated the relationship between screen time and wellbeing. **This** has important implications for how we support young people online, and future research should investigate **this** more closely.
+
+## Test
+
+Put your cursor at the topic of your intro and Ctrl-F "this" (and then "they", "these"). 
+
+<br>
+
+How many did you find?
+
+
+## Solution
+
+Check that it is really clear what "this" refers to. 
+
+<br>
+
+You can help your reader by spelling it out explicitly. 
+
+
+:::
+
+
+# 5. The first-sentence test
+
+## The first-sentence test
+
+::: panel-tabset
+## Problem
+
+Your topic sentences are not doing their job.
+
+## Test
+
+Make a "topic sentence paragraph".
+
+<br>
+
+Copy and paste each of the first sentence of each paragraph into a new document.
+
+<br>
+
+Does it read like a summary of your argument?
+
+## Example I
+
 ```{r echo=FALSE}
 knitr::include_graphics("p1_2.png")
 ```
 
----
+## Example II
 
-### Oppenheimer II
 ```{r echo=FALSE}
 knitr::include_graphics("p3-4.png")
 ```
 
----
+------------------------------------------------------------------------
 
-# all together now...oppenheimer (2005)
+## Solution
 
-*When it comes to writing, most experts agree that clarity, simplicity and parsimony are ideals that authors should strive for. However, most of us can likely recall having read papers, either by colleagues or students, in which the author appears to be deliberately using overly complex words. There are many plausible reasons that the use of million-dollar words would lead readers to believe that an author is smart. Indeed, there is some evidence that complex vocabulary can be indicative of a more intelligent author.* 
+Find the "weak link" topic sentences and look carefully at that paragraph.
 
----
+Rewrite the topic sentence, making sure it gives away
 
+-   always... the main point of the paragraph
+-   sometimes... how that idea relates to what came before
+:::
 
-template: wall
-class: center, middle
+# 6. The what-not-who test
 
-# 4. Do your paragraphs function as units of argument?
+## The what-not-who test
 
+::: panel-tabset
+## Problem
 
----
+There is too much emphasis on "who" did the research and not enough detail about "what" they did (as well as what they found)
 
-# A good paragraph should...
+## Example
 
-- cover only ONE idea
-- start with a topic sentence
-- all other sentences should be
-  + explanation
-  + examples
-  + AND/OR evidence to back up the topic sentence
-- use the 1:5:25 rule
-  + 1 idea, ~ 5 sentences, no more than 25 words/sentence
-  
+So & So (2025) found that weather impacted mood in high school students.
 
----
+vs.
 
-```{r echo=FALSE}
-knitr::include_graphics("p1_2_p.png")
-```
+High schoolers surveyed on rainy days had lower scores on the DASS than high schoolers surveyed on sunny days (So & So, 2025).
 
----
-```{r echo=FALSE}
-knitr::include_graphics("p3-4_p.png")
-```
+## Test
 
----
-
-template: wall
-class: center, middle
-
-# 5. Are you holding your ~~reader's~~ marker's hand? 
-
-
----
-
-# Your job as the ~~writer~~ student is to make it easy for your ~~reader~~ marker. 
-
-- make the intro "moves" that your reader expects
-    + what is the problem/question, why is it important
-    + what do we know about the problem/question
-    + what do we NOT know about the problem/question
-    + how does your project fill that gap in what we don't know
-- write a funnel, not a "curvy lady"
-
-
----
-
-
-# Your job as the ~~writer~~ student is to make it easy for your ~~reader~~ marker. 
-
-  + strong topic sentences + predictable paragraph structure
-  + make the links between ideas really explicit
-  + use signposting
-  + avoid vagueness and potential for confusion 
-    + the undefined "this"
-    + [see the Thesis Whisperer re vagueness](https://thesiswhisperer.com/2017/06/28/8346/)
-
-  
----
-
-template: wall
-class: center, middle
-
-# 6. Does your writing synthesise or simply describe?
-
-Gernsbacher, M. A. (2018). Writing empirical articles: Transparency, reproducibility, clarity, and memorability. *Advances in methods and practices in psychological science, 1(3)*, 403-414.
-
----
-
-# Some theses read like a list of study descriptions
-
-*So & So (2014) did a study that involved X and found that Y. In addition, Joe & Co (2016) have found that A relates to B. Also, Big Dude and colleagues (2019) ran a study showing that manipulating X results in changes in B.*
-
---
-
-Your marker is REALLY tired, they don't want to have to think hard. 
-You can help them by doing the hard thinking for them.  
-
-`r emo::ji("star")` SYNTHESIS `r emo::ji("star")`
-
----
-
-.pull-left[
-
-## What is synthesis?
-
-- extracting the patterns in the literature
-- highlighting similarities/differences across studies
-- unpacking HOW a study supports an argument, rather than just stating it does
-- writing as if you are the expert with an opinion
-  + [see Thesis Whisperer blog re opinionated verbs](https://thesiswhisperer.com/2017/09/27/academic-writing-is-a-painful-upper-middle-class-dinner-party/)
-  
-]
-
-
-.pull-right[
-
-```{r echo=FALSE}
-knitr::include_graphics("img/verbs.png")
-```
-
-
-]
-
----
-
-
-
-<iframe src="https://player.vimeo.com/video/223781358?h=ed17666f50" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/223781358">How To Synthesize Psychological Science</a> from <a href="https://vimeo.com/user1099047">Morton Ann Gernsbacher</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
----
-
-# More tips available...
+Pick a page of your intro and find all the sentences that start with a Name(Date) citation. 
 
 <br>
 
-## [Jenny's (very opinionated) tips for academic writing google doc](https://docs.google.com/document/d/12G8KVqo4KV51Rdn4qY6QCO9Pi31D-aKr-2pHKlZzZws/edit)
+How many of those are missing any mention of method?
 
----
+## Solution
 
-
-template: wall 
-class: center, middle
-
-# BREAK - 10 min timer go
-
-<iframe src="https://giphy.com/embed/qESFbPpn6qPNo5yCQs" width="480" height="432" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/weareeverise-relax-wellness-take-a-break-qESFbPpn6qPNo5yCQs">via GIPHY</a></p>
-
-
----
-
-
-# Questions before we move to Part 2 ...
-
-<iframe src="https://giphy.com/embed/X8GcOQJJxRphFRr3kC" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/schittscreek-schitts-creek-pop-tv-X8GcOQJJxRphFRr3kC">via GIPHY</a></p>
-
-
----
-
-
-
-template: wall 
-class: center, middle
-
-# why discussion is writing hard 
-
-.pull-left[ 
-
-```{r echo=FALSE, out.width= "250px"}
-knitr::include_graphics("procrastination2.gif")
-```
-
-]
-
-.pull-right[
+Your marker cannot see the CRITICAL ANALYSIS you are doing, if you don't write about method.
 
 <br>
-<br>
-<br>
 
-## the task feels too big... you don't know where to start
+As you get down your funnel, check that for every study you write about, you are talking about what participants were asked to do AS WELL AS what they study found.
+:::
 
-]
+------------------------------------------------------------------------
 
+## Where does your writing fall down? 
 
 
----
+1.  The trying-to-sound-smart test
+2.  The 25-word test
+3.  The zombie test
+4.  The "this" test
+5.  The first-sentence test
+6.  The what-not-who test
 
-class: center
 
-### Like introductions, general discussions are pretty formulaic. Your marker will smile if you make the "moves" that they expect
 
-<iframe src="https://giphy.com/embed/3o7qDQ4kcSD1PLM3BK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nickatnite-dance-friends-chandler-3o7qDQ4kcSD1PLM3BK">via GIPHY</a></p>
+**WARNING: the closer you are to your writing, the harder it is to see where it is not working**
 
----
+------------------------------------------------------------------------
 
+::::: columns
+::: {.column width="40%"}
+### Writing Review
 
-.pull-left[
+- audio feedback
+  - thesis chapters
+  - assignment drafts
+  - personal statements/resumes
+- fast turnaround
+- $100 / 1000 words
+- [FAQs](https://docs.google.com/document/d/1RqOGPRnjNd3VqWx0reccfgHQZ80FkAjB3M27nwIh2zk/edit?tab=t.0#heading=h.fqsxo8ahm6vg)
 
-### The 4 intro moves 
+[Book your slot](https://www.revealresearch.org/store/p/writing-review)
+:::
 
-1. what is the problem? why is it important?
-2. what do we know about it?
-3. what don't we know about it?
-4. how does this project fill that GAP?
+::: {.column width="60%"}
+![](writing review.jpg){fig-align="right" width="500"}
+:::
+:::::
 
-]
 
-.pull-right[
+## Join me!
 
-<iframe src="https://giphy.com/embed/H0XBpCYcUjFcc" width="480" height="397" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dance-macarena-H0XBpCYcUjFcc">via GIPHY</a></p>
-]
+::: panel-tabset
 
+# General Discussion
+- Sept 11 & Sept 25
+- 2 hours $49
+- bring your results, leave with your GD outline
 
----
 
+# Data viz
+- Sept 18 & Oct 4
+- 2 hours $49
+- bring your data, leave with plots that will make your thesis stand out 
 
-.pull-left[
 
-### The 6 discussion moves
+# Messy Middle
+- Oct 9
+- 2 hours $49
+- bring your project mess, leave with a system that prevents last minute chaos
 
+::: 
 
-1. what do we now know about that problem?
-<br>
-2. how does that relate to what we knew before?
-<br>
-3. what can we say about theory/real world that we couldn't before?
-<br>
-4. what problems/limitations do we need to acknowledge?
-<br>
-5. what do we still not know... what are the next steps?
-<br>
-6. what is the take home message?
+[Save your seat](https://www.revealresearch.org/events)
 
-]
 
---
-
-.pull-right[
-
-<iframe src="https://giphy.com/embed/AEzIGP3TQcPKHnABfP" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fallontonight-jimmy-fallon-tonight-show-macarena-AEzIGP3TQcPKHnABfP">via GIPHY</a></p>
-
-]
----
-
-
-class: inverse
-
-# Move 1.  what do we NOW know about that problem? 
-
-.pull-left[
-
-Pick the 3 most important (yes only 3) findings from your thesis. 
-
-[how to spider diagram](https://sites.google.com/site/twblacklinemasters/using-a-spider-diagram-to-make-research-questions?authuser=0)
-
-]
-
-.pull-right[
-
-
-```{r echo=FALSE, out.width="75%"}
-knitr::include_graphics("img/spider1.png")
-```
-
-]
-
-
----
-
-class: inverse
-
-
-# Move 2. how does that relate to what we knew before?
-
-## How does each finding relate to your hypotheses/past literature?
-
-.pull-left[
-
-Consistent? 
-- great! unpack **HOW** your findings advance the field
-
-]
-
-.pull-right[
-Not consistent? 
-- great! go back to the literature and explain **WHY** 
-
-]
-
----
-
-
-class:  center, middle
-
-# What do I do if all my effects are not significant?
-
-explain why you think that happened
-
-
----
-
-class: inverse, center
-
-# Move 3. what can we say about theory and/or real world that we couldn't before?
-
-
-
----
-
-class: inverse, center
-
-# Move 4. what problems/limitations do we need to acknowledge?
-
---
+## Questions... 
 
 <br>
 
-# Move 5. what do we still not know... what are the next steps? 
+<iframe src="https://giphy.com/embed/5XRB3Ay93FZw4" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/5XRB3Ay93FZw4">via GIPHY</a></p>
+
+
+These slides are available at...
+
+[www.jennyslides.netlify.app/polish-hd/](https://jennyslides.netlify.app/polish-hdss/)
 
 
 ---
 
-class: inverse, center
-
-
-# Move 6. what is the take home message?
-
+<iframe src="https://giphy.com/embed/BYoRqTmcgzHcL9TCy1" width="475" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thank-you-thanks-thumbs-up-BYoRqTmcgzHcL9TCy1">via GIPHY</a></p>
 
 
 ---
-
-# More questions  ...
-
-<iframe src="https://giphy.com/embed/64afibPa7ySzhFAf00" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/schittscreek-64afibPa7ySzhFAf00">via GIPHY</a></p>
-
-
----
-
-### Reminder
-
-### Please complete the Student Experience Survey (its important!)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-gueKgMnIcY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-
-### Other examples of 6 writing rules
-
-[George Orwell](https://www.mhpbooks.com/6-writing-rules-from-george-orwell/)
-
-1. Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.
-2. Never use a long word where a short one will do.
-3. If it is possible to cut a word out, always cut it out.
-4. Never use the passive where you can use the active.
-5. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
-6. Break any of these rules sooner than say anything outright barbarous.
-
-
----
-
-
-
-
-
-
 
