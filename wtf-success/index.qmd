@@ -1,5 +1,6 @@
 ---
-title: "how to set yourself up for research success"
+title: "what they forgot to teach you about ..."
+subtitle: "... setting yourself up for research success"
 author: Jenny Richmond Ph.D
 format:
   revealjs:
@@ -17,7 +18,7 @@ format:
 
 <br>
 
-[www.jennyslides.netlify.app/setup-success/](https://jennyslides.netlify.app/setup-success/)
+[www.jennyslides.netlify.app/wtf-success/](https://jennyslides.netlify.app/wtf-success/)
 
 
 
@@ -78,18 +79,19 @@ format:
 
 ---
 
-## the overwhelm toolkit
+## starting a research project is hard because... 
 <br>
 
-- Problem 1: there is too much to keep track of
-- Problem 2: there is too much to read
-- Problem 3: there is too much interpersonal uncertainty
+1. there is too much to keep track of
+2. the process is long, but short at the same time
+2. there is too much to read 
+3. the interpersonal stuff is weird
 
 
-> You will leave today with three tools that will save you time, reduce overwhelm, and reclaim headspace for the important stuff
+> You will leave today with a toolkit that will save you time, reduce overwhelm, and reclaim headspace for the important stuff
 
 
-# problem 1. there is too much to keep track of
+# there is too much to keep track of
 
 ------------------------------------------------------------------------
 
@@ -162,9 +164,13 @@ Digital
 > IMPORTANT: make it a habit, write something in your everything notebook every day.
 
 
+# the process is both long and short
+
+## starting with the end in mind
 
 
-# problem 2. there is too much to read
+
+# there is too much to read
 
 
 ## keep track of what you read
@@ -214,7 +220,7 @@ Take notes in a spreadsheet, set up columns to help you see patterns.
 :::::
 
 
-# problem 3. there is too much interpersonal uncertainty
+# the interpersonal stuff is weird 
 
 
 ## managing your research supervisor
