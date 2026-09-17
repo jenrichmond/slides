@@ -66,7 +66,6 @@ format:
 ---
 
 ## starting a research project is hard because... 
-<br>
 
 1. there is too much to keep track of
 2. the process is long, but short at the same time
@@ -157,11 +156,10 @@ Digital
 ::::: columns
 ::: {.column width="40%"}
 
-Research projects are long (more than 1 year). 
+Research projects are long
 
-<br>
-
-Sometimes they are broken into super intense prescriptive sections (like GDPA), sometimes you have more autonomy (like Masters. 
+- sometimes they are broken into super intense prescriptive sections (like GDPA)
+- sometimes you have more autonomy (like Masters/PhD). 
 
 
 :::
@@ -175,7 +173,6 @@ Sometimes they are broken into super intense prescriptive sections (like GDPA), 
 
 :::::
 
-<br>
 
 Either way, the intensity is a bit like riding a rollercoaster
 
