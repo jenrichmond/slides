@@ -35,4 +35,6 @@ This repo hosts my slides made with the xaringan package (and quarto).
 
 [wtf-data-management](https://jennyslides.netlify.app/wtf-data/#/title-slide)
 
+[polish-HD](https://jennyslides.netlify.app/polish-hd/#/title-slide)
+
 [wtf-research-success](https://jennyslides.netlify.app/wtf-success/#/title-slide)
