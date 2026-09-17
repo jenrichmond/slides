@@ -1,6 +1,6 @@
 ---
-title: "what they forgot to teach you about ..."
-subtitle: "... setting yourself up for research success"
+title: "what they forgot to teach you"
+subtitle: "about setting yourself up for research success"
 author: Jenny Richmond Ph.D
 format:
   revealjs:
@@ -18,26 +18,10 @@ format:
 
 <br>
 
-[www.jennyslides.netlify.app/wtf-success/](https://jennyslides.netlify.app/wtf-success/)
+<https://jennyslides.netlify.app/wtf-success/>
 
 
 
-
----
-
-### how are you feeling about your research project?
-
-![](emotions.png){fig-align="center"}
-
-------------------------------------------------------------------------
-
-### how do you WANT to feel about your research project?
-
-![](emotions.png){fig-align="center"}
-
-------------------------------------------------------------------------
-
-![Photo by <a href="https://unsplash.com/@brett_jordan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Brett Jordan</a> on <a href="https://unsplash.com/photos/brown-wooden-dice-on-white-surface-ulqQgJRGVNc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](gap.jpg)
 
 ## about me
 
@@ -61,7 +45,9 @@ format:
     -   research coach
 :::
 
-## my mission
+## revealing the hidden curriculum of research training 
+
+
 
 <br>
 
@@ -75,7 +61,7 @@ format:
 <br>
 
 
-<https://calendly.com/jennyrichmond/30min>
+<https://calendly.com/revealresearchcoach/30min>
 
 ---
 
@@ -166,7 +152,42 @@ Digital
 
 # the process is both long and short
 
-## starting with the end in mind
+## Research is a Rollercoaster
+
+::::: columns
+::: {.column width="40%"}
+
+Research projects are long (more than 1 year). 
+
+<br>
+
+Sometimes they are broken into super intense prescriptive sections (like GDPA), sometimes you have more autonomy (like Masters. 
+
+
+:::
+
+
+::: {.column width="60%"}
+
+![](rollercoaster.png)
+
+:::
+
+:::::
+
+<br>
+
+Either way, the intensity is a bit like riding a rollercoaster
+
+## Planning with the end in mind
+
+<br>
+
+You need to play the long game so that you are not surprised by the intense periods. 
+
+<br>
+
+This [Research Timeline](https://docs.google.com/spreadsheets/d/1dRQhwQ1J_F-kcXUKJ7mP8f_Eww8jz9lwx-2AdrPZdyA/edit?gid=0#gid=0) template can help you see the big picture and plan with the end in mind. 
 
 
 
@@ -201,6 +222,7 @@ Other options Mendeley (also free), Endnote (institution licence)
 -   How do I get my head around the literature?
 -   How do I find the "gap" in the literature?
 -   How do I know if I have read enough?
+-   How can I read in a way that helps me synthesise?
 -   What is the best way to keep notes about what I read?
 
 ------------------------------------------------------------------------
@@ -250,9 +272,9 @@ Start a curious conversation:
 :::
 :::::
 
-## curious conversation prep
+## make sure you go in prepared 
 
-You need to think about
+In advance of the meeting, have a think about...
 
 -   how do you work best when collaborating with others?
 -   how do you typically react to feedback in other contexts?
@@ -318,16 +340,14 @@ You need to think about
 
 ------------------------------------------------------------------------
 
-## remember...
 
-> Supervisors are just people; brilliant and busy people. They want to see you succeed but their attention is drawn in many directions. A slow response shouldn't be taken personally. It is ok to followup if you haven't had a reply within 48 hours. Raise issues early and respectfully. Most importantly, make it easy for your supervisor to help you.
-
-------------------------------------------------------------------------
 
 ## the overwhelm toolkit
 
 
 - the Everything Notebook
+
+- the Plan with the End in Mind template
 
 - the Reading Matrix
 
@@ -396,6 +416,25 @@ Extra pie pieces...
 
 ---
 
+## thanks for coming!
+
+
+- Join me for small group coaching sessions...
+
+    - Sept 25 Keep calm and write your general discussion
+    - Oct 2 Plotting for survey research
+    - Oct 9 The Messy Middle
+    
+<br>
+
+
+- Interested in coaching or writing review? 
+
+    - Book a [free discovery call](https://calendly.com/revealresearchcoach/30min)
+    
+---
+
+
 ## questions... ask me anything
 
 <br>
@@ -406,29 +445,14 @@ These slides are available at...
 
 <br>
 
-[www.jennyslides.netlify.app/wtf-tools/](https://jennyslides.netlify.app/wtf-tools/)
-
-
----
+<https://jennyslides.netlify.app/wtf-success/>
 
 
 
-## thanks for coming!
 
-- Send me picture of your Everything Notebook!!
 
-**revealresearchcoach@gmail.com**
 
-- Join us for workshops in coming weeks...
 
-    - May 29 Make the moves your marker expects
-    - June 12 (TBD)
-        - Data Management for Beginners OR
-        - How to Stop Dreading Your Discussion
-
-- Interested in coaching or writing review? 
-
-    - Book a [free discovery call](https://calendly.com/jennyrichmond/30min)
 
 
 
