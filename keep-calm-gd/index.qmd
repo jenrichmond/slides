@@ -1,5 +1,6 @@
 ---
 title: "Keep Calm and Write Your General Discussion"
+subtitle: "small group coaching session"
 author: Jenny Richmond Ph.D
 format:
   revealjs:
@@ -105,12 +106,10 @@ adapted from John Swale [CARS (creating a research space) model](https://owl.pur
 
 # plan for today
 
-1.  mini-masterclass
 
 -   work through each of the 6 moves, do a practical exercise for each
 -   generate an outline for YOUR general discussion
-
-2.  ask any questions you have about discussion writing (or anything else research related)
+-   ask any questions you have about discussion writing (or anything else research related)
 
 # Move 1. what do we know about that problem now?
 
@@ -144,10 +143,18 @@ Less is more here. If your results are the trees of your thesis, the discussion 
 ## what did you find?
 
 ::: panel-tabset
-## exercise 1a
+## exercise 1
 
 -   Pick the 3 most important findings (yes only 3).
--   Make a [spider diagram](https://sites.google.com/site/twblacklinemasters/using-a-spider-diagram-to-make-research-questions?authuser=0).
+-   Make a [spider diagram](https://sites.google.com/site/twblacklinemasters/using-a-spider-diagram-to-make-research-questions?authuser=0). 
+
+## later...
+
+-   Use phrases from the [Manchester Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/discussing-findings/) to write a short paragraph that *restates* your findings
+
+## phrases
+
+![](restate.png)
 
 
 :::
@@ -158,27 +165,7 @@ Less is more here. If your results are the trees of your thesis, the discussion 
 
 ![](spider1.JPG){width="1500"}
 
-------------------------------------------------------------------------
 
-## what did you find?
-
-::: panel-tabset
-## exercise 1b
-
--   Play with phrases from the [Manchester Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/discussing-findings/)
--   write a short paragrpah that *restates* your findings
-
-## phrases
-
-![](restate.png)
-
-:::
-
----
-
-## example
-
-The current study found that having children talk in detail about a past event improved their performance on the behavioural future thinking task. Children in the induction group were more likely to choose accurately for the future than were children in the control group. In contrast, the induction did not impact children's ability to talk specifically about a possible future event. There was no difference in the performance of children in the induction and control group on the narrative future thinking task. Of interest, among children who failed the behavioural future thinking task, only 30% did so due to memory failure, suggesting that other processes may contribute to task performance.
 
 
 # Move 2. How does that relate to what we knew before?
@@ -230,14 +217,14 @@ Maybe the effect is real, I just wasn't able to detect it...
 ... aka my study didn't work because (in retrospect) it sucked.
 
 ::: callout-warning
-These explanations apply to all research theses written in the world ever. Make sure to explain EXACTLY HOW that problem resulted in the PATTERN of data you got.
+These explanations apply to all research theses written in the world ever. If you are going to use them, make sure to explain EXACTLY HOW that problem resulted in the PATTERN of data you got.
 :::
 
 ------------------------------------------------------------------------
 
 ## Why did my study not "work"?
 
-Maybe other researchers have missed something? Perhaps...
+Maybe my results represent the truth and other researchers have missed something? Perhaps...
 
 -   this psychological construct doesn't work like everyone says it does
 -   this task doesn't measure what everyone says it does
@@ -249,55 +236,37 @@ Maybe other researchers have missed something? Perhaps...
 
 ## Why did my study not "work"?
 
-You need to go back to the literature (or sometimes back to your data) and find an explanation
+You need to go back to the literature (or sometimes dig deeper into your data) and find an explanation
 
 ::: callout-important
 ## important
 
 This is where HD theses stand out from D theses. Your marker is looking for evidence that you can think critically, creatively, and flexibly and that you can communicate clearly, persuasively, and with authority.
 
+You need to point to empirical work or alternative theories from the literature to support your explanations. Your "it is possible that..." explanations need to be grounded in science, not just your gut instinct.
+
 You probably won't have enough information to know whether a given explanation really accounts for your effect and thats ok. Use the uncertainty as an opportunity to make *future research* suggestions. What study should be done to confirm your explanation?
 :::
 
-## Why did my study not "work"?
 
-::: callout-important
-## !!very important!!
-
-You need to point to empirical work or alternative theories from the literature to support your explanations. Your "it is possible that..." explanations need to be grounded in science, not just your gut instinct.
-
-:::
-
-------------------------------------------------------------------------
 
 ## consistent or not?
 
 ::: panel-tabset
-## exercise 2a
+## exercise 2
 
 Take your spider diagram and add more legs.
 
 -   For each finding, add a note relating to your hypotheses (H) and past literature (L).
 -   Highlight consistencies one colour and inconsistencies another colour.
+-   Add extra legs explaining HOW your findings are or aren't consistent (we will get to WHY next)
+
 
 :::
 
 ---
 
-## example
 
-![](spider2.JPG)
-
-------------------------------------------------------------------------
-
-## consistent or not?
-
-::: panel-tabset
-## exercises 2b
-
--   Add extra legs describing HOW your findings are (or aren't consistent)
-
-:::
 
 ## example
 
@@ -306,10 +275,11 @@ Take your spider diagram and add more legs.
 
 ------------------------------------------------------------------------
 
-## but WHY?
+## inconsistent...but WHY?
 
 ::: panel-tabset
-## exercise 2c
+
+## exercise 3
 
 Pick one of your findings and make a new spider diagram.
 
@@ -338,14 +308,16 @@ What are the implications of your findings?
 :::
 
 ::: callout-warning
-Don't exaggerate. It is unlikely that your study will change clinical practice, government policy, or the theoretical direction of the field. Use cautious phrasing (see [Manchester phrasebank](https://www.phrasebank.manchester.ac.uk/using-cautious-language/)). Also you might not have enough information to know whether your findings really do have implications for a particular theory or real world thing... What *future research* would you do to confirm?
+Don't exaggerate. It is unlikely that your study will change clinical practice, government policy, or the theoretical direction of the field. 
+
+Use cautious phrasing (see [Manchester phrasebank](https://www.phrasebank.manchester.ac.uk/using-cautious-language/)). Also you might not have enough information to know whether your findings really do have implications for a particular theory or real world thing... What *future research* would you do to confirm?
 :::
 
 ---
 
 ::: panel-tabset
 
-## exercise 3
+## exercise 4
 
 Start a new spider diagram. Braindump some theory ideas on one side and real world ideas on the other
 
@@ -366,7 +338,7 @@ Start a new spider diagram. Braindump some theory ideas on one side and real wor
 
 ## which limitations?
 
--   You don't need to talk about them all (esp those that apply to everyone).
+-   You don't need to talk about them all (esp those that apply to every honours project ever conducted).
     -   sample size or generalisability
     -   self-report
     -   methodological issues
@@ -380,7 +352,7 @@ Start a new spider diagram. Braindump some theory ideas on one side and real wor
 ## limitations
 
 ::: panel-tabset
-## exercise 4
+## exercise 5
 
 Make a new spider diagram and brain dump all the limitations that apply to your study on the page.
 
@@ -416,7 +388,7 @@ Now your marker is looking for the next step in this **research program**. Imagi
 ## what study would you do next?
 
 ::: panel-tabset
-## exercise 5
+## exercise 6
 
 Make a new spider diagram and label the centre "My PhD Project".
 
@@ -466,9 +438,9 @@ The concluding paragraph should leave the reader with a clear understanding of..
 ## the last bit
 
 ::: panel-tabset
-## exercise 6
+## take home message
 
-Write your conclusion now :)
+Use these sentence starters to write your concluding paragraph. 
 
 -   The purpose of this project was to...
 -   To answer this question, we...
@@ -477,17 +449,6 @@ Write your conclusion now :)
 
 :::
 
-
-
-## example
-
-*The purpose of this project was to* test whether an episodic induction would improve preschoolers ability to imagine the future. *To answer this question, we* tested preschoolers on two episodic future thinking tasks, one that required them to make a decision with the future in mind, and one that required them to talk about a future event. Half of the children completed these tasks after undergoing an episodic induction procedure, in which they were asked to talk in detail about a past event. 
-
----
-
-## example
-
-*The results showed that* chidlren in the induction group performed better than controls on the behavioural task, but not on the narrative task. In addition, contrary to expectations, inhibitory control issues more frequently accounted for failure on the behavioural task than did memory issues. *Overall this research indicates that* during development future thinking capacity is impacted by the development of many cognitive processes in addition to memory. These results have important implications for our understanding of the cognitive episodic simulation hypothesis and the mechanisms underlying future thinking ability across the lifespan.
 
 
 # Lets recap
@@ -539,13 +500,6 @@ Discussion writing resources I recommend...
 
 -   [Discussing findings](https://www.phrasebank.manchester.ac.uk/discussing-findings/)
 
-## Before we do questions... a little metacognition
-
--   What is the most surprising thing you learned today?
--   What is one thing you thought you knew about GD writing that you now see differently?
--   What feels like the hardest part of GD writing for you right now?
--   What is the first thing you will do when you sit down to work on your GD after this session?
--   Which "move" have you been avoiding? What is one small thing you can do to make progress?
 
 
 ## Ask me Anything ...
