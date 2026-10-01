@@ -224,13 +224,20 @@ These explanations apply to all research theses written in the world ever. If yo
 
 ## Why did my study not "work"?
 
-Maybe my results represent the truth and other researchers have missed something? Perhaps you can be brave and argue that...
+Maybe my results represent the truth and other researchers have missed something? Remember that you are the expert. 
+<br>
+Perhaps you can be brave and argue that...
+
+::: {style="font-size: 0.8em;"}
+
 
 -   this psychological construct doesn't work like everyone says it does
 -   this task doesn't measure what everyone says it does
 -   other studies have failed to control for variables that impact performance
 -   research using this task to answer different questions can help explain what we got here
--   the "other" theoretical perspective accounts for my findings better
+-   the "other" theoretical perspective actually accounts for the findings better than the theory we started out using
+
+:::
 
 ------------------------------------------------------------------------
 
