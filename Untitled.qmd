@@ -224,12 +224,12 @@ These explanations apply to all research theses written in the world ever. If yo
 
 ## Why did my study not "work"?
 
-Maybe my results represent the truth and other researchers have missed something? Perhaps you can be brave and argue that...
+Maybe my results represent the truth and other researchers have missed something? Perhaps...
 
 -   this psychological construct doesn't work like everyone says it does
 -   this task doesn't measure what everyone says it does
 -   other studies have failed to control for variables that impact performance
--   research using this task to answer different questions can help explain what we got here
+-   research using this task to answer different questions can help
 -   the "other" theoretical perspective accounts for my findings better
 
 ------------------------------------------------------------------------
@@ -360,8 +360,6 @@ Circle those that are specific to your study and can explain a pattern of findin
 
 Put a square around others that might be worth mentioning.
 
-Put an X through general ones that apply to every honours project ever
-
 :::
 
 
@@ -457,14 +455,7 @@ Use these sentence starters to write your concluding paragraph.
 
 ------------------------------------------------------------------------
 
-## The 6 moves
-
-
-
-::::: columns
-::: {.column width="60%"}
-::: {style="font-size: 0.8em;"}
-
+## The 6 discussion moves
 
 1.  what do we know about that problem now?
 2.  how does that new knowledge relate to what we knew before?
@@ -473,11 +464,7 @@ Use these sentence starters to write your concluding paragraph.
 5.  what do we still not know... what are the next steps?
 6.  what is the take home message?
 
-:::
-:::
-
-
-::: {.column width="40%"}
+## The 6 discussion moves
 
 ::: callout-tip
 -   Moves 1 and 2 will take up MOST of your discussion.
@@ -485,11 +472,6 @@ Use these sentence starters to write your concluding paragraph.
 -   You can make Move 5 within Move 2, 3, and 4, as well as in its own section
 -   Lots of students forget Move 6- don't leave your marker hanging!
 :::
-
-:::
-
-
-:::::
 
 
 
